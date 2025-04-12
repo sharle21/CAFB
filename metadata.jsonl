@@ -1,0 +1,189 @@
+{
+    "dataset_overview": {
+        "total_files": 1521,
+        "file_type_distribution": {
+            ".jsonl": 12,
+            "": 5,
+            ".md": 1,
+            ".mp4": 50,
+            ".txt": 55,
+            ".png": 1358,
+            ".py": 6,
+            ".json": 5,
+            ".pdf": 22,
+            ".pptx": 7
+        },
+        "high_level_category_counts": {
+            "text": 68,
+            "other": 38,
+            "video": 50,
+            "image": 1358,
+            "presentation": 7
+        },
+        "text_entries_in_jsonl": 4651,
+        "text_entries_in_text_folder": 819,
+        "videos_in_videos_folder": 50,
+        "images_in_images_folder": 1358,
+        "directories": {
+            "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset": {
+                "text": 2,
+                "other": 1
+            },
+            "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/video": {
+                "video": 50,
+                "other": 1
+            },
+            "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/video/captions": {
+                "text": 50
+            },
+            "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/images": {
+                "image": 1358,
+                "text": 2
+            },
+            "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/images/metadata": {
+                "text": 2
+            },
+            "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/scripts": {
+                "other": 7,
+                "text": 5
+            },
+            "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/scripts/cookies": {
+                "other": 4
+            },
+            "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/sources": {
+                "other": 1
+            },
+            "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/sources/collateral": {
+                "other": 22
+            },
+            "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/sources/powerpoints": {
+                "presentation": 7
+            },
+            "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/text": {
+                "text": 6,
+                "other": 1
+            },
+            "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/stats": {
+                "other": 1,
+                "text": 1
+            }
+        },
+        "jsonl_entry_counts": {
+            "metadata.jsonl": 0,
+            "blog_posts-images.jsonl": 837,
+            "collateral-images.jsonl": 606,
+            "powerpoints-images.jsonl": 164,
+            "blog_posts.jsonl": 740,
+            "collateral.jsonl": 22,
+            "grant_proposals.jsonl": 0,
+            "powerpoints.jsonl": 7,
+            "youtube_posts.jsonl": 50,
+            "reports.jsonl": 0,
+            "collateral_stats.jsonl": 1619
+        },
+        "unrecognized_extensions": [
+            "",
+            ".json",
+            ".pdf",
+            ".py"
+        ]
+    },
+    "jsonl_files": [
+        {
+            "file_name": "metadata.jsonl",
+            "absolute_path": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/metadata.jsonl",
+            "size_bytes": 0,
+            "last_modified": 1741883917.4375465,
+            "num_records": 0,
+            "containing_folder": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset"
+        },
+        {
+            "file_name": "blog_posts-images.jsonl",
+            "absolute_path": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/images/blog_posts-images.jsonl",
+            "size_bytes": 211574,
+            "last_modified": 1741918229.2991486,
+            "num_records": 837,
+            "containing_folder": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/images"
+        },
+        {
+            "file_name": "collateral-images.jsonl",
+            "absolute_path": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/images/collateral-images.jsonl",
+            "size_bytes": 83077,
+            "last_modified": 1741919149.5456083,
+            "num_records": 606,
+            "containing_folder": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/images"
+        },
+        {
+            "file_name": "powerpoints-images.jsonl",
+            "absolute_path": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/images/metadata/powerpoints-images.jsonl",
+            "size_bytes": 18491,
+            "last_modified": 1741918020.5881262,
+            "num_records": 164,
+            "containing_folder": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/images/metadata"
+        },
+        {
+            "file_name": "collateral-images.jsonl",
+            "absolute_path": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/images/metadata/collateral-images.jsonl",
+            "size_bytes": 83077,
+            "last_modified": 1741920060.2210202,
+            "num_records": 606,
+            "containing_folder": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/images/metadata"
+        },
+        {
+            "file_name": "blog_posts.jsonl",
+            "absolute_path": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/text/blog_posts.jsonl",
+            "size_bytes": 1666457,
+            "last_modified": 1741918229.2947521,
+            "num_records": 740,
+            "containing_folder": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/text"
+        },
+        {
+            "file_name": "collateral.jsonl",
+            "absolute_path": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/text/collateral.jsonl",
+            "size_bytes": 150402,
+            "last_modified": 1741919149.5476747,
+            "num_records": 22,
+            "containing_folder": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/text"
+        },
+        {
+            "file_name": "grant_proposals.jsonl",
+            "absolute_path": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/text/grant_proposals.jsonl",
+            "size_bytes": 0,
+            "last_modified": 1741883917.4375465,
+            "num_records": 0,
+            "containing_folder": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/text"
+        },
+        {
+            "file_name": "powerpoints.jsonl",
+            "absolute_path": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/text/powerpoints.jsonl",
+            "size_bytes": 156125,
+            "last_modified": 1741918020.592035,
+            "num_records": 7,
+            "containing_folder": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/text"
+        },
+        {
+            "file_name": "youtube_posts.jsonl",
+            "absolute_path": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/text/youtube_posts.jsonl",
+            "size_bytes": 13937,
+            "last_modified": 1741922575.7734573,
+            "num_records": 50,
+            "containing_folder": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/text"
+        },
+        {
+            "file_name": "reports.jsonl",
+            "absolute_path": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/text/reports.jsonl",
+            "size_bytes": 0,
+            "last_modified": 1741883917.4375465,
+            "num_records": 0,
+            "containing_folder": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/text"
+        },
+        {
+            "file_name": "collateral_stats.jsonl",
+            "absolute_path": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/stats/collateral_stats.jsonl",
+            "size_bytes": 52644,
+            "last_modified": 1741919149.5798564,
+            "num_records": 1619,
+            "containing_folder": "/Users/coleloughbc/Library/CloudStorage/GoogleDrive-brandcol@umd.edu/My Drive/Externally Accessible Folder/CAFB Challenge/Challenge 3 - CAFBrain/CAFBRain_Dataset/stats"
+        }
+    ]
+}
