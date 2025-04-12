@@ -1,0 +1,192 @@
+WEBVTT
+Kind: captions
+Language: en
+
+
+the<00:00:02.919><c> food</c><00:00:03.199><c> pharmacy</c><00:00:03.760><c> program</c><00:00:04.240><c> is</c><00:00:04.359><c> a</c><00:00:04.600><c> program</c>
+
+the food pharmacy program is a program
+
+
+the food pharmacy program is a program
+that<00:00:05.120><c> the</c><00:00:05.240><c> capitol</c><00:00:05.600><c> area</c><00:00:06.000><c> Food</c><00:00:06.319><c> Bank</c><00:00:06.879><c> uh</c><00:00:07.000><c> runs</c>
+
+that the capitol area Food Bank uh runs
+
+
+that the capitol area Food Bank uh runs
+in<00:00:07.520><c> partnership</c><00:00:08.200><c> with</c><00:00:08.360><c> the</c><00:00:08.480><c> Children's</c>
+
+in partnership with the Children's
+
+
+in partnership with the Children's
+National<00:00:09.599><c> Hospital</c><00:00:10.440><c> to</c><00:00:10.719><c> support</c><00:00:11.320><c> diet</c>
+
+National Hospital to support diet
+
+
+National Hospital to support diet
+related<00:00:12.519><c> outcomes</c><00:00:13.120><c> positive</c><00:00:13.480><c> outcomes</c><00:00:14.080><c> for</c>
+
+related outcomes positive outcomes for
+
+
+related outcomes positive outcomes for
+the<00:00:14.559><c> food</c><00:00:14.799><c> insecure</c><00:00:15.600><c> population</c><00:00:16.600><c> everyone</c>
+
+the food insecure population everyone
+
+
+the food insecure population everyone
+who<00:00:17.199><c> comes</c><00:00:17.560><c> to</c><00:00:18.320><c> the</c><00:00:18.439><c> on-site</c><00:00:18.920><c> Food</c><00:00:19.240><c> Pharmacy</c>
+
+who comes to the on-site Food Pharmacy
+
+
+who comes to the on-site Food Pharmacy
+is<00:00:20.199><c> able</c><00:00:20.560><c> to</c><00:00:21.240><c> meet</c><00:00:21.560><c> with</c><00:00:21.800><c> their</c><00:00:22.160><c> doctor</c><00:00:22.680><c> meet</c>
+
+is able to meet with their doctor meet
+
+
+is able to meet with their doctor meet
+with<00:00:23.199><c> their</c><00:00:23.480><c> dietician</c><00:00:24.320><c> but</c><00:00:24.519><c> also</c><00:00:24.800><c> take</c><00:00:25.039><c> home</c>
+
+with their dietician but also take home
+
+
+with their dietician but also take home
+nutritious<00:00:25.920><c> groceries</c><00:00:26.720><c> to</c><00:00:26.880><c> help</c><00:00:27.119><c> manage</c>
+
+nutritious groceries to help manage
+
+
+nutritious groceries to help manage
+their<00:00:27.960><c> diabetes</c><00:00:28.960><c> the</c><00:00:29.080><c> groceries</c><00:00:29.560><c> I</c><00:00:29.679><c> have</c>
+
+their diabetes the groceries I have
+
+
+their diabetes the groceries I have
+received<00:00:30.439><c> at</c><00:00:30.599><c> the</c><00:00:30.679><c> food</c><00:00:31.039><c> Pharmacy</c><00:00:31.640><c> have</c>
+
+received at the food Pharmacy have
+
+
+received at the food Pharmacy have
+drastically<00:00:33.079><c> helped</c><00:00:33.399><c> me</c><00:00:33.600><c> improve</c><00:00:34.040><c> my</c><00:00:34.239><c> health</c>
+
+drastically helped me improve my health
+
+
+drastically helped me improve my health
+by<00:00:34.920><c> looking</c><00:00:35.120><c> at</c><00:00:35.480><c> healthier</c><00:00:36.040><c> options</c><00:00:36.559><c> and</c>
+
+by looking at healthier options and
+
+
+by looking at healthier options and
+recipes<00:00:37.360><c> that</c><00:00:37.480><c> I</c><00:00:37.600><c> could</c><00:00:37.719><c> use</c><00:00:38.520><c> with</c><00:00:39.399><c> maybe</c>
+
+recipes that I could use with maybe
+
+
+recipes that I could use with maybe
+harder<00:00:40.280><c> and</c><00:00:40.719><c> healthier</c><00:00:41.719><c> ingredients</c><00:00:42.680><c> I've</c>
+
+harder and healthier ingredients I've
+
+
+harder and healthier ingredients I've
+lost<00:00:43.360><c> over</c><00:00:43.640><c> 50</c><00:00:44.120><c> lbs</c><00:00:44.879><c> with</c><00:00:45.239><c> the</c><00:00:45.440><c> resources</c><00:00:46.079><c> they</c>
+
+lost over 50 lbs with the resources they
+
+
+lost over 50 lbs with the resources they
+have<00:00:46.360><c> given</c><00:00:46.559><c> to</c><00:00:46.719><c> me</c><00:00:47.000><c> as</c><00:00:47.120><c> a</c><00:00:47.280><c> doctor</c><00:00:47.879><c> having</c><00:00:48.360><c> the</c>
+
+have given to me as a doctor having the
+
+
+have given to me as a doctor having the
+food<00:00:48.920><c> Pharmacy</c><00:00:49.640><c> as</c><00:00:49.760><c> an</c><00:00:50.000><c> option</c><00:00:50.320><c> in</c><00:00:50.480><c> our</c><00:00:50.719><c> Clinic</c>
+
+food Pharmacy as an option in our Clinic
+
+
+food Pharmacy as an option in our Clinic
+has<00:00:52.239><c> really</c><00:00:52.440><c> been</c><00:00:52.640><c> a</c><00:00:52.800><c> GameChanger</c><00:00:53.520><c> I</c><00:00:53.640><c> have</c>
+
+has really been a GameChanger I have
+
+
+has really been a GameChanger I have
+heard<00:00:54.120><c> specifically</c><00:00:54.680><c> from</c><00:00:55.000><c> patients</c><00:00:55.680><c> that</c>
+
+heard specifically from patients that
+
+
+heard specifically from patients that
+they<00:00:56.480><c> travel</c><00:00:56.879><c> a</c><00:00:57.000><c> little</c><00:00:57.199><c> bit</c><00:00:57.440><c> further</c><00:00:57.800><c> to</c><00:00:58.039><c> come</c>
+
+they travel a little bit further to come
+
+
+they travel a little bit further to come
+to<00:00:58.800><c> our</c><00:00:59.039><c> Clinic</c><00:00:59.480><c> here</c><00:00:59.640><c> at</c><00:00:59.800><c> the</c><00:01:00.079><c> M</c><00:01:00.359><c> hospital</c>
+
+to our Clinic here at the M hospital
+
+
+to our Clinic here at the M hospital
+because<00:01:01.519><c> we</c><00:01:01.719><c> do</c><00:01:01.960><c> have</c><00:01:02.160><c> food</c><00:01:02.440><c> Pharmacy</c>
+
+because we do have food Pharmacy
+
+
+because we do have food Pharmacy
+available<00:01:03.559><c> for</c><00:01:03.879><c> them</c><00:01:04.239><c> to</c><00:01:04.400><c> be</c><00:01:04.559><c> able</c><00:01:04.760><c> to</c><00:01:05.040><c> get</c>
+
+available for them to be able to get
+
+
+available for them to be able to get
+during<00:01:05.560><c> their</c><00:01:05.799><c> visits</c><00:01:06.640><c> the</c><00:01:06.799><c> Capital</c><00:01:07.119><c> Area</c>
+
+during their visits the Capital Area
+
+
+during their visits the Capital Area
+food<00:01:07.640><c> bank</c><00:01:08.000><c> is</c><00:01:08.159><c> focused</c><00:01:08.560><c> on</c><00:01:08.759><c> addressing</c>
+
+food bank is focused on addressing
+
+
+food bank is focused on addressing
+hunger<00:01:09.799><c> today</c><00:01:10.400><c> but</c><00:01:10.600><c> also</c><00:01:10.960><c> enabling</c><00:01:11.560><c> people</c><00:01:11.880><c> to</c>
+
+hunger today but also enabling people to
+
+
+hunger today but also enabling people to
+thrive<00:01:12.680><c> in</c><00:01:12.799><c> the</c><00:01:12.960><c> future</c><00:01:13.799><c> and</c><00:01:13.920><c> in</c><00:01:14.040><c> order</c><00:01:14.280><c> for</c>
+
+thrive in the future and in order for
+
+
+thrive in the future and in order for
+people<00:01:14.720><c> to</c><00:01:14.960><c> thrive</c><00:01:15.439><c> they</c><00:01:15.560><c> have</c><00:01:15.720><c> to</c><00:01:15.960><c> start</c><00:01:16.280><c> with</c>
+
+people to thrive they have to start with
+
+
+people to thrive they have to start with
+good<00:01:16.799><c> health</c><00:01:17.439><c> and</c><00:01:17.640><c> nutritious</c><00:01:18.240><c> food</c><00:01:18.600><c> is</c><00:01:18.720><c> a</c>
+
+good health and nutritious food is a
+
+
+good health and nutritious food is a
+critical<00:01:19.560><c> component</c><00:01:20.439><c> of</c><00:01:20.680><c> good</c><00:01:20.920><c> health</c>

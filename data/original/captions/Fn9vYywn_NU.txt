@@ -1,0 +1,678 @@
+WEBVTT
+Kind: captions
+Language: en
+
+
+hey<00:00:02.320><c> friends</c><00:00:02.639><c> we're</c><00:00:02.800><c> going</c><00:00:02.879><c> to</c><00:00:02.960><c> make</c><00:00:03.120><c> some</c>
+
+hey friends we're going to make some
+
+
+hey friends we're going to make some
+homemade<00:00:03.760><c> granola</c><00:00:04.400><c> today</c>
+
+homemade granola today
+
+
+homemade granola today
+it's<00:00:05.920><c> a</c><00:00:06.080><c> really</c><00:00:06.480><c> quick</c><00:00:07.120><c> simple</c><00:00:07.600><c> recipe</c>
+
+it's a really quick simple recipe
+
+
+it's a really quick simple recipe
+that<00:00:09.120><c> you</c><00:00:09.280><c> can</c><00:00:09.440><c> use</c><00:00:09.760><c> for</c>
+
+that you can use for
+
+
+that you can use for
+breakfast<00:00:11.440><c> add</c><00:00:11.679><c> it</c><00:00:11.759><c> with</c><00:00:12.080><c> yogurt</c><00:00:12.719><c> or</c><00:00:13.200><c> any</c><00:00:13.440><c> type</c>
+
+breakfast add it with yogurt or any type
+
+
+breakfast add it with yogurt or any type
+of<00:00:13.840><c> milk</c><00:00:14.240><c> that</c><00:00:14.400><c> you</c><00:00:14.559><c> like</c>
+
+of milk that you like
+
+
+of milk that you like
+you<00:00:15.839><c> can</c><00:00:16.000><c> also</c>
+
+
+
+
+
+just<00:00:18.880><c> have</c><00:00:19.039><c> it</c><00:00:19.199><c> as</c><00:00:19.359><c> a</c><00:00:19.439><c> snack</c>
+
+
+
+
+
+whatever<00:00:22.320><c> you</c><00:00:22.480><c> like</c><00:00:22.720><c> and</c><00:00:22.800><c> it's</c><00:00:22.960><c> a</c><00:00:23.039><c> very</c>
+
+whatever you like and it's a very
+
+
+whatever you like and it's a very
+flexible<00:00:23.840><c> recipe</c><00:00:24.400><c> that</c><00:00:24.560><c> you</c><00:00:24.720><c> can</c><00:00:25.279><c> add</c><00:00:25.519><c> or</c>
+
+flexible recipe that you can add or
+
+
+flexible recipe that you can add or
+subtract<00:00:26.000><c> different</c><00:00:26.320><c> ingredients</c><00:00:26.800><c> that</c><00:00:26.880><c> you</c>
+
+subtract different ingredients that you
+
+
+subtract different ingredients that you
+may<00:00:27.199><c> have</c><00:00:27.439><c> in</c><00:00:27.519><c> your</c><00:00:27.680><c> pantry</c>
+
+may have in your pantry
+
+
+may have in your pantry
+start<00:00:29.039><c> off</c><00:00:29.199><c> we're</c><00:00:29.359><c> going</c><00:00:29.439><c> to</c><00:00:29.519><c> use</c>
+
+start off we're going to use
+
+
+start off we're going to use
+we<00:00:30.880><c> have</c><00:00:31.359><c> two</c><00:00:31.599><c> cups</c><00:00:32.000><c> of</c><00:00:32.239><c> whole</c><00:00:32.480><c> rolled</c><00:00:32.880><c> oats</c>
+
+we have two cups of whole rolled oats
+
+
+we have two cups of whole rolled oats
+we<00:00:34.880><c> have</c><00:00:35.200><c> a</c><00:00:35.600><c> quarter</c><00:00:36.000><c> cup</c><00:00:36.399><c> of</c><00:00:36.640><c> raw</c><00:00:37.040><c> sunflower</c>
+
+we have a quarter cup of raw sunflower
+
+
+we have a quarter cup of raw sunflower
+seeds
+
+seeds
+
+
+seeds
+we<00:00:39.760><c> have</c><00:00:40.399><c> half</c><00:00:40.640><c> a</c><00:00:40.800><c> teaspoon</c><00:00:41.600><c> of</c><00:00:42.320><c> ground</c>
+
+we have half a teaspoon of ground
+
+
+we have half a teaspoon of ground
+cinnamon
+
+cinnamon
+
+
+cinnamon
+we<00:00:44.800><c> have</c><00:00:45.120><c> two</c><00:00:45.600><c> tablespoons</c><00:00:46.480><c> of</c><00:00:46.640><c> canola</c><00:00:47.200><c> oil</c>
+
+we have two tablespoons of canola oil
+
+
+we have two tablespoons of canola oil
+and<00:00:48.559><c> then</c><00:00:48.800><c> we</c><00:00:49.039><c> have</c>
+
+and then we have
+
+
+and then we have
+four<00:00:50.399><c> tablespoons</c><00:00:51.120><c> of</c><00:00:51.280><c> honey</c><00:00:52.000><c> as</c><00:00:52.320><c> well</c><00:00:52.800><c> as</c>
+
+four tablespoons of honey as well as
+
+
+four tablespoons of honey as well as
+half<00:00:53.520><c> a</c><00:00:53.600><c> cup</c><00:00:54.000><c> of</c><00:00:54.160><c> raisins</c>
+
+half a cup of raisins
+
+
+half a cup of raisins
+now<00:00:56.239><c> to</c><00:00:56.399><c> start</c><00:00:56.719><c> off</c><00:00:56.879><c> we're</c><00:00:57.039><c> going</c><00:00:57.199><c> to</c><00:00:57.440><c> we're</c>
+
+now to start off we're going to we're
+
+
+now to start off we're going to we're
+going<00:00:57.680><c> to</c><00:00:57.760><c> put</c><00:00:57.920><c> these</c><00:00:58.160><c> in</c><00:00:58.320><c> the</c><00:00:58.559><c> oven</c><00:00:58.960><c> after</c>
+
+going to put these in the oven after
+
+
+going to put these in the oven after
+we've<00:00:59.440><c> mixed</c><00:00:59.680><c> them</c><00:00:59.840><c> all</c><00:00:59.920><c> together</c><00:01:00.320><c> so</c><00:01:00.399><c> i</c><00:01:00.480><c> have</c>
+
+we've mixed them all together so i have
+
+
+we've mixed them all together so i have
+my<00:01:00.879><c> oven</c><00:01:01.199><c> preheated</c><00:01:01.840><c> at</c><00:01:02.199><c> 325</c><00:01:03.199><c> degrees</c>
+
+my oven preheated at 325 degrees
+
+
+my oven preheated at 325 degrees
+you<00:01:04.479><c> can</c><00:01:04.799><c> also</c><00:01:05.360><c> do</c><00:01:05.600><c> this</c><00:01:05.840><c> recipe</c><00:01:06.560><c> on</c><00:01:06.720><c> a</c><00:01:06.960><c> skillet</c>
+
+you can also do this recipe on a skillet
+
+
+you can also do this recipe on a skillet
+if<00:01:07.760><c> you</c><00:01:07.920><c> like</c>
+
+if you like
+
+
+if you like
+we<00:01:08.880><c> can</c><00:01:09.040><c> talk</c><00:01:09.280><c> about</c><00:01:09.439><c> that</c><00:01:09.680><c> later</c><00:01:10.080><c> though</c>
+
+we can talk about that later though
+
+
+we can talk about that later though
+to<00:01:11.280><c> start</c><00:01:11.520><c> off</c><00:01:11.600><c> we're</c><00:01:11.760><c> going</c><00:01:11.840><c> to</c><00:01:11.920><c> combine</c>
+
+to start off we're going to combine
+
+
+to start off we're going to combine
+all<00:01:13.119><c> of</c><00:01:13.280><c> our</c><00:01:13.520><c> dry</c><00:01:14.000><c> ingredients</c>
+
+all of our dry ingredients
+
+
+all of our dry ingredients
+so
+
+so
+
+
+so
+we've<00:01:16.640><c> got</c><00:01:16.880><c> our</c><00:01:17.040><c> oats</c>
+
+we've got our oats
+
+
+we've got our oats
+our<00:01:19.680><c> sunflower</c><00:01:20.320><c> seeds</c><00:01:20.799><c> you</c><00:01:20.960><c> can</c><00:01:21.200><c> substitute</c>
+
+our sunflower seeds you can substitute
+
+
+our sunflower seeds you can substitute
+any<00:01:22.240><c> kind</c><00:01:22.400><c> of</c><00:01:22.560><c> nuts</c><00:01:23.360><c> if</c><00:01:23.520><c> you</c><00:01:23.680><c> like</c>
+
+any kind of nuts if you like
+
+
+any kind of nuts if you like
+almonds<00:01:25.119><c> walnuts</c><00:01:25.759><c> pecans</c>
+
+almonds walnuts pecans
+
+
+almonds walnuts pecans
+we've<00:01:27.680><c> got</c><00:01:28.400><c> our</c><00:01:28.640><c> raisins</c><00:01:29.360><c> you</c><00:01:29.520><c> could</c>
+
+we've got our raisins you could
+
+
+we've got our raisins you could
+substitute<00:01:30.479><c> any</c><00:01:30.720><c> kind</c><00:01:30.960><c> of</c>
+
+substitute any kind of
+
+
+substitute any kind of
+dried<00:01:32.159><c> fruit</c><00:01:32.479><c> craisins</c>
+
+dried fruit craisins
+
+
+dried fruit craisins
+apricots<00:01:35.360><c> anything</c><00:01:35.759><c> like</c><00:01:36.000><c> that</c>
+
+apricots anything like that
+
+
+apricots anything like that
+and<00:01:37.680><c> then</c><00:01:37.840><c> we've</c><00:01:38.079><c> got</c><00:01:38.320><c> our</c><00:01:38.560><c> cinnamon</c>
+
+and then we've got our cinnamon
+
+
+and then we've got our cinnamon
+you<00:01:40.400><c> could</c><00:01:40.640><c> also</c><00:01:40.960><c> add</c><00:01:41.119><c> something</c><00:01:41.520><c> like</c>
+
+you could also add something like
+
+
+you could also add something like
+nutmeg<00:01:43.600><c> if</c><00:01:43.759><c> you</c><00:01:43.840><c> want</c>
+
+nutmeg if you want
+
+
+nutmeg if you want
+i<00:01:45.200><c> like</c><00:01:45.439><c> to</c><00:01:45.680><c> add</c><00:01:45.920><c> just</c><00:01:46.159><c> a</c><00:01:46.240><c> little</c><00:01:46.560><c> pinch</c><00:01:47.040><c> of</c>
+
+i like to add just a little pinch of
+
+
+i like to add just a little pinch of
+sea<00:01:48.159><c> salt</c>
+
+sea salt
+
+
+sea salt
+just<00:01:49.280><c> so</c><00:01:49.520><c> all</c><00:01:49.600><c> the</c><00:01:49.759><c> flavors</c>
+
+just so all the flavors
+
+
+just so all the flavors
+kind<00:01:51.119><c> of</c><00:01:51.200><c> helps</c><00:01:51.759><c> bring</c><00:01:52.000><c> out</c><00:01:52.159><c> the</c><00:01:52.320><c> boldness</c><00:01:52.880><c> of</c>
+
+kind of helps bring out the boldness of
+
+
+kind of helps bring out the boldness of
+the<00:01:53.119><c> cinnamon</c><00:01:53.920><c> and</c><00:01:54.079><c> the</c><00:01:54.240><c> sweetness</c><00:01:54.720><c> of</c><00:01:54.799><c> the</c>
+
+the cinnamon and the sweetness of the
+
+
+the cinnamon and the sweetness of the
+honey<00:01:55.200><c> when</c><00:01:55.360><c> we</c><00:01:55.520><c> add</c><00:01:55.680><c> that</c>
+
+honey when we add that
+
+
+honey when we add that
+so<00:01:56.640><c> we</c><00:01:56.719><c> want</c><00:01:56.880><c> to</c><00:01:56.960><c> mix</c><00:01:57.200><c> our</c><00:01:57.360><c> dry</c><00:01:57.680><c> ingredients</c>
+
+so we want to mix our dry ingredients
+
+
+so we want to mix our dry ingredients
+together<00:01:59.119><c> first</c><00:01:59.600><c> so</c><00:01:59.759><c> that</c><00:01:59.920><c> they're</c><00:02:00.240><c> all</c>
+
+together first so that they're all
+
+
+together first so that they're all
+evenly<00:02:00.960><c> distributed</c>
+
+evenly distributed
+
+
+evenly distributed
+otherwise<00:02:03.520><c> what</c><00:02:03.680><c> you</c><00:02:03.840><c> might</c><00:02:04.320><c> find</c><00:02:04.719><c> is</c><00:02:04.880><c> like</c>
+
+otherwise what you might find is like
+
+
+otherwise what you might find is like
+the<00:02:05.280><c> cinnamon</c><00:02:05.680><c> is</c><00:02:05.759><c> not</c><00:02:06.000><c> all</c><00:02:06.079><c> the</c><00:02:06.159><c> way</c><00:02:06.320><c> mixed</c>
+
+the cinnamon is not all the way mixed
+
+
+the cinnamon is not all the way mixed
+through
+
+through
+
+
+through
+so<00:02:08.399><c> you'll</c><00:02:08.560><c> have</c><00:02:08.800><c> some</c><00:02:09.280><c> bites</c><00:02:09.599><c> with</c><00:02:09.759><c> a</c><00:02:09.840><c> lot</c><00:02:10.000><c> of</c>
+
+so you'll have some bites with a lot of
+
+
+so you'll have some bites with a lot of
+cinnamon<00:02:10.560><c> in</c><00:02:10.640><c> it</c><00:02:10.720><c> and</c><00:02:10.800><c> some</c><00:02:11.039><c> bites</c><00:02:11.280><c> without</c>
+
+cinnamon in it and some bites without
+
+
+cinnamon in it and some bites without
+any<00:02:11.840><c> flavor</c>
+
+any flavor
+
+
+any flavor
+and<00:02:14.000><c> next</c><00:02:14.239><c> we're</c><00:02:14.480><c> going</c><00:02:14.560><c> to</c><00:02:14.640><c> add</c><00:02:14.959><c> in</c><00:02:15.120><c> our</c><00:02:15.360><c> honey</c>
+
+and next we're going to add in our honey
+
+
+and next we're going to add in our honey
+and<00:02:17.840><c> again</c><00:02:18.640><c> not</c><00:02:18.879><c> only</c><00:02:19.120><c> for</c><00:02:19.440><c> show</c><00:02:19.920><c> do</c><00:02:20.080><c> i</c><00:02:20.239><c> enjoy</c>
+
+and again not only for show do i enjoy
+
+
+and again not only for show do i enjoy
+pre-measuring<00:02:22.000><c> the</c><00:02:22.160><c> ingredients</c>
+
+pre-measuring the ingredients
+
+
+pre-measuring the ingredients
+it<00:02:23.680><c> makes</c><00:02:23.920><c> it</c><00:02:24.080><c> easy</c><00:02:24.319><c> to</c><00:02:24.720><c> record</c><00:02:25.120><c> these</c><00:02:25.360><c> videos</c>
+
+it makes it easy to record these videos
+
+
+it makes it easy to record these videos
+for<00:02:26.000><c> sure</c><00:02:26.239><c> but</c><00:02:26.480><c> it's</c><00:02:26.720><c> also</c><00:02:27.200><c> a</c><00:02:27.360><c> really</c><00:02:27.599><c> great</c>
+
+for sure but it's also a really great
+
+
+for sure but it's also a really great
+way<00:02:27.920><c> to</c><00:02:28.080><c> just</c>
+
+way to just
+
+
+way to just
+it<00:02:29.440><c> helps</c>
+
+it helps
+
+
+it helps
+the<00:02:30.959><c> speed</c><00:02:31.280><c> in</c><00:02:31.360><c> which</c><00:02:31.680><c> these</c><00:02:31.920><c> recipes</c><00:02:32.480><c> come</c>
+
+the speed in which these recipes come
+
+
+the speed in which these recipes come
+together
+
+together
+
+
+together
+i<00:02:34.640><c> find</c><00:02:34.879><c> it</c><00:02:35.120><c> takes</c><00:02:35.440><c> me</c><00:02:35.599><c> about</c><00:02:35.840><c> five</c><00:02:36.080><c> minutes</c><00:02:36.959><c> to</c>
+
+i find it takes me about five minutes to
+
+
+i find it takes me about five minutes to
+set<00:02:37.440><c> five</c><00:02:37.599><c> ten</c><00:02:37.760><c> minutes</c><00:02:38.000><c> to</c><00:02:38.080><c> set</c><00:02:38.319><c> up</c><00:02:38.400><c> my</c>
+
+set five ten minutes to set up my
+
+
+set five ten minutes to set up my
+ingredients
+
+ingredients
+
+
+ingredients
+and<00:02:39.920><c> then</c><00:02:40.080><c> just</c><00:02:40.319><c> a</c><00:02:40.400><c> couple</c><00:02:40.640><c> minutes</c><00:02:40.959><c> to</c><00:02:41.040><c> mix</c>
+
+and then just a couple minutes to mix
+
+
+and then just a couple minutes to mix
+them<00:02:41.519><c> all</c><00:02:41.680><c> together</c><00:02:42.640><c> and</c><00:02:42.800><c> then</c><00:02:43.040><c> lastly</c><00:02:43.440><c> the</c>
+
+them all together and then lastly the
+
+
+them all together and then lastly the
+oil
+
+
+
+
+
+so<00:02:47.519><c> if</c><00:02:47.599><c> you</c><00:02:47.760><c> were</c><00:02:47.920><c> to</c><00:02:48.239><c> we're</c><00:02:48.400><c> just</c><00:02:48.560><c> gonna</c><00:02:48.720><c> mix</c>
+
+so if you were to we're just gonna mix
+
+
+so if you were to we're just gonna mix
+these<00:02:49.120><c> all</c><00:02:49.280><c> together</c><00:02:49.680><c> until</c><00:02:49.920><c> everything's</c>
+
+these all together until everything's
+
+
+these all together until everything's
+all<00:02:50.480><c> nice</c><00:02:50.720><c> and</c><00:02:50.959><c> coated</c>
+
+all nice and coated
+
+
+all nice and coated
+so<00:02:53.120><c> if</c><00:02:53.280><c> you</c><00:02:53.360><c> wanted</c><00:02:53.599><c> to</c><00:02:53.760><c> do</c><00:02:53.920><c> this</c><00:02:54.080><c> if</c><00:02:54.239><c> you</c>
+
+so if you wanted to do this if you
+
+
+so if you wanted to do this if you
+didn't<00:02:54.560><c> have</c><00:02:54.800><c> an</c><00:02:55.040><c> oven</c><00:02:55.760><c> if</c><00:02:55.920><c> you</c><00:02:56.000><c> want</c><00:02:56.239><c> to</c><00:02:56.319><c> do</c>
+
+didn't have an oven if you want to do
+
+
+didn't have an oven if you want to do
+this<00:02:56.640><c> on</c><00:02:56.800><c> a</c><00:02:56.959><c> skillet</c><00:02:57.519><c> just</c><00:02:57.760><c> use</c><00:02:58.000><c> a</c><00:02:58.080><c> large</c><00:02:58.800><c> a</c>
+
+this on a skillet just use a large a
+
+
+this on a skillet just use a large a
+larger<00:02:59.440><c> saute</c><00:03:00.000><c> pan</c>
+
+larger saute pan
+
+
+larger saute pan
+and<00:03:01.360><c> you</c><00:03:01.519><c> just</c><00:03:01.760><c> want</c><00:03:01.920><c> to</c><00:03:02.000><c> do</c><00:03:02.159><c> it</c><00:03:02.239><c> over</c><00:03:02.480><c> about</c>
+
+and you just want to do it over about
+
+
+and you just want to do it over about
+medium<00:03:03.200><c> heat</c><00:03:03.519><c> and</c><00:03:03.599><c> just</c><00:03:03.840><c> constantly</c><00:03:04.480><c> stir</c><00:03:04.879><c> it</c>
+
+medium heat and just constantly stir it
+
+
+medium heat and just constantly stir it
+for
+
+for
+
+
+for
+because<00:03:06.480><c> it</c><00:03:06.800><c> would</c><00:03:06.959><c> burn</c><00:03:07.360><c> pretty</c><00:03:07.599><c> easily</c>
+
+because it would burn pretty easily
+
+
+because it would burn pretty easily
+but<00:03:09.280><c> just</c><00:03:09.519><c> constantly</c><00:03:10.080><c> stir</c><00:03:10.400><c> it</c><00:03:10.560><c> so</c><00:03:10.720><c> that</c><00:03:10.959><c> it</c>
+
+but just constantly stir it so that it
+
+
+but just constantly stir it so that it
+until<00:03:11.840><c> you</c><00:03:12.080><c> smell</c><00:03:12.480><c> things</c><00:03:12.800><c> to</c><00:03:12.959><c> get</c><00:03:13.280><c> like</c><00:03:13.519><c> a</c>
+
+until you smell things to get like a
+
+
+until you smell things to get like a
+toasted
+
+toasted
+
+
+toasted
+smell<00:03:15.440><c> it'll</c><00:03:15.680><c> almost</c><00:03:16.000><c> smell</c><00:03:16.239><c> like</c><00:03:16.480><c> you're</c>
+
+smell it'll almost smell like you're
+
+
+smell it'll almost smell like you're
+baking<00:03:17.280><c> cookies</c>
+
+
+
+
+
+all<00:03:20.720><c> right</c><00:03:20.879><c> so</c><00:03:21.040><c> we've</c><00:03:21.200><c> got</c><00:03:21.440><c> everything</c><00:03:21.840><c> coated</c>
+
+all right so we've got everything coated
+
+
+all right so we've got everything coated
+here
+
+
+
+
+
+and<00:03:25.760><c> now</c><00:03:25.920><c> what</c><00:03:26.080><c> i'm</c><00:03:26.159><c> going</c><00:03:26.239><c> to</c><00:03:26.319><c> do</c><00:03:26.480><c> is</c><00:03:26.640><c> take</c><00:03:26.879><c> a</c>
+
+and now what i'm going to do is take a
+
+
+and now what i'm going to do is take a
+baking<00:03:27.440><c> sheet</c>
+
+
+
+
+
+i'm<00:03:32.319><c> just</c><00:03:32.480><c> going</c><00:03:32.560><c> to</c><00:03:32.640><c> spread</c><00:03:32.959><c> this</c><00:03:33.280><c> out</c>
+
+
+
+
+
+spread<00:03:41.200><c> this</c><00:03:41.680><c> out</c><00:03:41.920><c> on</c><00:03:42.000><c> my</c><00:03:42.159><c> baking</c><00:03:42.640><c> sheet</c>
+
+
+
+
+
+and<00:03:48.239><c> then</c><00:03:48.400><c> i'm</c><00:03:48.480><c> going</c><00:03:48.560><c> to</c><00:03:48.640><c> put</c><00:03:48.799><c> it</c><00:03:48.959><c> in</c><00:03:49.040><c> the</c><00:03:49.280><c> oven</c>
+
+and then i'm going to put it in the oven
+
+
+and then i'm going to put it in the oven
+for<00:03:50.799><c> about</c><00:03:51.040><c> 30</c><00:03:51.360><c> minutes</c><00:03:51.840><c> total</c><00:03:52.239><c> but</c><00:03:52.400><c> what</c><00:03:52.640><c> i'm</c>
+
+for about 30 minutes total but what i'm
+
+
+for about 30 minutes total but what i'm
+going<00:03:52.879><c> to</c><00:03:53.040><c> do</c><00:03:53.360><c> is</c><00:03:53.599><c> set</c><00:03:53.920><c> timers</c><00:03:54.400><c> for</c><00:03:54.640><c> 10</c><00:03:54.879><c> minutes</c>
+
+going to do is set timers for 10 minutes
+
+
+going to do is set timers for 10 minutes
+at<00:03:55.360><c> a</c><00:03:55.519><c> time</c><00:03:55.760><c> to</c><00:03:56.000><c> stir</c><00:03:56.319><c> them</c><00:03:56.480><c> because</c><00:03:56.720><c> again</c>
+
+at a time to stir them because again
+
+
+at a time to stir them because again
+these<00:03:57.200><c> can</c><00:03:57.840><c> even</c><00:03:58.080><c> in</c><00:03:58.159><c> the</c><00:03:58.239><c> oven</c><00:03:58.560><c> they</c><00:03:58.640><c> can</c>
+
+these can even in the oven they can
+
+
+these can even in the oven they can
+still<00:03:59.040><c> burn</c><00:03:59.360><c> pretty</c><00:03:59.599><c> easily</c>
+
+still burn pretty easily
+
+
+still burn pretty easily
+and<00:04:00.879><c> you</c><00:04:01.040><c> just</c><00:04:01.280><c> also</c><00:04:01.599><c> want</c><00:04:01.680><c> to</c><00:04:01.760><c> make</c><00:04:01.920><c> sure</c><00:04:02.159><c> that</c>
+
+and you just also want to make sure that
+
+
+and you just also want to make sure that
+it's<00:04:02.640><c> evenly</c><00:04:03.439><c> toasted</c>
+
+it's evenly toasted
+
+
+it's evenly toasted
+and
+
+and
+
+
+and
+now<00:04:07.200><c> by</c>
+
+now by
+
+
+now by
+the<00:04:08.239><c> magic</c><00:04:08.640><c> of</c><00:04:08.799><c> television</c>
+
+the magic of television
+
+
+the magic of television
+here's<00:04:10.560><c> what</c><00:04:10.720><c> it</c><00:04:11.040><c> should</c><00:04:11.200><c> look</c><00:04:11.439><c> like</c><00:04:12.000><c> so</c><00:04:12.159><c> you</c>
+
+here's what it should look like so you
+
+
+here's what it should look like so you
+see<00:04:12.400><c> it's</c><00:04:12.560><c> nice</c><00:04:12.799><c> and</c><00:04:12.959><c> toasted</c><00:04:13.680><c> and</c><00:04:13.920><c> for</c><00:04:14.080><c> this</c>
+
+see it's nice and toasted and for this
+
+
+see it's nice and toasted and for this
+batch<00:04:14.640><c> i</c><00:04:14.799><c> actually</c><00:04:15.120><c> used</c><00:04:15.519><c> craisins</c><00:04:16.079><c> instead</c>
+
+batch i actually used craisins instead
+
+
+batch i actually used craisins instead
+of<00:04:16.560><c> raisins</c>
+
+of raisins
+
+
+of raisins
+so<00:04:17.840><c> here's</c><00:04:18.000><c> what</c><00:04:18.160><c> your</c><00:04:18.320><c> finished</c><00:04:18.639><c> product</c>
+
+so here's what your finished product
+
+
+so here's what your finished product
+should<00:04:19.199><c> look</c><00:04:19.440><c> like</c>
+
+should look like
+
+
+should look like
+enjoy<00:04:20.880><c> your</c><00:04:21.040><c> homemade</c><00:04:21.519><c> granola</c>

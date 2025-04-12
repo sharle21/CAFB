@@ -1,0 +1,528 @@
+WEBVTT
+Kind: captions
+Language: en
+
+
+at<00:00:08.580><c> some</c><00:00:08.760><c> point</c><00:00:08.940><c> you</c><00:00:09.360><c> may</c><00:00:09.599><c> open</c><00:00:09.780><c> service</c>
+
+at some point you may open service
+
+
+at some point you may open service
+insights<00:00:10.980><c> and</c><00:00:11.219><c> discover</c><00:00:11.400><c> the</c><00:00:12.120><c> add</c><00:00:12.300><c> new</c>
+
+insights and discover the add new
+
+
+insights and discover the add new
+household<00:00:13.019><c> button</c><00:00:13.500><c> is</c><00:00:13.799><c> gone</c><00:00:14.099><c> and</c><00:00:15.059><c> the</c><00:00:15.299><c> search</c>
+
+household button is gone and the search
+
+
+household button is gone and the search
+function<00:00:15.960><c> doesn't</c><00:00:16.500><c> work</c><00:00:16.800><c> correctly</c><00:00:17.359><c> here's</c>
+
+function doesn't work correctly here's
+
+
+function doesn't work correctly here's
+why<00:00:18.800><c> when</c><00:00:19.800><c> Food</c><00:00:20.039><c> Bank</c><00:00:20.220><c> staff</c><00:00:20.580><c> set</c><00:00:20.939><c> up</c><00:00:21.060><c> your</c>
+
+why when Food Bank staff set up your
+
+
+why when Food Bank staff set up your
+organization<00:00:21.779><c> and</c><00:00:22.080><c> service</c><00:00:22.320><c> insights</c><00:00:23.039><c> you</c>
+
+organization and service insights you
+
+
+organization and service insights you
+told<00:00:23.699><c> us</c><00:00:23.939><c> what</c><00:00:24.359><c> days</c><00:00:24.539><c> you're</c><00:00:24.840><c> open</c><00:00:25.080><c> the</c><00:00:26.039><c> add</c>
+
+told us what days you're open the add
+
+
+told us what days you're open the add
+new<00:00:26.460><c> household</c><00:00:26.939><c> button</c><00:00:27.420><c> only</c><00:00:27.720><c> appears</c><00:00:28.320><c> on</c>
+
+new household button only appears on
+
+
+new household button only appears on
+days<00:00:28.859><c> when</c><00:00:29.160><c> your</c><00:00:29.340><c> pantry</c><00:00:29.760><c> is</c><00:00:30.000><c> open</c><00:00:30.240><c> the</c><00:00:31.140><c> search</c>
+
+days when your pantry is open the search
+
+
+days when your pantry is open the search
+function<00:00:31.740><c> also</c><00:00:32.279><c> doesn't</c><00:00:32.579><c> work</c><00:00:32.940><c> correctly</c><00:00:33.420><c> on</c>
+
+function also doesn't work correctly on
+
+
+function also doesn't work correctly on
+days<00:00:34.079><c> when</c><00:00:34.440><c> you</c><00:00:34.620><c> do</c><00:00:34.800><c> not</c><00:00:34.980><c> have</c><00:00:35.280><c> a</c><00:00:35.460><c> scheduled</c>
+
+days when you do not have a scheduled
+
+
+days when you do not have a scheduled
+giveaway
+
+giveaway
+
+
+giveaway
+if<00:00:37.440><c> you're</c><00:00:37.559><c> trying</c><00:00:37.800><c> to</c><00:00:38.040><c> record</c><00:00:38.219><c> visits</c><00:00:38.880><c> or</c><00:00:39.120><c> new</c>
+
+if you're trying to record visits or new
+
+
+if you're trying to record visits or new
+households<00:00:39.899><c> on</c><00:00:40.140><c> a</c><00:00:40.260><c> day</c><00:00:40.440><c> that</c><00:00:40.739><c> you</c><00:00:40.920><c> don't</c><00:00:41.160><c> have</c>
+
+households on a day that you don't have
+
+
+households on a day that you don't have
+a<00:00:41.579><c> schedule</c><00:00:41.700><c> distribution</c><00:00:42.420><c> you</c><00:00:43.320><c> have</c><00:00:43.500><c> two</c>
+
+a schedule distribution you have two
+
+
+a schedule distribution you have two
+options
+
+
+
+
+
+the<00:00:49.739><c> first</c><00:00:49.920><c> option</c><00:00:50.340><c> is</c><00:00:50.640><c> to</c><00:00:50.879><c> change</c><00:00:51.120><c> the</c><00:00:51.420><c> date</c>
+
+the first option is to change the date
+
+
+the first option is to change the date
+to<00:00:52.020><c> a</c><00:00:52.200><c> day</c><00:00:52.379><c> that</c><00:00:52.620><c> you</c><00:00:52.800><c> normally</c><00:00:53.100><c> provide</c>
+
+to a day that you normally provide
+
+
+to a day that you normally provide
+services<00:00:54.020><c> you</c><00:00:55.020><c> would</c><00:00:55.140><c> do</c><00:00:55.260><c> this</c><00:00:55.440><c> in</c><00:00:55.680><c> cases</c>
+
+services you would do this in cases
+
+
+services you would do this in cases
+where<00:00:56.520><c> you</c><00:00:56.760><c> gave</c><00:00:56.940><c> out</c><00:00:57.180><c> food</c><00:00:57.420><c> on</c><00:00:57.660><c> schedule</c><00:00:57.899><c> but</c>
+
+where you gave out food on schedule but
+
+
+where you gave out food on schedule but
+you<00:00:58.680><c> were</c><00:00:58.800><c> not</c><00:00:58.980><c> able</c><00:00:59.280><c> to</c><00:00:59.399><c> use</c><00:00:59.699><c> service</c>
+
+you were not able to use service
+
+
+you were not able to use service
+insights<00:01:00.840><c> on</c><00:01:01.199><c> your</c><00:01:01.440><c> distribution</c><00:01:01.860><c> day</c>
+
+insights on your distribution day
+
+
+insights on your distribution day
+you<00:01:03.300><c> click</c><00:01:03.660><c> on</c><00:01:03.960><c> the</c><00:01:04.440><c> date</c><00:01:04.619><c> here</c><00:01:05.119><c> which</c><00:01:06.119><c> has</c>
+
+you click on the date here which has
+
+
+you click on the date here which has
+defaulted<00:01:06.960><c> to</c><00:01:07.320><c> today's</c><00:01:07.560><c> date</c>
+
+defaulted to today's date
+
+
+defaulted to today's date
+click<00:01:10.260><c> the</c><00:01:10.439><c> calendar</c>
+
+click the calendar
+
+
+click the calendar
+and<00:01:11.939><c> then</c><00:01:12.060><c> you</c><00:01:12.360><c> can</c><00:01:12.479><c> change</c><00:01:12.840><c> it</c><00:01:13.140><c> to</c><00:01:13.500><c> the</c><00:01:14.040><c> day</c>
+
+and then you can change it to the day
+
+
+and then you can change it to the day
+that<00:01:14.520><c> you</c><00:01:14.939><c> were</c><00:01:15.360><c> Distributing</c><00:01:16.200><c> food</c><00:01:16.439><c> as</c>
+
+that you were Distributing food as
+
+
+that you were Distributing food as
+scheduled
+
+
+
+
+
+so<00:01:22.080><c> now</c><00:01:22.259><c> you</c><00:01:22.560><c> can</c><00:01:22.680><c> see</c><00:01:22.920><c> the</c><00:01:23.220><c> add</c><00:01:23.460><c> new</c><00:01:23.700><c> household</c>
+
+so now you can see the add new household
+
+
+so now you can see the add new household
+button<00:01:24.659><c> is</c><00:01:24.900><c> back</c><00:01:25.259><c> and</c><00:01:26.159><c> the</c><00:01:26.520><c> search</c><00:01:26.640><c> function</c>
+
+button is back and the search function
+
+
+button is back and the search function
+will<00:01:27.720><c> also</c><00:01:28.140><c> work</c><00:01:28.380><c> again</c>
+
+
+
+
+
+all<00:01:38.460><c> right</c><00:01:38.579><c> I've</c><00:01:38.880><c> changed</c><00:01:39.299><c> it</c><00:01:39.360><c> back</c><00:01:39.600><c> to</c><00:01:39.780><c> today</c>
+
+all right I've changed it back to today
+
+
+all right I've changed it back to today
+which<00:01:40.439><c> is</c><00:01:40.560><c> a</c><00:01:40.740><c> day</c><00:01:40.920><c> that</c><00:01:41.100><c> my</c><00:01:41.340><c> pantry</c><00:01:41.700><c> is</c><00:01:41.939><c> closed</c>
+
+which is a day that my pantry is closed
+
+
+which is a day that my pantry is closed
+the<00:01:43.380><c> second</c><00:01:43.500><c> option</c><00:01:43.920><c> is</c><00:01:44.220><c> for</c><00:01:44.460><c> situations</c>
+
+the second option is for situations
+
+
+the second option is for situations
+where<00:01:45.540><c> you</c><00:01:45.720><c> are</c><00:01:45.900><c> giving</c><00:01:46.020><c> out</c><00:01:46.320><c> food</c><00:01:46.619><c> on</c><00:01:47.159><c> an</c>
+
+where you are giving out food on an
+
+
+where you are giving out food on an
+unscheduled<00:01:47.939><c> day</c><00:01:48.619><c> sometimes</c><00:01:49.619><c> you</c><00:01:50.040><c> may</c><00:01:50.159><c> have</c>
+
+unscheduled day sometimes you may have
+
+
+unscheduled day sometimes you may have
+someone<00:01:50.640><c> who's</c><00:01:51.060><c> in</c><00:01:51.360><c> an</c><00:01:51.479><c> emergency</c><00:01:51.659><c> who</c><00:01:52.380><c> needs</c>
+
+someone who's in an emergency who needs
+
+
+someone who's in an emergency who needs
+food<00:01:52.979><c> on</c><00:01:53.640><c> a</c><00:01:53.820><c> day</c><00:01:53.939><c> that</c><00:01:54.180><c> you're</c><00:01:54.299><c> closed</c>
+
+food on a day that you're closed
+
+
+food on a day that you're closed
+on<00:01:55.920><c> the</c><00:01:56.040><c> home</c><00:01:56.220><c> page</c><00:01:56.460><c> scroll</c><00:01:57.299><c> down</c><00:01:57.600><c> to</c><00:01:57.960><c> events</c>
+
+on the home page scroll down to events
+
+
+on the home page scroll down to events
+today
+
+today
+
+
+today
+again<00:02:00.479><c> this</c><00:02:00.840><c> will</c><00:02:00.960><c> correspond</c><00:02:01.439><c> to</c><00:02:01.680><c> the</c>
+
+again this will correspond to the
+
+
+again this will correspond to the
+opening<00:02:02.280><c> hours</c><00:02:02.579><c> you</c><00:02:03.060><c> told</c><00:02:03.240><c> us</c><00:02:03.420><c> when</c><00:02:03.780><c> we</c><00:02:03.960><c> first</c>
+
+opening hours you told us when we first
+
+
+opening hours you told us when we first
+set<00:02:04.439><c> you</c><00:02:04.619><c> up</c><00:02:04.740><c> in</c><00:02:04.920><c> the</c><00:02:05.100><c> system</c><00:02:05.280><c> if</c><00:02:06.180><c> it's</c><00:02:06.299><c> a</c><00:02:06.479><c> day</c>
+
+set you up in the system if it's a day
+
+
+set you up in the system if it's a day
+that<00:02:06.840><c> you're</c><00:02:07.020><c> closed</c><00:02:07.500><c> you'll</c><00:02:07.920><c> have</c><00:02:08.220><c> to</c><00:02:08.399><c> click</c>
+
+that you're closed you'll have to click
+
+
+that you're closed you'll have to click
+the<00:02:09.599><c> add</c><00:02:09.899><c> new</c><00:02:10.140><c> event</c><00:02:10.560><c> button</c>
+
+
+
+
+
+this<00:02:14.459><c> allows</c><00:02:14.819><c> you</c><00:02:14.940><c> to</c><00:02:15.239><c> create</c><00:02:15.540><c> an</c><00:02:15.900><c> event</c><00:02:16.080><c> on</c>
+
+this allows you to create an event on
+
+
+this allows you to create an event on
+the<00:02:16.680><c> Fly</c>
+
+the Fly
+
+
+the Fly
+it<00:02:18.180><c> says</c><00:02:18.480><c> which</c><00:02:18.840><c> event</c><00:02:19.080><c> would</c><00:02:19.379><c> you</c><00:02:19.560><c> like</c><00:02:19.680><c> to</c>
+
+it says which event would you like to
+
+
+it says which event would you like to
+create<00:02:20.160><c> please</c><00:02:20.580><c> select</c><00:02:21.000><c> an</c><00:02:21.180><c> event</c><00:02:21.560><c> these</c>
+
+create please select an event these
+
+
+create please select an event these
+events<00:02:22.920><c> will</c><00:02:23.220><c> correspond</c><00:02:24.180><c> to</c><00:02:25.080><c> the</c><00:02:25.920><c> scheduled</c>
+
+events will correspond to the scheduled
+
+
+events will correspond to the scheduled
+distribution<00:02:26.940><c> days</c><00:02:27.420><c> that</c><00:02:28.319><c> you</c><00:02:28.500><c> have</c><00:02:28.739><c> set</c><00:02:29.220><c> up</c>
+
+distribution days that you have set up
+
+
+distribution days that you have set up
+with<00:02:29.580><c> us</c>
+
+with us
+
+
+with us
+you'll<00:02:31.319><c> want</c><00:02:31.500><c> to</c><00:02:31.560><c> choose</c><00:02:31.800><c> the</c><00:02:31.980><c> one</c><00:02:32.099><c> that</c><00:02:32.340><c> most</c>
+
+you'll want to choose the one that most
+
+
+you'll want to choose the one that most
+closely<00:02:32.879><c> matches</c><00:02:33.360><c> what</c><00:02:33.540><c> you're</c><00:02:33.660><c> giving</c><00:02:33.840><c> out</c>
+
+closely matches what you're giving out
+
+
+closely matches what you're giving out
+now<00:02:34.800><c> for</c><00:02:35.640><c> example</c><00:02:35.879><c> I</c><00:02:36.300><c> have</c><00:02:36.480><c> this</c><00:02:36.840><c> Family</c>
+
+now for example I have this Family
+
+
+now for example I have this Family
+Market<00:02:37.500><c> distribution</c><00:02:38.220><c> which</c><00:02:39.060><c> is</c><00:02:39.180><c> serving</c>
+
+Market distribution which is serving
+
+
+Market distribution which is serving
+food<00:02:39.780><c> pantry</c><00:02:40.260><c> and</c><00:02:40.980><c> today</c><00:02:41.280><c> I</c><00:02:41.640><c> am</c><00:02:41.819><c> giving</c><00:02:41.940><c> out</c>
+
+food pantry and today I am giving out
+
+
+food pantry and today I am giving out
+food<00:02:42.480><c> so</c><00:02:43.019><c> that</c><00:02:43.260><c> makes</c><00:02:43.440><c> sense</c>
+
+food so that makes sense
+
+
+food so that makes sense
+I'm<00:02:45.120><c> going</c><00:02:45.300><c> to</c><00:02:45.660><c> select</c><00:02:46.440><c> this</c>
+
+I'm going to select this
+
+
+I'm going to select this
+once<00:02:48.599><c> I've</c><00:02:48.660><c> selected</c><00:02:49.140><c> the</c><00:02:49.319><c> event</c><00:02:49.500><c> the</c><00:02:49.860><c> date</c>
+
+once I've selected the event the date
+
+
+once I've selected the event the date
+and<00:02:50.280><c> time</c><00:02:50.400><c> can</c><00:02:50.700><c> be</c><00:02:50.819><c> edited</c><00:02:51.239><c> the</c><00:02:52.080><c> date</c><00:02:52.260><c> defaults</c>
+
+and time can be edited the date defaults
+
+
+and time can be edited the date defaults
+to<00:02:53.040><c> today</c><00:02:53.340><c> which</c><00:02:53.879><c> is</c><00:02:54.000><c> right</c><00:02:54.239><c> for</c><00:02:54.480><c> me</c><00:02:54.599><c> because</c>
+
+to today which is right for me because
+
+
+to today which is right for me because
+I'm<00:02:55.080><c> giving</c><00:02:55.260><c> out</c><00:02:55.500><c> food</c><00:02:55.800><c> today</c><00:02:56.360><c> the</c><00:02:57.360><c> time</c><00:02:57.540><c> can</c>
+
+I'm giving out food today the time can
+
+
+I'm giving out food today the time can
+be<00:02:58.019><c> edited</c><00:02:58.440><c> if</c><00:02:58.800><c> you</c><00:02:59.040><c> want</c><00:02:59.360><c> but</c><00:03:00.360><c> you</c><00:03:00.540><c> will</c><00:03:00.660><c> be</c>
+
+be edited if you want but you will be
+
+
+be edited if you want but you will be
+able<00:03:00.959><c> to</c><00:03:01.080><c> record</c><00:03:01.379><c> visits</c><00:03:02.040><c> all</c><00:03:02.280><c> day</c><00:03:02.459><c> even</c><00:03:02.940><c> if</c>
+
+able to record visits all day even if
+
+
+able to record visits all day even if
+you<00:03:03.420><c> have</c><00:03:03.599><c> your</c><00:03:03.840><c> event</c><00:03:03.959><c> only</c><00:03:04.379><c> lasting</c><00:03:04.920><c> an</c><00:03:05.099><c> hour</c>
+
+you have your event only lasting an hour
+
+
+you have your event only lasting an hour
+here<00:03:05.580><c> the</c><00:03:06.000><c> system</c><00:03:06.180><c> will</c><00:03:06.420><c> allow</c><00:03:06.720><c> you</c><00:03:06.780><c> to</c><00:03:07.080><c> record</c>
+
+here the system will allow you to record
+
+
+here the system will allow you to record
+visits<00:03:08.099><c> for</c><00:03:08.340><c> the</c><00:03:08.700><c> entire</c><00:03:09.000><c> date</c><00:03:09.360><c> that</c><00:03:09.599><c> you've</c>
+
+visits for the entire date that you've
+
+
+visits for the entire date that you've
+selected
+
+selected
+
+
+selected
+uh<00:03:11.760><c> the</c><00:03:12.120><c> time</c><00:03:12.360><c> zone</c><00:03:12.599><c> can</c><00:03:12.959><c> remain</c><00:03:13.500><c> Eastern</c><00:03:13.980><c> Time</c>
+
+uh the time zone can remain Eastern Time
+
+
+uh the time zone can remain Eastern Time
+and<00:03:15.840><c> then</c><00:03:15.959><c> I'll</c><00:03:16.200><c> click</c><00:03:16.560><c> save</c>
+
+
+
+
+
+event<00:03:19.560><c> has</c><00:03:19.980><c> been</c><00:03:20.159><c> added</c><00:03:20.580><c> you</c><00:03:21.000><c> can</c><00:03:21.120><c> now</c><00:03:21.300><c> add</c><00:03:21.540><c> a</c>
+
+event has been added you can now add a
+
+
+event has been added you can now add a
+visit<00:03:21.780><c> using</c><00:03:22.260><c> this</c><00:03:22.500><c> event</c>
+
+visit using this event
+
+
+visit using this event
+I'll<00:03:23.879><c> click</c><00:03:24.180><c> done</c>
+
+I'll click done
+
+
+I'll click done
+and<00:03:26.280><c> now</c><00:03:26.459><c> you</c><00:03:26.640><c> see</c><00:03:26.760><c> the</c><00:03:27.060><c> add</c><00:03:27.239><c> new</c><00:03:27.480><c> household</c>
+
+and now you see the add new household
+
+
+and now you see the add new household
+button<00:03:28.319><c> that</c><00:03:28.440><c> is</c><00:03:28.620><c> back</c><00:03:28.940><c> and</c><00:03:29.940><c> the</c><00:03:30.360><c> search</c><00:03:30.540><c> will</c>
+
+button that is back and the search will
+
+
+button that is back and the search will
+also<00:03:31.440><c> function</c><00:03:31.800><c> correctly</c><00:03:32.459><c> to</c><00:03:32.940><c> look</c><00:03:33.120><c> someone</c>
+
+also function correctly to look someone
+
+
+also function correctly to look someone
+up
+
+up
+
+
+up
+the<00:03:34.860><c> add</c><00:03:34.980><c> new</c><00:03:35.220><c> event</c><00:03:35.459><c> is</c><00:03:35.879><c> a</c><00:03:36.060><c> way</c><00:03:36.180><c> to</c><00:03:36.360><c> record</c>
+
+the add new event is a way to record
+
+
+the add new event is a way to record
+visits<00:03:37.140><c> on</c><00:03:37.379><c> the</c><00:03:37.560><c> fly</c><00:03:37.739><c> but</c><00:03:38.220><c> if</c><00:03:38.340><c> you</c><00:03:38.459><c> want</c><00:03:38.640><c> to</c>
+
+visits on the fly but if you want to
+
+
+visits on the fly but if you want to
+permanently<00:03:39.420><c> change</c><00:03:39.780><c> your</c><00:03:40.019><c> pantry</c><00:03:40.440><c> hours</c>
+
+permanently change your pantry hours
+
+
+permanently change your pantry hours
+please<00:03:41.640><c> let</c><00:03:42.000><c> us</c><00:03:42.239><c> on</c><00:03:42.599><c> the</c><00:03:42.780><c> service</c><00:03:43.019><c> insights</c>
+
+please let us on the service insights
+
+
+please let us on the service insights
+team<00:03:43.980><c> know</c><00:03:44.340><c> we</c><00:03:45.000><c> will</c><00:03:45.180><c> update</c><00:03:45.540><c> your</c><00:03:45.780><c> settings</c>
+
+team know we will update your settings
+
+
+team know we will update your settings
+in<00:03:46.379><c> the</c><00:03:46.500><c> system</c><00:03:46.620><c> permanently</c>
+
+in the system permanently
+
+
+in the system permanently
+so<00:03:48.480><c> now</c><00:03:48.659><c> you</c><00:03:48.780><c> know</c><00:03:48.959><c> how</c><00:03:49.200><c> to</c><00:03:49.379><c> record</c><00:03:49.560><c> visits</c><00:03:50.220><c> and</c>
+
+so now you know how to record visits and
+
+
+so now you know how to record visits and
+new<00:03:50.640><c> households</c><00:03:51.299><c> outside</c><00:03:51.720><c> of</c><00:03:52.260><c> your</c><00:03:52.379><c> hours</c><00:03:52.560><c> of</c>
+
+new households outside of your hours of
+
+
+new households outside of your hours of
+operations<00:03:53.220><c> if</c><00:03:54.060><c> you</c><00:03:54.180><c> have</c><00:03:54.299><c> any</c><00:03:54.540><c> questions</c>
+
+operations if you have any questions
+
+
+operations if you have any questions
+please<00:03:55.440><c> just</c><00:03:55.680><c> let</c><00:03:55.860><c> us</c><00:03:55.980><c> know</c>

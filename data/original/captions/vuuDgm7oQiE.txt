@@ -1,0 +1,822 @@
+WEBVTT
+Kind: captions
+Language: en
+
+
+hey<00:00:07.980><c> all</c><00:00:08.280><c> this</c><00:00:08.519><c> is</c><00:00:08.700><c> Samantha</c><00:00:09.240><c> Perez</c><00:00:09.720><c> showing</c>
+
+hey all this is Samantha Perez showing
+
+
+hey all this is Samantha Perez showing
+you<00:00:10.620><c> a</c><00:00:11.280><c> newer</c><00:00:11.639><c> feature</c><00:00:12.000><c> in</c><00:00:12.240><c> the</c><00:00:12.420><c> service</c>
+
+you a newer feature in the service
+
+
+you a newer feature in the service
+insights<00:00:13.440><c> system</c><00:00:13.880><c> we</c><00:00:14.880><c> are</c><00:00:15.000><c> going</c><00:00:15.120><c> to</c><00:00:15.240><c> look</c><00:00:15.420><c> at</c>
+
+insights system we are going to look at
+
+
+insights system we are going to look at
+some<00:00:16.020><c> additional</c><00:00:16.500><c> fields</c><00:00:17.100><c> that</c><00:00:17.279><c> have</c>
+
+some additional fields that have
+
+
+some additional fields that have
+appeared<00:00:17.880><c> on</c><00:00:18.240><c> the</c><00:00:18.480><c> Finish</c><00:00:18.660><c> visit</c><00:00:19.020><c> page</c>
+
+appeared on the Finish visit page
+
+
+appeared on the Finish visit page
+these<00:00:21.660><c> are</c><00:00:21.840><c> all</c><00:00:22.140><c> optional</c><00:00:22.680><c> Fields</c><00:00:23.220><c> if</c><00:00:23.760><c> you</c>
+
+these are all optional Fields if you
+
+
+these are all optional Fields if you
+want<00:00:24.180><c> to</c><00:00:24.420><c> track</c><00:00:24.660><c> more</c><00:00:25.019><c> info</c><00:00:25.320><c> about</c><00:00:25.500><c> your</c>
+
+want to track more info about your
+
+
+want to track more info about your
+services<00:00:26.039><c> you</c><00:00:26.580><c> can</c><00:00:26.699><c> fill</c><00:00:26.880><c> them</c><00:00:27.119><c> out</c><00:00:27.359><c> or</c><00:00:28.080><c> you</c>
+
+services you can fill them out or you
+
+
+services you can fill them out or you
+can<00:00:28.439><c> simply</c><00:00:28.800><c> skip</c><00:00:29.099><c> them</c>
+
+can simply skip them
+
+
+can simply skip them
+there<00:00:30.480><c> are</c><00:00:30.599><c> spaces</c><00:00:31.019><c> for</c><00:00:31.260><c> you</c><00:00:31.320><c> to</c><00:00:31.560><c> fill</c><00:00:31.740><c> out</c>
+
+there are spaces for you to fill out
+
+
+there are spaces for you to fill out
+pounds<00:00:32.640><c> pieces</c><00:00:33.680><c> dollars</c><00:00:34.680><c> and</c><00:00:35.040><c> meals</c>
+
+pounds pieces dollars and meals
+
+
+pounds pieces dollars and meals
+for<00:00:36.960><c> pounds</c><00:00:37.380><c> this</c><00:00:37.800><c> would</c><00:00:38.040><c> be</c><00:00:38.280><c> the</c><00:00:38.640><c> pounds</c><00:00:39.059><c> of</c>
+
+for pounds this would be the pounds of
+
+
+for pounds this would be the pounds of
+food<00:00:39.480><c> given</c><00:00:39.840><c> to</c><00:00:39.960><c> each</c><00:00:40.200><c> person</c>
+
+food given to each person
+
+
+food given to each person
+for<00:00:41.820><c> pieces</c><00:00:42.239><c> this</c><00:00:42.780><c> could</c><00:00:43.020><c> be</c><00:00:43.260><c> bags</c><00:00:43.980><c> of</c><00:00:44.160><c> food</c>
+
+for pieces this could be bags of food
+
+
+for pieces this could be bags of food
+boxes<00:00:45.420><c> or</c><00:00:46.020><c> really</c><00:00:46.200><c> anything</c><00:00:46.559><c> else</c><00:00:47.160><c> it's</c><00:00:48.059><c> vague</c>
+
+boxes or really anything else it's vague
+
+
+boxes or really anything else it's vague
+on<00:00:48.780><c> purpose</c><00:00:49.140><c> so</c><00:00:49.680><c> that</c><00:00:49.860><c> you</c><00:00:50.160><c> could</c><00:00:50.280><c> use</c><00:00:50.520><c> it</c>
+
+on purpose so that you could use it
+
+
+on purpose so that you could use it
+however<00:00:51.059><c> you</c><00:00:51.420><c> need</c><00:00:51.539><c> to</c>
+
+however you need to
+
+
+however you need to
+for<00:00:53.219><c> dollars</c><00:00:53.640><c> this</c><00:00:53.940><c> would</c><00:00:54.120><c> be</c><00:00:54.300><c> used</c><00:00:54.539><c> if</c><00:00:55.079><c> you</c>
+
+for dollars this would be used if you
+
+
+for dollars this would be used if you
+are<00:00:55.500><c> giving</c><00:00:55.739><c> financial</c><00:00:56.399><c> assistance</c>
+
+are giving financial assistance
+
+
+are giving financial assistance
+and<00:00:58.800><c> meals</c><00:00:59.280><c> would</c><00:00:59.520><c> be</c><00:00:59.699><c> used</c><00:00:59.940><c> for</c><00:01:00.360><c> giving</c><00:01:00.600><c> out</c>
+
+and meals would be used for giving out
+
+
+and meals would be used for giving out
+prepared<00:01:01.620><c> meals</c>
+
+prepared meals
+
+
+prepared meals
+so<00:01:03.719><c> pounds</c><00:01:04.379><c> pieces</c><00:01:04.920><c> and</c><00:01:05.700><c> meals</c><00:01:06.240><c> all</c><00:01:07.020><c> require</c>
+
+so pounds pieces and meals all require
+
+
+so pounds pieces and meals all require
+whole<00:01:08.040><c> numbers</c><00:01:08.420><c> so</c><00:01:09.420><c> we</c><00:01:09.780><c> are</c><00:01:09.960><c> not</c><00:01:10.260><c> allowed</c><00:01:10.820><c> to</c>
+
+whole numbers so we are not allowed to
+
+
+whole numbers so we are not allowed to
+type<00:01:12.560><c> 1.5</c><00:01:13.560><c> pounds</c><00:01:14.460><c> we</c><00:01:15.180><c> have</c><00:01:15.420><c> to</c><00:01:15.960><c> make</c><00:01:16.799><c> it</c><00:01:16.979><c> a</c>
+
+type 1.5 pounds we have to make it a
+
+
+type 1.5 pounds we have to make it a
+round<00:01:17.340><c> number</c><00:01:17.640><c> I</c><00:01:18.600><c> recommend</c><00:01:18.960><c> rounding</c><00:01:19.560><c> up</c><00:01:19.799><c> if</c>
+
+round number I recommend rounding up if
+
+
+round number I recommend rounding up if
+you<00:01:20.220><c> need</c><00:01:20.400><c> to</c>
+
+you need to
+
+
+you need to
+four<00:01:23.340><c> dollars</c>
+
+four dollars
+
+
+four dollars
+um<00:01:24.720><c> it</c><00:01:24.960><c> does</c><00:01:25.140><c> require</c><00:01:25.500><c> all</c><00:01:26.340><c> four</c><00:01:26.580><c> numbers</c><00:01:27.060><c> so</c>
+
+um it does require all four numbers so
+
+
+um it does require all four numbers so
+that's<00:01:28.200><c> the</c><00:01:28.619><c> dollars</c><00:01:29.159><c> and</c><00:01:29.520><c> the</c><00:01:29.700><c> cents</c><00:01:30.060><c> if</c><00:01:30.540><c> I</c>
+
+that's the dollars and the cents if I
+
+
+that's the dollars and the cents if I
+was<00:01:31.259><c> putting</c><00:01:31.860><c> in</c><00:01:32.040><c> 25</c>
+
+was putting in 25
+
+
+was putting in 25
+uh<00:01:34.140><c> I</c><00:01:34.320><c> would</c><00:01:34.439><c> need</c><00:01:34.680><c> to</c><00:01:34.799><c> write</c><00:01:35.040><c> out</c><00:01:35.220><c> 25</c><00:01:35.640><c> period</c>
+
+uh I would need to write out 25 period
+
+
+uh I would need to write out 25 period
+zero<00:01:36.960><c> zero</c><00:01:37.320><c> rather</c><00:01:37.860><c> than</c><00:01:38.040><c> just</c><00:01:38.340><c> 25.</c>
+
+
+
+
+
+the<00:01:42.180><c> description</c>
+
+the description
+
+
+the description
+is<00:01:44.159><c> for</c><00:01:44.460><c> you</c><00:01:44.640><c> if</c><00:01:44.820><c> you</c><00:01:45.000><c> want</c><00:01:45.240><c> to</c><00:01:45.479><c> add</c><00:01:45.780><c> additional</c>
+
+is for you if you want to add additional
+
+
+is for you if you want to add additional
+notes<00:01:46.860><c> about</c><00:01:47.040><c> your</c><00:01:47.400><c> service</c><00:01:47.659><c> for</c><00:01:48.659><c> example</c><00:01:48.960><c> I</c>
+
+notes about your service for example I
+
+
+notes about your service for example I
+could<00:01:49.500><c> write</c><00:01:49.740><c> provided</c><00:01:50.520><c> produce</c><00:01:51.479><c> meat</c><00:01:52.200><c> and</c>
+
+could write provided produce meat and
+
+
+could write provided produce meat and
+dry<00:01:52.799><c> goods</c>
+
+dry goods
+
+
+dry goods
+again<00:01:54.659><c> totally</c><00:01:55.200><c> optional</c>
+
+again totally optional
+
+
+again totally optional
+if<00:01:57.659><c> we</c><00:01:57.899><c> scroll</c><00:01:58.200><c> down</c><00:01:58.680><c> if</c><00:01:59.640><c> I</c><00:01:59.820><c> wanted</c><00:01:59.880><c> to</c><00:02:00.119><c> add</c>
+
+if we scroll down if I wanted to add
+
+
+if we scroll down if I wanted to add
+baby<00:02:00.600><c> supplies</c><00:02:01.140><c> to</c><00:02:01.320><c> this</c><00:02:01.500><c> visit</c>
+
+baby supplies to this visit
+
+
+baby supplies to this visit
+you<00:02:03.360><c> can</c><00:02:03.420><c> see</c><00:02:03.659><c> the</c><00:02:04.020><c> fields</c><00:02:04.439><c> appear</c><00:02:04.920><c> once</c><00:02:05.520><c> I</c>
+
+you can see the fields appear once I
+
+
+you can see the fields appear once I
+have<00:02:05.759><c> selected</c><00:02:06.299><c> it</c>
+
+have selected it
+
+
+have selected it
+I<00:02:08.220><c> might</c><00:02:08.399><c> write</c><00:02:08.700><c> that</c><00:02:09.060><c> we</c><00:02:09.239><c> are</c><00:02:09.420><c> providing</c><00:02:10.039><c> two</c>
+
+I might write that we are providing two
+
+
+I might write that we are providing two
+bags<00:02:12.420><c> of</c><00:02:12.720><c> diapers</c><00:02:13.220><c> under</c><00:02:14.220><c> this</c><00:02:14.640><c> pieces</c><00:02:15.120><c> option</c>
+
+bags of diapers under this pieces option
+
+
+bags of diapers under this pieces option
+and<00:02:17.400><c> I</c><00:02:17.700><c> might</c><00:02:17.879><c> want</c><00:02:18.120><c> to</c><00:02:18.360><c> write</c><00:02:18.720><c> the</c><00:02:19.140><c> what</c><00:02:19.620><c> size</c>
+
+and I might want to write the what size
+
+
+and I might want to write the what size
+of<00:02:20.220><c> diapers</c><00:02:20.640><c> I'm</c><00:02:20.879><c> giving</c><00:02:21.180><c> out</c>
+
+
+
+
+
+I'm<00:02:24.780><c> giving</c><00:02:24.959><c> out</c><00:02:25.260><c> size</c><00:02:25.560><c> 5</c><00:02:25.920><c> diapers</c>
+
+
+
+
+
+another<00:02:31.140><c> new</c><00:02:31.379><c> button</c><00:02:31.739><c> on</c><00:02:32.040><c> this</c><00:02:32.160><c> page</c><00:02:32.459><c> is</c><00:02:33.000><c> the</c>
+
+another new button on this page is the
+
+
+another new button on this page is the
+need<00:02:33.660><c> to</c><00:02:33.959><c> resend</c><00:02:34.440><c> Neighbor</c><00:02:34.920><c> card</c><00:02:35.340><c> button</c><00:02:36.260><c> if</c>
+
+need to resend Neighbor card button if
+
+
+need to resend Neighbor card button if
+the<00:02:37.500><c> client</c><00:02:37.860><c> has</c><00:02:38.400><c> provided</c><00:02:39.060><c> their</c><00:02:39.360><c> phone</c>
+
+the client has provided their phone
+
+
+the client has provided their phone
+number<00:02:39.780><c> or</c><00:02:40.200><c> email</c><00:02:40.440><c> and</c><00:02:40.860><c> agreed</c><00:02:41.280><c> to</c><00:02:41.400><c> be</c>
+
+number or email and agreed to be
+
+
+number or email and agreed to be
+contacted<00:02:42.560><c> selecting</c><00:02:43.560><c> this</c><00:02:43.980><c> will</c><00:02:44.580><c> send</c><00:02:45.180><c> them</c>
+
+contacted selecting this will send them
+
+
+contacted selecting this will send them
+their<00:02:45.900><c> barcode</c><00:02:46.379><c> again</c><00:02:46.800><c> via</c><00:02:47.459><c> text</c><00:02:47.700><c> or</c><00:02:48.000><c> email</c>
+
+
+
+
+
+when<00:02:51.300><c> you're</c><00:02:51.420><c> done</c><00:02:51.660><c> you</c><00:02:52.440><c> will</c><00:02:52.500><c> click</c><00:02:52.860><c> the</c>
+
+when you're done you will click the
+
+
+when you're done you will click the
+Finish<00:02:53.280><c> Button</c><00:02:53.819><c> as</c><00:02:54.180><c> usual</c>
+
+Finish Button as usual
+
+
+Finish Button as usual
+remember<00:02:55.739><c> that</c><00:02:56.099><c> writing</c><00:02:56.700><c> pounds</c><00:02:57.420><c> pieces</c>
+
+remember that writing pounds pieces
+
+
+remember that writing pounds pieces
+dollars<00:02:58.260><c> or</c><00:02:58.379><c> meals</c><00:02:58.800><c> is</c><00:02:59.040><c> optional</c><00:02:59.580><c> but</c><00:03:00.239><c> this</c>
+
+dollars or meals is optional but this
+
+
+dollars or meals is optional but this
+could<00:03:00.599><c> help</c><00:03:00.900><c> you</c><00:03:01.080><c> track</c><00:03:01.379><c> the</c><00:03:01.680><c> amounts</c><00:03:02.040><c> you're</c>
+
+could help you track the amounts you're
+
+
+could help you track the amounts you're
+giving<00:03:02.400><c> out</c>
+
+
+
+
+
+I<00:03:06.660><c> wanted</c><00:03:06.840><c> to</c><00:03:07.140><c> take</c><00:03:07.440><c> us</c><00:03:07.620><c> back</c><00:03:07.920><c> to</c><00:03:08.220><c> the</c><00:03:08.519><c> home</c>
+
+I wanted to take us back to the home
+
+
+I wanted to take us back to the home
+screen<00:03:09.060><c> so</c><00:03:09.959><c> that</c><00:03:10.319><c> you</c><00:03:10.680><c> can</c><00:03:10.860><c> see</c><00:03:11.159><c> how</c><00:03:11.700><c> to</c>
+
+screen so that you can see how to
+
+
+screen so that you can see how to
+retrieve<00:03:12.659><c> this</c><00:03:12.840><c> information</c><00:03:13.019><c> in</c><00:03:13.739><c> a</c><00:03:13.920><c> report</c>
+
+retrieve this information in a report
+
+
+retrieve this information in a report
+once<00:03:14.640><c> you've</c><00:03:14.760><c> gathered</c><00:03:15.060><c> it</c>
+
+once you've gathered it
+
+
+once you've gathered it
+if<00:03:16.260><c> you</c><00:03:16.440><c> go</c><00:03:16.620><c> to</c><00:03:16.739><c> the</c><00:03:17.040><c> upper</c><00:03:17.459><c> left</c>
+
+if you go to the upper left
+
+
+if you go to the upper left
+quarter<00:03:19.379><c> and</c><00:03:19.739><c> click</c><00:03:20.159><c> you're</c><00:03:20.819><c> going</c><00:03:21.000><c> to</c><00:03:21.120><c> see</c>
+
+quarter and click you're going to see
+
+
+quarter and click you're going to see
+the<00:03:21.540><c> reports</c><00:03:21.959><c> you</c><00:03:22.080><c> have</c><00:03:22.200><c> available</c>
+
+the reports you have available
+
+
+the reports you have available
+and<00:03:24.300><c> you</c><00:03:24.720><c> will</c><00:03:24.840><c> need</c><00:03:25.080><c> the</c><00:03:25.440><c> data</c><00:03:25.860><c> export</c><00:03:26.220><c> report</c>
+
+and you will need the data export report
+
+
+and you will need the data export report
+the<00:03:28.860><c> agency</c><00:03:29.220><c> admin</c><00:03:29.760><c> at</c><00:03:30.120><c> your</c><00:03:30.300><c> site</c><00:03:30.540><c> will</c><00:03:30.840><c> have</c>
+
+the agency admin at your site will have
+
+
+the agency admin at your site will have
+access<00:03:31.379><c> to</c><00:03:31.800><c> this</c><00:03:31.980><c> other</c><00:03:32.400><c> users</c><00:03:32.879><c> will</c><00:03:33.180><c> not</c><00:03:33.420><c> if</c>
+
+access to this other users will not if
+
+
+access to this other users will not if
+you<00:03:34.140><c> have</c><00:03:34.260><c> any</c><00:03:34.440><c> questions</c><00:03:34.680><c> about</c><00:03:35.099><c> who</c><00:03:35.580><c> at</c><00:03:35.940><c> your</c>
+
+you have any questions about who at your
+
+
+you have any questions about who at your
+site<00:03:36.360><c> is</c><00:03:36.720><c> the</c><00:03:36.959><c> agency</c><00:03:37.319><c> admin</c><00:03:38.040><c> please</c><00:03:38.580><c> just</c><00:03:38.879><c> let</c>
+
+site is the agency admin please just let
+
+
+site is the agency admin please just let
+me<00:03:39.239><c> know</c>
+
+
+
+
+
+so<00:03:42.180><c> with</c><00:03:42.420><c> this</c><00:03:42.540><c> data</c><00:03:42.900><c> export</c><00:03:43.519><c> uh</c><00:03:44.519><c> exports</c>
+
+so with this data export uh exports
+
+
+so with this data export uh exports
+identifiable<00:03:46.560><c> information</c><00:03:46.980><c> outside</c><00:03:47.879><c> of</c><00:03:48.299><c> the</c>
+
+identifiable information outside of the
+
+
+identifiable information outside of the
+system<00:03:48.720><c> so</c><00:03:49.140><c> it's</c><00:03:49.260><c> very</c><00:03:49.620><c> important</c><00:03:50.040><c> to</c><00:03:50.519><c> be</c>
+
+system so it's very important to be
+
+
+system so it's very important to be
+careful<00:03:51.299><c> with</c><00:03:51.599><c> this</c><00:03:51.780><c> information</c><00:03:52.340><c> if</c><00:03:53.340><c> you</c>
+
+careful with this information if you
+
+
+careful with this information if you
+print<00:03:53.700><c> it</c><00:03:53.879><c> out</c><00:03:54.060><c> make</c><00:03:54.420><c> sure</c><00:03:54.540><c> you</c><00:03:54.780><c> shred</c><00:03:55.080><c> it</c>
+
+print it out make sure you shred it
+
+
+print it out make sure you shred it
+afterward<00:03:55.739><c> or</c><00:03:56.099><c> keep</c><00:03:56.280><c> it</c><00:03:56.459><c> in</c><00:03:56.640><c> a</c><00:03:56.760><c> lock</c><00:03:56.940><c> cabinet</c>
+
+afterward or keep it in a lock cabinet
+
+
+afterward or keep it in a lock cabinet
+and<00:03:58.319><c> make</c><00:03:58.500><c> sure</c><00:03:58.739><c> that</c><00:03:59.220><c> you</c><00:03:59.700><c> keep</c><00:04:00.000><c> the</c><00:04:00.239><c> file</c>
+
+and make sure that you keep the file
+
+
+and make sure that you keep the file
+secure<00:04:01.019><c> if</c><00:04:01.379><c> it</c><00:04:01.500><c> is</c><00:04:01.620><c> saved</c><00:04:01.980><c> on</c><00:04:02.159><c> your</c><00:04:02.340><c> computer</c>
+
+secure if it is saved on your computer
+
+
+secure if it is saved on your computer
+or<00:04:03.420><c> just</c><00:04:03.599><c> delete</c><00:04:03.720><c> it</c><00:04:04.019><c> when</c><00:04:04.200><c> you're</c><00:04:04.319><c> not</c><00:04:04.440><c> done</c>
+
+or just delete it when you're not done
+
+
+or just delete it when you're not done
+with<00:04:04.799><c> it</c><00:04:05.400><c> either</c><00:04:05.819><c> way</c><00:04:06.260><c> you</c><00:04:07.260><c> have</c><00:04:07.500><c> to</c><00:04:07.620><c> click</c>
+
+with it either way you have to click
+
+
+with it either way you have to click
+this
+
+this
+
+
+this
+that<00:04:09.780><c> you</c><00:04:09.959><c> take</c><00:04:10.140><c> full</c><00:04:10.439><c> responsibility</c><00:04:11.040><c> for</c>
+
+that you take full responsibility for
+
+
+that you take full responsibility for
+the<00:04:11.519><c> information</c><00:04:11.700><c> you're</c><00:04:12.180><c> exporting</c>
+
+
+
+
+
+you<00:04:15.659><c> can</c><00:04:15.840><c> either</c><00:04:16.079><c> export</c><00:04:16.620><c> a</c><00:04:16.979><c> neighbor</c><00:04:17.100><c> roster</c>
+
+
+
+
+
+okay<00:04:30.900><c> I</c><00:04:31.259><c> took</c><00:04:31.440><c> us</c><00:04:31.560><c> back</c><00:04:31.740><c> to</c><00:04:31.919><c> the</c><00:04:32.100><c> home</c><00:04:32.280><c> screen</c>
+
+okay I took us back to the home screen
+
+
+okay I took us back to the home screen
+so<00:04:32.880><c> you</c><00:04:33.000><c> can</c><00:04:33.180><c> see</c><00:04:33.360><c> how</c><00:04:33.660><c> to</c><00:04:33.840><c> get</c><00:04:34.020><c> this</c>
+
+so you can see how to get this
+
+
+so you can see how to get this
+information<00:04:34.699><c> once</c><00:04:35.699><c> you've</c><00:04:35.820><c> recorded</c><00:04:36.300><c> it</c><00:04:36.479><c> in</c><00:04:36.720><c> a</c>
+
+information once you've recorded it in a
+
+
+information once you've recorded it in a
+report
+
+report
+
+
+report
+uh<00:04:38.400><c> you'll</c><00:04:38.580><c> go</c><00:04:38.759><c> to</c><00:04:38.940><c> the</c><00:04:39.180><c> upper</c><00:04:39.540><c> left</c><00:04:39.840><c> of</c><00:04:40.440><c> the</c>
+
+uh you'll go to the upper left of the
+
+
+uh you'll go to the upper left of the
+screen<00:04:40.880><c> and</c><00:04:41.880><c> you'll</c><00:04:42.060><c> see</c><00:04:42.240><c> the</c><00:04:42.479><c> reports</c><00:04:42.840><c> you</c>
+
+screen and you'll see the reports you
+
+
+screen and you'll see the reports you
+have<00:04:43.080><c> available</c><00:04:43.280><c> the</c><00:04:44.280><c> one</c><00:04:44.400><c> you</c><00:04:44.520><c> need</c><00:04:44.759><c> is</c><00:04:45.120><c> a</c>
+
+have available the one you need is a
+
+
+have available the one you need is a
+data<00:04:45.780><c> export</c><00:04:46.280><c> this</c><00:04:47.280><c> is</c><00:04:47.460><c> a</c><00:04:47.699><c> report</c><00:04:47.940><c> that</c><00:04:48.600><c> is</c>
+
+data export this is a report that is
+
+
+data export this is a report that is
+currently<00:04:49.620><c> only</c><00:04:49.860><c> available</c><00:04:50.220><c> to</c><00:04:50.820><c> agency</c>
+
+currently only available to agency
+
+
+currently only available to agency
+admins<00:04:52.259><c> there's</c><00:04:53.040><c> generally</c><00:04:53.460><c> one</c><00:04:54.000><c> agency</c>
+
+admins there's generally one agency
+
+
+admins there's generally one agency
+admin<00:04:55.139><c> at</c><00:04:55.500><c> each</c><00:04:55.740><c> site</c><00:04:56.040><c> if</c><00:04:56.880><c> you're</c><00:04:56.940><c> not</c><00:04:57.180><c> sure</c>
+
+admin at each site if you're not sure
+
+
+admin at each site if you're not sure
+who<00:04:57.840><c> your</c><00:04:58.199><c> agency</c><00:04:58.500><c> admin</c><00:04:59.040><c> is</c><00:04:59.220><c> just</c><00:04:59.759><c> let</c><00:04:59.940><c> me</c>
+
+who your agency admin is just let me
+
+
+who your agency admin is just let me
+know
+
+know
+
+
+know
+so<00:05:01.919><c> we'll</c><00:05:02.100><c> click</c><00:05:02.340><c> data</c><00:05:02.699><c> export</c>
+
+so we'll click data export
+
+
+so we'll click data export
+uh<00:05:04.979><c> this</c><00:05:05.400><c> report</c><00:05:05.699><c> can</c><00:05:06.660><c> export</c><00:05:07.320><c> personally</c>
+
+uh this report can export personally
+
+
+uh this report can export personally
+identifiable<00:05:09.300><c> information</c><00:05:09.720><c> such</c><00:05:10.500><c> as</c><00:05:10.680><c> full</c>
+
+identifiable information such as full
+
+
+identifiable information such as full
+names<00:05:11.220><c> birthdays</c><00:05:12.000><c> addresses</c><00:05:12.720><c> so</c><00:05:13.440><c> it's</c><00:05:13.560><c> very</c>
+
+names birthdays addresses so it's very
+
+
+names birthdays addresses so it's very
+important<00:05:14.100><c> to</c><00:05:14.340><c> be</c><00:05:14.520><c> careful</c><00:05:14.940><c> with</c><00:05:15.660><c> keeping</c>
+
+important to be careful with keeping
+
+
+important to be careful with keeping
+this<00:05:16.199><c> information</c><00:05:16.440><c> secure</c><00:05:17.280><c> that</c><00:05:18.180><c> means</c><00:05:18.419><c> if</c>
+
+this information secure that means if
+
+
+this information secure that means if
+you<00:05:18.840><c> print</c><00:05:19.020><c> it</c><00:05:19.199><c> out</c><00:05:19.380><c> you</c><00:05:19.860><c> want</c><00:05:20.040><c> to</c><00:05:20.220><c> shred</c><00:05:20.699><c> it</c>
+
+you print it out you want to shred it
+
+
+you print it out you want to shred it
+afterward<00:05:21.440><c> and</c><00:05:22.440><c> when</c><00:05:22.800><c> you're</c><00:05:22.979><c> done</c><00:05:23.220><c> with</c><00:05:23.400><c> the</c>
+
+afterward and when you're done with the
+
+
+afterward and when you're done with the
+file<00:05:23.880><c> delete</c><00:05:24.419><c> it</c><00:05:24.720><c> from</c><00:05:24.900><c> your</c><00:05:25.080><c> computer</c>
+
+file delete it from your computer
+
+
+file delete it from your computer
+so<00:05:27.120><c> let's</c><00:05:27.419><c> check</c><00:05:27.720><c> that</c><00:05:27.960><c> we're</c><00:05:28.139><c> taking</c><00:05:28.320><c> full</c>
+
+so let's check that we're taking full
+
+
+so let's check that we're taking full
+responsibility
+
+
+
+
+
+I<00:05:32.340><c> recommend</c>
+
+I recommend
+
+
+I recommend
+getting<00:05:35.160><c> all</c><00:05:35.520><c> data</c><00:05:36.000><c> de-identified</c><00:05:36.900><c> this</c><00:05:37.860><c> is</c>
+
+getting all data de-identified this is
+
+
+getting all data de-identified this is
+better<00:05:38.400><c> for</c><00:05:38.880><c> people's</c><00:05:39.419><c> information</c><00:05:39.780><c> security</c>
+
+better for people's information security
+
+
+better for people's information security
+so<00:05:41.820><c> that</c><00:05:42.060><c> hopefully</c><00:05:42.419><c> it</c><00:05:42.720><c> cannot</c><00:05:42.960><c> be</c><00:05:43.080><c> matched</c>
+
+so that hopefully it cannot be matched
+
+
+so that hopefully it cannot be matched
+with<00:05:43.919><c> uh</c><00:05:44.400><c> each</c><00:05:44.759><c> individual</c>
+
+
+
+
+
+only<00:05:49.199><c> your</c><00:05:49.560><c> agency</c><00:05:49.919><c> will</c><00:05:50.340><c> be</c><00:05:50.520><c> available</c><00:05:50.699><c> to</c>
+
+only your agency will be available to
+
+
+only your agency will be available to
+select<00:05:51.479><c> from</c>
+
+select from
+
+
+select from
+you'll<00:05:52.919><c> choose</c><00:05:53.280><c> the</c><00:05:53.520><c> date</c><00:05:53.759><c> range</c><00:05:54.180><c> it</c><00:05:54.600><c> defaults</c>
+
+you'll choose the date range it defaults
+
+
+you'll choose the date range it defaults
+to<00:05:55.259><c> one</c><00:05:55.620><c> month</c>
+
+to one month
+
+
+to one month
+and<00:05:57.479><c> you'll</c><00:05:57.660><c> have</c><00:05:57.840><c> various</c><00:05:58.199><c> other</c><00:05:58.440><c> filters</c>
+
+and you'll have various other filters
+
+
+and you'll have various other filters
+here<00:05:59.340><c> please</c><00:06:00.000><c> let</c><00:06:00.240><c> me</c><00:06:00.300><c> know</c><00:06:00.419><c> if</c><00:06:00.539><c> you</c><00:06:00.660><c> have</c><00:06:00.780><c> any</c>
+
+here please let me know if you have any
+
+
+here please let me know if you have any
+questions<00:06:01.139><c> but</c><00:06:01.620><c> generally</c><00:06:01.919><c> you</c><00:06:02.340><c> can</c><00:06:02.460><c> filter</c>
+
+questions but generally you can filter
+
+
+questions but generally you can filter
+by<00:06:03.539><c> service</c><00:06:04.039><c> so</c><00:06:05.039><c> for</c><00:06:05.340><c> example</c><00:06:05.780><c> I</c><00:06:06.780><c> can</c><00:06:06.900><c> look</c><00:06:07.199><c> at</c>
+
+by service so for example I can look at
+
+
+by service so for example I can look at
+just
+
+just
+
+
+just
+food<00:06:09.660><c> pantry</c><00:06:10.199><c> services</c>
+
+food pantry services
+
+
+food pantry services
+you<00:06:12.900><c> can</c><00:06:13.020><c> choose</c><00:06:13.199><c> from</c><00:06:13.440><c> whatever</c><00:06:13.680><c> services</c>
+
+you can choose from whatever services
+
+
+you can choose from whatever services
+that<00:06:14.520><c> your</c><00:06:14.639><c> pantry</c><00:06:15.000><c> provides</c>
+
+that your pantry provides
+
+
+that your pantry provides
+let's<00:06:17.340><c> generate</c>
+
+
+
+
+
+all<00:06:26.520><c> right</c><00:06:26.699><c> so</c><00:06:26.940><c> you</c><00:06:27.120><c> can</c><00:06:27.240><c> see</c><00:06:27.479><c> I</c><00:06:27.840><c> have</c><00:06:28.020><c> a</c>
+
+all right so you can see I have a
+
+
+all right so you can see I have a
+download<00:06:28.380><c> on</c><00:06:28.860><c> my</c><00:06:29.039><c> screen</c><00:06:29.280><c> of</c><00:06:30.120><c> a</c><00:06:30.539><c> spreadsheet</c>
+
+download on my screen of a spreadsheet
+
+
+download on my screen of a spreadsheet
+that<00:06:31.979><c> when</c><00:06:32.280><c> I</c><00:06:32.400><c> open</c><00:06:32.580><c> it</c><00:06:33.080><c> it</c><00:06:34.080><c> will</c><00:06:34.380><c> show</c><00:06:34.800><c> the</c>
+
+that when I open it it will show the
+
+
+that when I open it it will show the
+pieces<00:06:36.660><c> pounds</c><00:06:37.319><c> meals</c><00:06:37.919><c> or</c><00:06:38.520><c> dollars</c><00:06:39.120><c> that</c><00:06:39.419><c> I've</c>
+
+pieces pounds meals or dollars that I've
+
+
+pieces pounds meals or dollars that I've
+recorded<00:06:40.020><c> for</c><00:06:40.259><c> each</c><00:06:40.440><c> and</c><00:06:40.620><c> every</c><00:06:40.800><c> visit</c><00:06:41.539><c> if</c><00:06:42.539><c> you</c>
+
+recorded for each and every visit if you
+
+
+recorded for each and every visit if you
+have<00:06:42.840><c> questions</c><00:06:43.259><c> about</c><00:06:43.979><c> this</c><00:06:44.520><c> or</c><00:06:44.819><c> anything</c>
+
+have questions about this or anything
+
+
+have questions about this or anything
+related<00:06:45.539><c> to</c><00:06:45.720><c> service</c><00:06:46.020><c> insights</c><00:06:46.919><c> please</c><00:06:47.580><c> let</c>
+
+related to service insights please let
+
+
+related to service insights please let
+me<00:06:48.060><c> know</c><00:06:48.360><c> and</c><00:06:49.199><c> thank</c><00:06:49.440><c> you</c><00:06:49.560><c> so</c><00:06:49.740><c> much</c><00:06:49.919><c> for</c>
+
+me know and thank you so much for
+
+
+me know and thank you so much for
+participating

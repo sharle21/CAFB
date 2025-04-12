@@ -1,0 +1,528 @@
+WEBVTT
+Kind: captions
+Language: en
+
+
+hi<00:00:00.960><c> everyone</c><00:00:01.520><c> welcome</c><00:00:01.920><c> to</c><00:00:02.080><c> the</c><00:00:02.240><c> capitol</c><00:00:02.720><c> area</c>
+
+hi everyone welcome to the capitol area
+
+
+hi everyone welcome to the capitol area
+food<00:00:03.199><c> bank</c><00:00:03.520><c> recipe</c><00:00:03.919><c> video</c><00:00:04.319><c> library</c><00:00:05.120><c> today</c><00:00:05.520><c> we</c>
+
+food bank recipe video library today we
+
+
+food bank recipe video library today we
+are<00:00:05.920><c> going</c><00:00:06.160><c> to</c><00:00:06.319><c> be</c><00:00:06.480><c> making</c><00:00:06.960><c> creamy</c><00:00:07.359><c> mustard</c>
+
+are going to be making creamy mustard
+
+
+are going to be making creamy mustard
+vinaigrette<00:00:08.880><c> and</c><00:00:09.200><c> this</c><00:00:09.440><c> is</c><00:00:09.599><c> a</c><00:00:09.679><c> really</c><00:00:09.920><c> tasty</c>
+
+vinaigrette and this is a really tasty
+
+
+vinaigrette and this is a really tasty
+recipe<00:00:10.800><c> compare</c><00:00:11.200><c> it</c><00:00:11.280><c> with</c><00:00:11.519><c> any</c><00:00:11.840><c> greens</c><00:00:12.160><c> that</c>
+
+recipe compare it with any greens that
+
+
+recipe compare it with any greens that
+you'd<00:00:12.559><c> like</c>
+
+you'd like
+
+
+you'd like
+um<00:00:13.759><c> today</c><00:00:14.080><c> i'm</c><00:00:14.320><c> going</c><00:00:14.480><c> to</c><00:00:14.559><c> pair</c><00:00:14.799><c> it</c><00:00:14.960><c> with</c>
+
+um today i'm going to pair it with
+
+
+um today i'm going to pair it with
+arugula<00:00:15.920><c> but</c><00:00:16.080><c> feel</c><00:00:16.320><c> free</c><00:00:16.560><c> to</c><00:00:16.720><c> pair</c><00:00:16.880><c> it</c><00:00:16.960><c> with</c>
+
+arugula but feel free to pair it with
+
+
+arugula but feel free to pair it with
+any
+
+any
+
+
+any
+um<00:00:18.400><c> greens</c><00:00:18.640><c> you</c><00:00:18.800><c> like</c><00:00:19.039><c> so</c><00:00:19.119><c> if</c><00:00:19.279><c> you</c><00:00:19.359><c> like</c>
+
+um greens you like so if you like
+
+
+um greens you like so if you like
+lettuce<00:00:20.000><c> or</c><00:00:20.320><c> spinach</c><00:00:20.880><c> anything</c><00:00:21.359><c> that</c><00:00:21.439><c> you'd</c>
+
+lettuce or spinach anything that you'd
+
+
+lettuce or spinach anything that you'd
+like<00:00:21.760><c> to</c><00:00:21.920><c> pair</c><00:00:22.080><c> it</c><00:00:22.160><c> with</c>
+
+like to pair it with
+
+
+like to pair it with
+so<00:00:23.199><c> i</c><00:00:23.600><c> will</c><00:00:23.760><c> tell</c><00:00:23.920><c> you</c><00:00:24.080><c> what</c><00:00:24.240><c> we're</c><00:00:24.400><c> going</c><00:00:24.480><c> to</c>
+
+so i will tell you what we're going to
+
+
+so i will tell you what we're going to
+be<00:00:24.640><c> using</c><00:00:24.960><c> today</c><00:00:25.199><c> to</c><00:00:25.359><c> make</c><00:00:25.680><c> our</c><00:00:25.840><c> vinaigrette</c>
+
+be using today to make our vinaigrette
+
+
+be using today to make our vinaigrette
+today<00:00:28.080><c> we're</c><00:00:28.240><c> going</c><00:00:28.320><c> to</c><00:00:28.400><c> be</c><00:00:28.840><c> using</c>
+
+today we're going to be using
+
+
+today we're going to be using
+one<00:00:30.800><c> head</c><00:00:30.960><c> of</c><00:00:31.119><c> garlic</c>
+
+one head of garlic
+
+
+one head of garlic
+or<00:00:32.320><c> one</c><00:00:32.559><c> ball</c><00:00:32.800><c> of</c><00:00:32.880><c> garlic</c>
+
+or one ball of garlic
+
+
+or one ball of garlic
+we're<00:00:34.719><c> going</c><00:00:34.800><c> to</c><00:00:34.880><c> be</c><00:00:35.120><c> using</c>
+
+we're going to be using
+
+
+we're going to be using
+one<00:00:36.960><c> tablespoon</c><00:00:37.840><c> of</c><00:00:38.079><c> extra</c><00:00:38.399><c> virgin</c><00:00:38.800><c> olive</c><00:00:39.120><c> oil</c>
+
+one tablespoon of extra virgin olive oil
+
+
+one tablespoon of extra virgin olive oil
+we're<00:00:40.719><c> going</c><00:00:40.800><c> to</c><00:00:40.879><c> be</c><00:00:41.040><c> using</c><00:00:41.440><c> a</c><00:00:41.600><c> fourth</c><00:00:41.920><c> of</c><00:00:42.079><c> a</c>
+
+we're going to be using a fourth of a
+
+
+we're going to be using a fourth of a
+cup<00:00:42.480><c> of</c><00:00:42.640><c> white</c><00:00:42.960><c> wine</c><00:00:43.280><c> vinegar</c>
+
+cup of white wine vinegar
+
+
+cup of white wine vinegar
+a<00:00:46.000><c> fourth</c><00:00:46.239><c> of</c><00:00:46.399><c> a</c><00:00:46.480><c> cup</c><00:00:46.879><c> of</c><00:00:47.120><c> canola</c><00:00:47.680><c> oil</c>
+
+
+
+
+
+one<00:00:50.559><c> tablespoon</c><00:00:51.440><c> of</c><00:00:51.600><c> dijon</c><00:00:52.079><c> mustard</c>
+
+one tablespoon of dijon mustard
+
+
+one tablespoon of dijon mustard
+one<00:00:54.480><c> tablespoon</c><00:00:55.280><c> of</c><00:00:55.440><c> white</c><00:00:55.760><c> sugar</c><00:00:56.320><c> you</c><00:00:56.399><c> could</c>
+
+one tablespoon of white sugar you could
+
+
+one tablespoon of white sugar you could
+use<00:00:56.800><c> honey</c><00:00:57.199><c> if</c><00:00:57.280><c> you're</c><00:00:57.440><c> not</c><00:00:57.680><c> a</c><00:00:57.840><c> big</c><00:00:58.079><c> fan</c><00:00:58.320><c> of</c>
+
+use honey if you're not a big fan of
+
+
+use honey if you're not a big fan of
+sugar
+
+sugar
+
+
+sugar
+um<00:01:00.160><c> and</c><00:01:00.399><c> we're</c><00:01:00.559><c> going</c><00:01:00.640><c> to</c><00:01:00.719><c> be</c><00:01:00.879><c> using</c><00:01:01.440><c> a</c><00:01:01.600><c> fourth</c>
+
+um and we're going to be using a fourth
+
+
+um and we're going to be using a fourth
+of<00:01:02.079><c> a</c><00:01:02.160><c> teaspoon</c><00:01:02.800><c> of</c><00:01:02.960><c> salt</c>
+
+of a teaspoon of salt
+
+
+of a teaspoon of salt
+and<00:01:05.119><c> a</c><00:01:05.280><c> fourth</c><00:01:05.519><c> of</c><00:01:05.680><c> a</c><00:01:05.760><c> teaspoon</c><00:01:06.320><c> of</c><00:01:06.479><c> pepper</c>
+
+and a fourth of a teaspoon of pepper
+
+
+and a fourth of a teaspoon of pepper
+all<00:01:08.640><c> right</c><00:01:08.960><c> so</c><00:01:09.119><c> what</c><00:01:09.200><c> we're</c><00:01:09.360><c> going</c><00:01:09.439><c> to</c><00:01:09.600><c> do</c>
+
+all right so what we're going to do
+
+
+all right so what we're going to do
+first<00:01:10.080><c> is</c><00:01:10.240><c> we're</c><00:01:10.560><c> going</c><00:01:10.799><c> to</c><00:01:10.880><c> go</c><00:01:11.119><c> ahead</c><00:01:11.439><c> and</c><00:01:11.600><c> cut</c>
+
+first is we're going to go ahead and cut
+
+
+first is we're going to go ahead and cut
+up<00:01:11.920><c> our</c><00:01:12.000><c> garlic</c>
+
+up our garlic
+
+
+up our garlic
+so<00:01:13.520><c> for</c><00:01:13.680><c> this</c><00:01:13.920><c> i'm</c><00:01:14.000><c> just</c><00:01:14.159><c> going</c><00:01:14.240><c> to</c><00:01:14.320><c> take</c><00:01:14.560><c> my</c>
+
+so for this i'm just going to take my
+
+
+so for this i'm just going to take my
+knife<00:01:15.360><c> and</c><00:01:15.520><c> take</c><00:01:15.759><c> my</c><00:01:16.000><c> hand</c><00:01:16.479><c> and</c><00:01:16.720><c> just</c><00:01:17.119><c> brush</c><00:01:17.520><c> it</c>
+
+knife and take my hand and just brush it
+
+
+knife and take my hand and just brush it
+okay
+
+okay
+
+
+okay
+so<00:01:20.000><c> this</c><00:01:20.240><c> makes</c><00:01:20.479><c> it</c><00:01:20.640><c> a</c><00:01:20.720><c> little</c><00:01:20.960><c> easier</c><00:01:21.439><c> to</c><00:01:21.680><c> peel</c>
+
+so this makes it a little easier to peel
+
+
+so this makes it a little easier to peel
+the<00:01:23.200><c> garlic</c>
+
+the garlic
+
+
+the garlic
+so<00:01:25.280><c> we're</c><00:01:25.360><c> just</c><00:01:25.520><c> going</c><00:01:25.680><c> to</c><00:01:25.759><c> take</c><00:01:26.080><c> all</c><00:01:26.240><c> of</c><00:01:26.320><c> this</c>
+
+so we're just going to take all of this
+
+
+so we're just going to take all of this
+off
+
+
+
+
+
+perfect
+
+
+
+
+
+so<00:01:33.520><c> next</c><00:01:33.759><c> we're</c><00:01:33.920><c> just</c><00:01:34.079><c> going</c><00:01:34.240><c> to</c><00:01:34.320><c> mix</c><00:01:34.799><c> mince</c><00:01:35.119><c> up</c>
+
+so next we're just going to mix mince up
+
+
+so next we're just going to mix mince up
+our<00:01:35.439><c> garlic</c><00:01:36.320><c> so</c><00:01:36.479><c> we're</c><00:01:36.560><c> going</c><00:01:36.720><c> to</c><00:01:36.799><c> cut</c><00:01:36.960><c> it</c><00:01:37.200><c> into</c>
+
+our garlic so we're going to cut it into
+
+
+our garlic so we're going to cut it into
+really<00:01:38.159><c> tiny</c><00:01:38.560><c> pieces</c>
+
+
+
+
+
+make<00:01:43.600><c> sure</c><00:01:43.840><c> we're</c><00:01:44.000><c> watching</c><00:01:44.399><c> my</c><00:01:44.640><c> fingers</c>
+
+
+
+
+
+and<00:01:52.399><c> once</c><00:01:52.640><c> it</c><00:01:52.720><c> gets</c><00:01:52.960><c> super</c><00:01:53.280><c> small</c><00:01:53.520><c> like</c><00:01:53.759><c> this</c>
+
+and once it gets super small like this
+
+
+and once it gets super small like this
+i<00:01:55.040><c> just</c><00:01:55.280><c> like</c><00:01:55.520><c> to</c><00:01:55.759><c> just</c><00:01:56.320><c> make</c><00:01:56.560><c> it</c><00:01:56.719><c> a</c><00:01:56.880><c> tad</c><00:01:57.200><c> bit</c>
+
+i just like to just make it a tad bit
+
+
+i just like to just make it a tad bit
+smaller
+
+smaller
+
+
+smaller
+get<00:02:00.159><c> it</c><00:02:00.399><c> nice</c><00:02:00.719><c> and</c><00:02:00.960><c> minced</c>
+
+
+
+
+
+perfect
+
+perfect
+
+
+perfect
+all<00:02:06.799><c> right</c><00:02:06.960><c> once</c><00:02:07.200><c> we</c><00:02:07.360><c> have</c><00:02:07.520><c> our</c><00:02:07.600><c> garlic</c><00:02:08.000><c> we're</c>
+
+all right once we have our garlic we're
+
+
+all right once we have our garlic we're
+going<00:02:08.239><c> to</c><00:02:08.319><c> go</c><00:02:08.479><c> ahead</c><00:02:08.879><c> and</c><00:02:09.119><c> put</c><00:02:09.360><c> it</c><00:02:09.599><c> into</c><00:02:10.000><c> our</c>
+
+going to go ahead and put it into our
+
+
+going to go ahead and put it into our
+bowl
+
+
+
+
+
+so<00:02:15.120><c> here's</c><00:02:15.440><c> our</c><00:02:15.520><c> bowl</c><00:02:16.319><c> and</c><00:02:16.560><c> right</c><00:02:16.720><c> now</c><00:02:17.120><c> all</c><00:02:17.280><c> we</c>
+
+so here's our bowl and right now all we
+
+
+so here's our bowl and right now all we
+have<00:02:17.920><c> is</c><00:02:18.160><c> our</c><00:02:18.400><c> garlic</c><00:02:19.200><c> so</c><00:02:19.360><c> next</c><00:02:19.599><c> what</c><00:02:19.680><c> we're</c>
+
+have is our garlic so next what we're
+
+
+have is our garlic so next what we're
+going<00:02:20.000><c> to</c><00:02:20.080><c> do</c><00:02:20.319><c> is</c><00:02:20.560><c> we</c><00:02:20.720><c> are</c><00:02:20.879><c> going</c><00:02:21.280><c> to</c><00:02:21.599><c> add</c><00:02:22.080><c> our</c>
+
+going to do is we are going to add our
+
+
+going to do is we are going to add our
+salt
+
+salt
+
+
+salt
+okay
+
+okay
+
+
+okay
+so<00:02:24.879><c> our</c><00:02:25.040><c> fourth</c><00:02:25.280><c> a</c><00:02:25.360><c> teaspoon</c><00:02:25.760><c> of</c><00:02:25.920><c> salt</c><00:02:26.480><c> we</c><00:02:26.560><c> are</c>
+
+so our fourth a teaspoon of salt we are
+
+
+so our fourth a teaspoon of salt we are
+going<00:02:26.959><c> to</c><00:02:27.120><c> add</c><00:02:27.520><c> our</c><00:02:27.760><c> sugar</c><00:02:28.640><c> so</c><00:02:28.800><c> our</c><00:02:29.040><c> one</c>
+
+going to add our sugar so our one
+
+
+going to add our sugar so our one
+tablespoon<00:02:29.920><c> of</c><00:02:30.000><c> white</c><00:02:30.319><c> sugar</c>
+
+tablespoon of white sugar
+
+
+tablespoon of white sugar
+and<00:02:31.680><c> then</c><00:02:31.920><c> next</c><00:02:32.160><c> we're</c><00:02:32.319><c> going</c><00:02:32.400><c> to</c><00:02:32.560><c> add</c><00:02:32.879><c> our</c>
+
+and then next we're going to add our
+
+
+and then next we're going to add our
+dijon<00:02:33.680><c> mustard</c><00:02:34.400><c> all</c><00:02:34.480><c> right</c><00:02:35.200><c> and</c><00:02:35.360><c> then</c><00:02:35.920><c> next</c><00:02:36.560><c> we</c>
+
+dijon mustard all right and then next we
+
+
+dijon mustard all right and then next we
+are<00:02:37.280><c> going</c><00:02:37.680><c> to</c>
+
+are going to
+
+
+are going to
+mix<00:02:39.280><c> it</c><00:02:39.360><c> all</c><00:02:39.519><c> together</c>
+
+mix it all together
+
+
+mix it all together
+okay<00:02:41.440><c> well</c><00:02:41.680><c> before</c><00:02:42.080><c> we</c><00:02:42.239><c> do</c><00:02:42.400><c> that</c><00:02:42.560><c> we're</c><00:02:42.720><c> going</c>
+
+okay well before we do that we're going
+
+
+okay well before we do that we're going
+to<00:02:42.959><c> add</c><00:02:43.360><c> our</c><00:02:43.760><c> white</c><00:02:44.000><c> vinegar</c>
+
+to add our white vinegar
+
+
+to add our white vinegar
+and<00:02:46.400><c> we</c><00:02:46.640><c> are</c><00:02:46.720><c> going</c><00:02:47.040><c> to</c><00:02:47.280><c> make</c><00:02:47.440><c> sure</c><00:02:47.599><c> that</c><00:02:47.760><c> we</c>
+
+and we are going to make sure that we
+
+
+and we are going to make sure that we
+whisk<00:02:48.319><c> it</c><00:02:48.400><c> all</c><00:02:48.560><c> together</c>
+
+
+
+
+
+so<00:02:56.319><c> now</c><00:02:56.480><c> that</c><00:02:56.560><c> we</c><00:02:56.720><c> whisk</c><00:02:56.959><c> that</c><00:02:57.200><c> all</c><00:02:57.360><c> together</c>
+
+so now that we whisk that all together
+
+
+so now that we whisk that all together
+we're<00:02:58.800><c> just</c><00:02:58.959><c> gonna</c><00:02:59.200><c> slowly</c><00:02:59.920><c> add</c>
+
+we're just gonna slowly add
+
+
+we're just gonna slowly add
+our<00:03:01.599><c> tablespoon</c><00:03:02.560><c> of</c><00:03:03.040><c> extra</c><00:03:03.360><c> virgin</c><00:03:03.760><c> olive</c><00:03:04.000><c> oil</c>
+
+
+
+
+
+so<00:03:06.560><c> we're</c><00:03:06.720><c> gonna</c><00:03:06.879><c> add</c><00:03:07.120><c> that</c>
+
+so we're gonna add that
+
+
+so we're gonna add that
+and<00:03:08.319><c> then</c><00:03:08.480><c> we're</c><00:03:08.640><c> just</c><00:03:08.800><c> gonna</c><00:03:08.959><c> whisk</c><00:03:09.200><c> it</c><00:03:09.360><c> again</c>
+
+
+
+
+
+and<00:03:13.840><c> then</c><00:03:14.080><c> we</c><00:03:14.239><c> are</c><00:03:14.400><c> going</c><00:03:14.640><c> to</c><00:03:14.800><c> add</c><00:03:15.200><c> our</c><00:03:15.599><c> fourth</c>
+
+and then we are going to add our fourth
+
+
+and then we are going to add our fourth
+of<00:03:16.000><c> a</c><00:03:16.159><c> cup</c><00:03:16.400><c> of</c><00:03:16.560><c> canola</c><00:03:17.040><c> oil</c><00:03:18.239><c> i'm</c><00:03:18.400><c> just</c><00:03:18.560><c> going</c><00:03:18.640><c> to</c>
+
+of a cup of canola oil i'm just going to
+
+
+of a cup of canola oil i'm just going to
+add<00:03:18.879><c> that</c><00:03:19.040><c> to</c><00:03:19.200><c> our</c><00:03:19.360><c> bowl</c>
+
+
+
+
+
+whisk<00:03:22.560><c> it</c><00:03:22.720><c> again</c>
+
+
+
+
+
+and<00:03:27.280><c> then</c><00:03:27.440><c> we're</c><00:03:27.599><c> just</c><00:03:27.760><c> going</c><00:03:27.840><c> to</c><00:03:28.000><c> top</c><00:03:28.319><c> it</c><00:03:28.560><c> with</c>
+
+and then we're just going to top it with
+
+
+and then we're just going to top it with
+our<00:03:29.200><c> fourth</c><00:03:29.519><c> of</c><00:03:29.599><c> a</c><00:03:29.680><c> teaspoon</c><00:03:30.159><c> of</c><00:03:30.319><c> pepper</c>
+
+our fourth of a teaspoon of pepper
+
+
+our fourth of a teaspoon of pepper
+so<00:03:31.440><c> we're</c><00:03:31.519><c> just</c><00:03:31.680><c> going</c><00:03:31.760><c> to</c><00:03:32.000><c> sprinkle</c><00:03:32.640><c> it</c><00:03:32.879><c> on</c>
+
+
+
+
+
+all<00:03:39.519><c> right</c>
+
+all right
+
+
+all right
+and<00:03:41.360><c> there</c><00:03:41.599><c> you</c><00:03:41.840><c> have</c><00:03:42.080><c> it</c><00:03:42.400><c> we</c><00:03:42.640><c> have</c><00:03:43.120><c> our</c><00:03:43.440><c> creamy</c>
+
+and there you have it we have our creamy
+
+
+and there you have it we have our creamy
+mustard<00:03:44.239><c> vinaigrette</c><00:03:45.200><c> and</c><00:03:45.360><c> if</c><00:03:45.519><c> you</c><00:03:45.599><c> really</c>
+
+mustard vinaigrette and if you really
+
+
+mustard vinaigrette and if you really
+enjoyed<00:03:46.400><c> this</c><00:03:46.640><c> recipe</c><00:03:47.440><c> and</c><00:03:47.680><c> you</c><00:03:47.840><c> like</c><00:03:48.080><c> it</c><00:03:48.239><c> and</c>
+
+enjoyed this recipe and you like it and
+
+
+enjoyed this recipe and you like it and
+you<00:03:48.480><c> want</c><00:03:48.560><c> to</c><00:03:48.720><c> pair</c><00:03:48.879><c> it</c><00:03:48.959><c> with</c><00:03:49.120><c> something</c><00:03:49.519><c> else</c>
+
+you want to pair it with something else
+
+
+you want to pair it with something else
+we<00:03:50.080><c> have</c><00:03:50.400><c> our</c><00:03:50.560><c> link</c><00:03:50.799><c> below</c><00:03:51.599><c> click</c><00:03:51.840><c> that</c><00:03:52.480><c> click</c>
+
+we have our link below click that click
+
+
+we have our link below click that click
+that<00:03:53.200><c> and</c><00:03:53.360><c> find</c><00:03:53.680><c> all</c><00:03:53.760><c> of</c><00:03:53.920><c> our</c><00:03:54.000><c> really</c><00:03:54.319><c> amazing</c>
+
+that and find all of our really amazing
+
+
+that and find all of our really amazing
+recipes<00:03:55.519><c> thank</c><00:03:55.760><c> you</c>

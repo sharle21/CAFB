@@ -1,0 +1,1080 @@
+WEBVTT
+Kind: captions
+Language: en
+
+
+hey<00:00:02.800><c> everyone</c><00:00:03.240><c> in</c><00:00:03.360><c> this</c><00:00:03.480><c> service</c><00:00:03.800><c> insights</c>
+
+hey everyone in this service insights
+
+
+hey everyone in this service insights
+video<00:00:04.520><c> we're</c><00:00:04.640><c> going</c><00:00:04.720><c> to</c><00:00:04.839><c> be</c><00:00:04.960><c> talking</c><00:00:05.200><c> about</c>
+
+video we're going to be talking about
+
+
+video we're going to be talking about
+how<00:00:05.480><c> to</c><00:00:05.640><c> navigate</c><00:00:06.000><c> to</c><00:00:06.160><c> your</c><00:00:06.359><c> reports</c><00:00:07.200><c> as</c><00:00:07.359><c> well</c>
+
+how to navigate to your reports as well
+
+
+how to navigate to your reports as well
+as<00:00:07.799><c> some</c><00:00:08.320><c> basic</c><00:00:08.679><c> controls</c><00:00:09.120><c> and</c><00:00:09.320><c> Tau</c><00:00:09.760><c> to</c><00:00:09.880><c> make</c>
+
+as some basic controls and Tau to make
+
+
+as some basic controls and Tau to make
+the<00:00:10.200><c> most</c><00:00:10.400><c> of</c><00:00:10.559><c> them</c><00:00:11.440><c> so</c><00:00:12.080><c> starting</c><00:00:12.360><c> from</c><00:00:12.480><c> the</c>
+
+the most of them so starting from the
+
+
+the most of them so starting from the
+home<00:00:12.799><c> screen</c><00:00:13.200><c> you</c><00:00:13.320><c> want</c><00:00:13.440><c> to</c><00:00:13.599><c> navigate</c><00:00:13.960><c> to</c><00:00:14.160><c> this</c>
+
+home screen you want to navigate to this
+
+
+home screen you want to navigate to this
+icon<00:00:14.679><c> that</c><00:00:14.799><c> looks</c><00:00:15.000><c> like</c><00:00:15.160><c> three</c><00:00:15.440><c> horizontal</c>
+
+icon that looks like three horizontal
+
+
+icon that looks like three horizontal
+lines<00:00:16.279><c> in</c><00:00:16.400><c> the</c><00:00:16.560><c> top</c><00:00:16.760><c> left</c><00:00:16.960><c> corner</c><00:00:17.199><c> of</c><00:00:17.320><c> your</c>
+
+lines in the top left corner of your
+
+
+lines in the top left corner of your
+screen<00:00:19.720><c> go</c><00:00:19.880><c> ahead</c><00:00:20.080><c> and</c><00:00:20.199><c> select</c>
+
+screen go ahead and select
+
+
+screen go ahead and select
+that<00:00:22.480><c> and</c><00:00:22.640><c> then</c><00:00:22.920><c> select</c><00:00:23.519><c> summary</c>
+
+that and then select summary
+
+
+that and then select summary
+statistics<00:00:26.359><c> on</c><00:00:26.560><c> this</c><00:00:26.760><c> page</c><00:00:27.320><c> you'll</c><00:00:27.560><c> see</c><00:00:27.960><c> each</c>
+
+statistics on this page you'll see each
+
+
+statistics on this page you'll see each
+of<00:00:28.320><c> the</c><00:00:28.480><c> different</c><00:00:28.800><c> reporting</c><00:00:29.279><c> dashboards</c>
+
+of the different reporting dashboards
+
+
+of the different reporting dashboards
+that<00:00:29.800><c> you</c><00:00:30.039><c> can</c><00:00:30.240><c> access</c><00:00:31.039><c> we'll</c><00:00:31.240><c> go</c><00:00:31.359><c> through</c><00:00:31.519><c> all</c>
+
+that you can access we'll go through all
+
+
+that you can access we'll go through all
+of<00:00:31.800><c> these</c><00:00:31.920><c> in</c><00:00:32.040><c> their</c><00:00:32.160><c> own</c><00:00:32.439><c> video</c><00:00:32.960><c> but</c><00:00:33.079><c> for</c><00:00:33.280><c> the</c>
+
+of these in their own video but for the
+
+
+of these in their own video but for the
+purpose<00:00:33.680><c> of</c><00:00:33.800><c> this</c><00:00:33.960><c> demonstration</c><00:00:34.760><c> we</c><00:00:34.920><c> want</c><00:00:35.040><c> to</c>
+
+purpose of this demonstration we want to
+
+
+purpose of this demonstration we want to
+select<00:00:35.640><c> snapshot</c><00:00:36.480><c> overview</c><00:00:37.480><c> when</c><00:00:37.600><c> you</c><00:00:37.719><c> select</c>
+
+select snapshot overview when you select
+
+
+select snapshot overview when you select
+that<00:00:38.640><c> it'll</c><00:00:38.879><c> open</c><00:00:39.120><c> up</c><00:00:39.320><c> Tableau</c><00:00:39.960><c> in</c><00:00:40.079><c> a</c><00:00:40.200><c> new</c><00:00:40.680><c> tab</c>
+
+that it'll open up Tableau in a new tab
+
+
+that it'll open up Tableau in a new tab
+so<00:00:41.960><c> if</c><00:00:42.079><c> at</c><00:00:42.239><c> any</c><00:00:42.480><c> time</c><00:00:42.640><c> you</c><00:00:42.760><c> need</c><00:00:42.920><c> to</c><00:00:43.079><c> navigate</c>
+
+so if at any time you need to navigate
+
+
+so if at any time you need to navigate
+back<00:00:43.760><c> to</c><00:00:43.920><c> service</c><00:00:44.280><c> insights</c><00:00:45.280><c> just</c><00:00:45.480><c> check</c><00:00:45.719><c> at</c>
+
+back to service insights just check at
+
+
+back to service insights just check at
+the<00:00:46.000><c> top</c><00:00:46.160><c> of</c><00:00:46.239><c> your</c><00:00:46.480><c> browser</c><00:00:47.480><c> and</c><00:00:47.719><c> navigate</c>
+
+the top of your browser and navigate
+
+
+the top of your browser and navigate
+back<00:00:51.079><c> so</c><00:00:51.280><c> a</c><00:00:51.399><c> quick</c><00:00:51.559><c> word</c><00:00:51.800><c> about</c><00:00:52.039><c> what</c><00:00:52.160><c> you're</c>
+
+back so a quick word about what you're
+
+
+back so a quick word about what you're
+looking<00:00:52.520><c> at</c><00:00:52.760><c> here</c><00:00:53.680><c> service</c><00:00:54.160><c> insights</c><00:00:54.600><c> uses</c><00:00:55.280><c> uh</c>
+
+looking at here service insights uses uh
+
+
+looking at here service insights uses uh
+software<00:00:55.840><c> called</c><00:00:56.079><c> Tableau</c><00:00:56.760><c> to</c><00:00:56.920><c> build</c><00:00:57.239><c> its</c>
+
+software called Tableau to build its
+
+
+software called Tableau to build its
+reports<00:00:58.399><c> Tableau</c><00:00:58.800><c> is</c><00:00:58.879><c> a</c><00:00:59.000><c> data</c><00:00:59.239><c> visualization</c>
+
+reports Tableau is a data visualization
+
+
+reports Tableau is a data visualization
+software<00:01:00.600><c> that</c><00:01:00.760><c> pulls</c><00:01:01.079><c> in</c><00:01:01.399><c> all</c><00:01:01.680><c> of</c><00:01:02.039><c> the</c><00:01:02.359><c> visit</c>
+
+software that pulls in all of the visit
+
+
+software that pulls in all of the visit
+information<00:01:03.519><c> that</c><00:01:03.680><c> you</c><00:01:03.879><c> record</c><00:01:04.159><c> in</c><00:01:04.320><c> service</c>
+
+information that you record in service
+
+
+information that you record in service
+insights<00:01:05.600><c> to</c><00:01:05.960><c> turn</c><00:01:06.240><c> them</c><00:01:06.479><c> into</c><00:01:06.840><c> easy</c><00:01:07.280><c> reports</c>
+
+insights to turn them into easy reports
+
+
+insights to turn them into easy reports
+graphs<00:01:09.119><c> and</c><00:01:09.360><c> even</c><00:01:09.680><c> Maps</c><00:01:10.080><c> as</c><00:01:10.200><c> you</c><00:01:10.320><c> see</c>
+
+graphs and even Maps as you see
+
+
+graphs and even Maps as you see
+here<00:01:12.479><c> to</c><00:01:12.640><c> make</c><00:01:12.840><c> things</c><00:01:13.040><c> easier</c><00:01:13.479><c> you</c><00:01:13.640><c> always</c>
+
+here to make things easier you always
+
+
+here to make things easier you always
+want<00:01:13.920><c> to</c><00:01:14.040><c> pay</c><00:01:14.200><c> attention</c><00:01:14.560><c> to</c><00:01:14.840><c> a</c><00:01:14.960><c> couple</c><00:01:15.159><c> of</c>
+
+want to pay attention to a couple of
+
+
+want to pay attention to a couple of
+things<00:01:15.799><c> particularly</c><00:01:16.439><c> the</c><00:01:16.560><c> filters</c><00:01:17.520><c> which</c>
+
+things particularly the filters which
+
+
+things particularly the filters which
+are<00:01:17.759><c> going</c><00:01:17.880><c> to</c><00:01:18.000><c> be</c><00:01:18.240><c> on</c><00:01:18.360><c> the</c><00:01:18.560><c> left</c><00:01:18.840><c> hand</c><00:01:19.080><c> side</c><00:01:19.240><c> of</c>
+
+are going to be on the left hand side of
+
+
+are going to be on the left hand side of
+your<00:01:19.520><c> screen</c><00:01:20.320><c> and</c><00:01:20.520><c> the</c><00:01:20.759><c> controls</c><00:01:21.759><c> which</c><00:01:21.960><c> run</c>
+
+your screen and the controls which run
+
+
+your screen and the controls which run
+across<00:01:22.759><c> the</c><00:01:23.000><c> top</c>
+
+across the top
+
+
+across the top
+here<00:01:25.159><c> we'll</c><00:01:25.320><c> look</c><00:01:25.439><c> at</c><00:01:25.520><c> the</c><00:01:25.600><c> filters</c>
+
+here we'll look at the filters
+
+
+here we'll look at the filters
+first<00:01:28.000><c> you'll</c><00:01:28.240><c> see</c><00:01:28.720><c> that</c><00:01:29.079><c> when</c><00:01:29.280><c> you</c><00:01:29.479><c> load</c><00:01:29.759><c> up</c>
+
+first you'll see that when you load up
+
+
+first you'll see that when you load up
+up<00:01:30.240><c> the</c><00:01:30.360><c> snapshot</c><00:01:30.920><c> overview</c><00:01:31.720><c> you</c><00:01:31.880><c> have</c><00:01:32.000><c> a</c>
+
+up the snapshot overview you have a
+
+
+up the snapshot overview you have a
+start<00:01:32.399><c> date</c><00:01:32.600><c> and</c><00:01:32.720><c> an</c><00:01:32.840><c> end</c><00:01:33.079><c> date</c><00:01:33.479><c> and</c><00:01:33.600><c> these</c>
+
+start date and an end date and these
+
+
+start date and an end date and these
+default<00:01:34.119><c> to</c><00:01:34.280><c> the</c><00:01:34.439><c> last</c><00:01:34.680><c> full</c><00:01:35.040><c> calendar</c><00:01:35.479><c> month</c>
+
+default to the last full calendar month
+
+
+default to the last full calendar month
+so<00:01:36.240><c> I'm</c><00:01:36.360><c> recording</c><00:01:36.720><c> this</c><00:01:36.880><c> video</c><00:01:37.159><c> in</c><00:01:37.640><c> January</c>
+
+so I'm recording this video in January
+
+
+so I'm recording this video in January
+but<00:01:39.040><c> since</c><00:01:39.399><c> the</c><00:01:39.600><c> last</c><00:01:39.799><c> full</c><00:01:40.040><c> month</c><00:01:40.280><c> was</c>
+
+but since the last full month was
+
+
+but since the last full month was
+December<00:01:41.000><c> we</c><00:01:41.119><c> have</c><00:01:41.240><c> our</c><00:01:41.399><c> start</c><00:01:41.640><c> date</c><00:01:41.840><c> and</c><00:01:41.960><c> end</c>
+
+December we have our start date and end
+
+
+December we have our start date and end
+date<00:01:42.320><c> as</c><00:01:42.479><c> the</c><00:01:42.600><c> first</c><00:01:42.799><c> and</c><00:01:42.960><c> the</c><00:01:43.119><c> last</c><00:01:43.399><c> day</c><00:01:43.680><c> of</c>
+
+date as the first and the last day of
+
+
+date as the first and the last day of
+December<00:01:44.799><c> you</c><00:01:44.880><c> can</c><00:01:45.040><c> change</c><00:01:45.360><c> these</c><00:01:45.520><c> at</c><00:01:45.640><c> any</c>
+
+December you can change these at any
+
+
+December you can change these at any
+time<00:01:46.479><c> to</c><00:01:46.799><c> pull</c><00:01:47.040><c> in</c><00:01:47.399><c> different</c><00:01:48.200><c> visits</c><00:01:48.759><c> that</c>
+
+time to pull in different visits that
+
+
+time to pull in different visits that
+were<00:01:49.520><c> in</c><00:01:49.680><c> that</c><00:01:49.920><c> period</c><00:01:50.240><c> that</c><00:01:50.360><c> you</c><00:01:50.560><c> specify</c>
+
+were in that period that you specify
+
+
+were in that period that you specify
+just<00:01:51.520><c> keep</c><00:01:51.680><c> in</c><00:01:51.759><c> mind</c><00:01:51.960><c> that</c><00:01:52.159><c> as</c><00:01:52.280><c> you</c><00:01:52.479><c> change</c>
+
+just keep in mind that as you change
+
+
+just keep in mind that as you change
+anything<00:01:53.159><c> in</c><00:01:53.280><c> the</c><00:01:53.399><c> filters</c><00:01:54.399><c> the</c><00:01:54.520><c> dashboard</c><00:01:54.920><c> to</c>
+
+anything in the filters the dashboard to
+
+
+anything in the filters the dashboard to
+the<00:01:55.159><c> right</c><00:01:55.320><c> will</c><00:01:55.520><c> automatically</c><00:01:56.159><c> refresh</c><00:01:56.920><c> to</c>
+
+the right will automatically refresh to
+
+
+the right will automatically refresh to
+pull<00:01:57.399><c> in</c><00:01:57.799><c> more</c><00:01:58.079><c> information</c>
+
+
+
+
+
+for<00:02:01.640><c> food</c><00:02:01.920><c> bank</c><00:02:02.360><c> you</c><00:02:02.520><c> won't</c><00:02:02.719><c> have</c><00:02:02.840><c> any</c><00:02:03.000><c> options</c>
+
+for food bank you won't have any options
+
+
+for food bank you won't have any options
+here<00:02:03.600><c> because</c><00:02:03.880><c> you're</c><00:02:04.079><c> all</c><00:02:04.320><c> under</c><00:02:04.560><c> the</c>
+
+here because you're all under the
+
+
+here because you're all under the
+Capital<00:02:05.000><c> Area</c><00:02:05.280><c> food</c><00:02:05.520><c> bank</c><00:02:06.200><c> and</c><00:02:06.399><c> likewise</c><00:02:06.719><c> for</c>
+
+Capital Area food bank and likewise for
+
+
+Capital Area food bank and likewise for
+agency<00:02:07.280><c> you'll</c><00:02:07.439><c> just</c><00:02:07.560><c> have</c><00:02:07.719><c> your</c><00:02:07.920><c> own</c><00:02:08.599><c> I'm</c>
+
+agency you'll just have your own I'm
+
+
+agency you'll just have your own I'm
+using<00:02:09.039><c> my</c><00:02:09.200><c> food</c><00:02:09.399><c> bank</c><00:02:09.599><c> administrator</c><00:02:10.160><c> account</c>
+
+using my food bank administrator account
+
+
+using my food bank administrator account
+so<00:02:10.560><c> I</c><00:02:10.640><c> can</c><00:02:10.759><c> look</c><00:02:10.920><c> at</c><00:02:11.080><c> several</c><00:02:11.400><c> different</c>
+
+so I can look at several different
+
+
+so I can look at several different
+agencies<00:02:12.040><c> at</c><00:02:12.200><c> once</c><00:02:12.599><c> you'll</c><00:02:12.840><c> just</c><00:02:13.000><c> see</c><00:02:13.400><c> your</c>
+
+agencies at once you'll just see your
+
+
+agencies at once you'll just see your
+own<00:02:13.879><c> food</c><00:02:14.160><c> pantry</c>
+
+own food pantry
+
+
+own food pantry
+there<00:02:16.920><c> program</c><00:02:17.280><c> location</c><00:02:17.800><c> name</c><00:02:18.160><c> might</c><00:02:18.319><c> come</c>
+
+there program location name might come
+
+
+there program location name might come
+into<00:02:18.720><c> play</c><00:02:19.080><c> if</c><00:02:19.200><c> you</c><00:02:19.319><c> are</c><00:02:19.599><c> a</c><00:02:19.760><c> partner</c><00:02:20.200><c> who</c><00:02:20.440><c> has</c>
+
+into play if you are a partner who has
+
+
+into play if you are a partner who has
+multiple<00:02:21.319><c> different</c><00:02:21.640><c> locations</c><00:02:22.560><c> for</c>
+
+multiple different locations for
+
+
+multiple different locations for
+instance<00:02:23.280><c> if</c><00:02:23.400><c> you</c><00:02:23.640><c> have</c><00:02:24.040><c> a</c><00:02:24.239><c> traditional</c><00:02:24.599><c> brick</c>
+
+instance if you have a traditional brick
+
+
+instance if you have a traditional brick
+and<00:02:24.920><c> mortar</c><00:02:25.239><c> pantry</c><00:02:25.680><c> and</c><00:02:25.760><c> you</c><00:02:25.920><c> also</c><00:02:26.160><c> do</c><00:02:26.360><c> a</c>
+
+and mortar pantry and you also do a
+
+
+and mortar pantry and you also do a
+popup<00:02:26.840><c> or</c><00:02:26.959><c> a</c><00:02:27.040><c> mobile</c><00:02:27.360><c> distribution</c><00:02:28.239><c> and</c><00:02:28.360><c> you</c>
+
+popup or a mobile distribution and you
+
+
+popup or a mobile distribution and you
+want<00:02:28.560><c> to</c><00:02:28.720><c> sort</c><00:02:29.040><c> through</c><00:02:29.360><c> just</c><00:02:29.560><c> one</c><00:02:29.959><c> of</c><00:02:30.080><c> those</c>
+
+want to sort through just one of those
+
+
+want to sort through just one of those
+locations<00:02:31.120><c> you</c><00:02:31.239><c> can</c><00:02:31.400><c> use</c><00:02:31.599><c> the</c><00:02:31.760><c> program</c>
+
+locations you can use the program
+
+
+locations you can use the program
+location<00:02:32.599><c> name</c><00:02:32.840><c> field</c><00:02:33.440><c> to</c><00:02:33.760><c> pull</c><00:02:34.040><c> apart</c><00:02:34.640><c> those</c>
+
+location name field to pull apart those
+
+
+location name field to pull apart those
+visits<00:02:37.680><c> your</c><00:02:38.040><c> events</c><00:02:38.720><c> describe</c><00:02:39.480><c> the</c><00:02:39.840><c> schedule</c>
+
+visits your events describe the schedule
+
+
+visits your events describe the schedule
+for<00:02:41.280><c> the</c><00:02:41.440><c> visits</c><00:02:41.760><c> that</c><00:02:41.879><c> you</c><00:02:42.000><c> want</c><00:02:42.080><c> to</c><00:02:42.239><c> look</c><00:02:42.400><c> at</c>
+
+for the visits that you want to look at
+
+
+for the visits that you want to look at
+so<00:02:43.000><c> for</c><00:02:43.200><c> example</c><00:02:43.640><c> if</c><00:02:43.720><c> you</c><00:02:43.840><c> just</c><00:02:43.959><c> want</c><00:02:44.080><c> to</c><00:02:44.239><c> look</c>
+
+so for example if you just want to look
+
+
+so for example if you just want to look
+at<00:02:44.519><c> the</c><00:02:44.640><c> visits</c><00:02:45.000><c> that</c><00:02:45.120><c> were</c><00:02:45.280><c> recorded</c><00:02:45.680><c> on</c><00:02:46.040><c> your</c>
+
+at the visits that were recorded on your
+
+
+at the visits that were recorded on your
+first<00:02:46.879><c> Friday</c><00:02:47.319><c> distributions</c><00:02:48.319><c> or</c><00:02:48.440><c> if</c><00:02:48.519><c> you</c>
+
+first Friday distributions or if you
+
+
+first Friday distributions or if you
+only<00:02:48.840><c> want</c><00:02:48.959><c> to</c><00:02:49.120><c> look</c><00:02:49.360><c> at</c><00:02:49.519><c> your</c><00:02:49.800><c> weekday</c>
+
+only want to look at your weekday
+
+
+only want to look at your weekday
+afternoon<00:02:50.879><c> distributions</c><00:02:51.879><c> you</c><00:02:52.000><c> can</c><00:02:52.159><c> do</c><00:02:52.319><c> so</c><00:02:52.519><c> in</c>
+
+afternoon distributions you can do so in
+
+
+afternoon distributions you can do so in
+the<00:02:52.800><c> events</c>
+
+the events
+
+
+the events
+filter<00:02:55.800><c> for</c><00:02:56.040><c> program</c><00:02:56.440><c> type</c><00:02:56.680><c> you'll</c><00:02:56.840><c> see</c><00:02:57.040><c> the</c>
+
+filter for program type you'll see the
+
+
+filter for program type you'll see the
+different<00:02:57.400><c> services</c><00:02:57.840><c> that</c><00:02:57.959><c> you</c><00:02:58.159><c> offer</c><00:02:59.120><c> for</c>
+
+different services that you offer for
+
+
+different services that you offer for
+most<00:02:59.480><c> fantry</c><00:02:59.840><c> uses</c><00:03:00.080><c> is</c><00:03:00.200><c> going</c><00:03:00.360><c> to</c><00:03:00.480><c> be</c><00:03:00.720><c> food</c>
+
+most fantry uses is going to be food
+
+
+most fantry uses is going to be food
+food<00:03:01.360><c> pantry</c><00:03:02.040><c> but</c><00:03:02.319><c> you</c><00:03:02.519><c> might</c><00:03:02.879><c> also</c><00:03:03.120><c> have</c>
+
+food pantry but you might also have
+
+
+food pantry but you might also have
+options<00:03:03.840><c> such</c><00:03:04.120><c> as</c><00:03:04.360><c> baby</c><00:03:04.599><c> supplies</c><00:03:05.080><c> or</c><00:03:05.200><c> for</c>
+
+options such as baby supplies or for
+
+
+options such as baby supplies or for
+personal<00:03:05.760><c> care</c><00:03:06.000><c> products</c>
+
+personal care products
+
+
+personal care products
+too<00:03:08.720><c> and</c><00:03:08.879><c> likewise</c><00:03:09.200><c> service</c><00:03:09.519><c> display</c><00:03:09.840><c> name</c>
+
+too and likewise service display name
+
+
+too and likewise service display name
+allows<00:03:10.400><c> you</c><00:03:10.560><c> to</c><00:03:10.799><c> filter</c><00:03:11.200><c> those</c><00:03:11.360><c> with</c><00:03:11.480><c> a</c><00:03:11.560><c> little</c>
+
+allows you to filter those with a little
+
+
+allows you to filter those with a little
+bit<00:03:11.840><c> more</c><00:03:12.159><c> granularity</c><00:03:13.159><c> so</c><00:03:13.440><c> if</c><00:03:13.560><c> you</c><00:03:13.680><c> are</c>
+
+bit more granularity so if you are
+
+
+bit more granularity so if you are
+providing<00:03:14.560><c> both</c><00:03:14.920><c> diapers</c><00:03:15.560><c> and</c><00:03:15.840><c> other</c><00:03:16.000><c> baby</c>
+
+providing both diapers and other baby
+
+
+providing both diapers and other baby
+supplies<00:03:16.640><c> to</c><00:03:16.840><c> your</c><00:03:17.040><c> clients</c><00:03:17.680><c> you'll</c><00:03:17.879><c> see</c><00:03:18.159><c> that</c>
+
+supplies to your clients you'll see that
+
+
+supplies to your clients you'll see that
+you<00:03:18.400><c> can</c><00:03:18.640><c> split</c><00:03:18.959><c> those</c><00:03:19.159><c> apart</c><00:03:19.480><c> here</c>
+
+you can split those apart here
+
+
+you can split those apart here
+too<00:03:22.560><c> government</c><00:03:23.000><c> program</c><00:03:23.400><c> won't</c><00:03:23.720><c> apply</c><00:03:24.000><c> for</c>
+
+too government program won't apply for
+
+
+too government program won't apply for
+most<00:03:24.720><c> this</c><00:03:24.840><c> will</c><00:03:25.000><c> only</c><00:03:25.239><c> come</c><00:03:25.400><c> into</c><00:03:25.640><c> play</c><00:03:25.959><c> if</c>
+
+most this will only come into play if
+
+
+most this will only come into play if
+you<00:03:26.200><c> are</c><00:03:26.560><c> a</c><00:03:26.799><c> partner</c><00:03:27.120><c> that</c><00:03:27.280><c> participates</c><00:03:27.760><c> in</c>
+
+you are a partner that participates in
+
+
+you are a partner that participates in
+tfap<00:03:28.760><c> which</c><00:03:28.840><c> is</c><00:03:28.920><c> a</c><00:03:29.040><c> federal</c><00:03:29.319><c> government</c>
+
+tfap which is a federal government
+
+
+tfap which is a federal government
+program<00:03:30.640><c> if</c><00:03:30.720><c> you</c><00:03:30.840><c> select</c><00:03:31.239><c> this</c><00:03:31.439><c> you'll</c><00:03:31.640><c> be</c>
+
+program if you select this you'll be
+
+
+program if you select this you'll be
+able<00:03:31.920><c> to</c><00:03:32.040><c> split</c><00:03:32.319><c> apart</c><00:03:32.680><c> your</c><00:03:32.959><c> visits</c><00:03:33.599><c> for</c><00:03:34.080><c> tfap</c>
+
+able to split apart your visits for tfap
+
+
+able to split apart your visits for tfap
+services<00:03:35.040><c> as</c><00:03:35.159><c> well</c><00:03:35.280><c> as</c><00:03:35.400><c> for</c><00:03:35.519><c> your</c><00:03:35.599><c> non-ap</c>
+
+services as well as for your non-ap
+
+
+services as well as for your non-ap
+services<00:03:38.400><c> oops</c><00:03:39.200><c> uh</c><00:03:39.400><c> lastly</c><00:03:39.760><c> we</c><00:03:39.879><c> have</c><00:03:40.000><c> a</c><00:03:40.120><c> couple</c>
+
+services oops uh lastly we have a couple
+
+
+services oops uh lastly we have a couple
+of<00:03:40.599><c> geographic</c><00:03:41.080><c> filters</c><00:03:41.439><c> down</c><00:03:41.680><c> here</c><00:03:41.879><c> sorting</c>
+
+of geographic filters down here sorting
+
+
+of geographic filters down here sorting
+by<00:03:42.680><c> county</c><00:03:43.159><c> or</c><00:03:43.360><c> by</c><00:03:43.519><c> ZIP</c><00:03:44.159><c> code</c><00:03:45.159><c> one</c><00:03:45.439><c> quick</c><00:03:45.640><c> point</c>
+
+by county or by ZIP code one quick point
+
+
+by county or by ZIP code one quick point
+of<00:03:46.000><c> order</c><00:03:46.319><c> here</c><00:03:46.560><c> you'll</c><00:03:46.760><c> see</c><00:03:47.080><c> that</c><00:03:47.360><c> in</c><00:03:47.680><c> tblo</c>
+
+of order here you'll see that in tblo
+
+
+of order here you'll see that in tblo
+you<00:03:48.439><c> see</c><00:03:48.640><c> the</c><00:03:48.760><c> word</c><00:03:49.000><c> neighbor</c><00:03:49.560><c> quite</c><00:03:49.720><c> a</c><00:03:50.000><c> bit</c>
+
+you see the word neighbor quite a bit
+
+
+you see the word neighbor quite a bit
+neighbor<00:03:51.519><c> is</c><00:03:51.680><c> just</c><00:03:51.840><c> the</c><00:03:52.000><c> way</c><00:03:52.159><c> that</c><00:03:52.280><c> feeding</c>
+
+neighbor is just the way that feeding
+
+
+neighbor is just the way that feeding
+America<00:03:53.319><c> who</c><00:03:53.480><c> built</c><00:03:53.799><c> service</c><00:03:54.159><c> insights</c><00:03:54.599><c> as</c>
+
+America who built service insights as
+
+
+America who built service insights as
+well<00:03:54.799><c> as</c><00:03:54.920><c> the</c><00:03:55.040><c> reports</c><00:03:55.400><c> here</c><00:03:55.840><c> refer</c><00:03:56.200><c> to</c><00:03:56.439><c> any</c>
+
+well as the reports here refer to any
+
+
+well as the reports here refer to any
+individual<00:03:57.439><c> so</c><00:03:57.720><c> at</c><00:03:57.799><c> the</c><00:03:57.959><c> Capital</c><00:03:58.239><c> Area</c><00:03:58.519><c> food</c>
+
+individual so at the Capital Area food
+
+
+individual so at the Capital Area food
+bank<00:03:59.200><c> we</c><00:03:59.319><c> often</c><00:03:59.560><c> just</c><00:03:59.879><c> talk</c><00:04:00.079><c> about</c><00:04:00.319><c> clients</c><00:04:01.239><c> uh</c>
+
+bank we often just talk about clients uh
+
+
+bank we often just talk about clients uh
+feeding<00:04:01.760><c> America</c><00:04:02.280><c> sometimes</c><00:04:02.439><c> use</c><00:04:02.640><c> his</c>
+
+feeding America sometimes use his
+
+
+feeding America sometimes use his
+neighbor<00:04:03.360><c> you</c><00:04:03.519><c> see</c><00:04:03.799><c> individuals</c><00:04:04.519><c> here</c><00:04:04.799><c> as</c>
+
+neighbor you see individuals here as
+
+
+neighbor you see individuals here as
+well<00:04:05.560><c> all</c><00:04:05.799><c> those</c><00:04:05.959><c> terms</c><00:04:06.239><c> are</c><00:04:06.519><c> pretty</c><00:04:06.680><c> much</c>
+
+well all those terms are pretty much
+
+
+well all those terms are pretty much
+interchangeable<00:04:07.640><c> we</c><00:04:07.799><c> just</c><00:04:07.920><c> use</c><00:04:08.120><c> those</c><00:04:08.319><c> to</c>
+
+interchangeable we just use those to
+
+
+interchangeable we just use those to
+describe<00:04:08.920><c> one</c><00:04:09.159><c> individual</c><00:04:09.640><c> person</c><00:04:09.920><c> who's</c>
+
+describe one individual person who's
+
+
+describe one individual person who's
+receiving
+
+
+
+
+
+services<00:04:15.760><c> so</c><00:04:15.920><c> at</c><00:04:16.040><c> the</c><00:04:16.199><c> top</c><00:04:16.320><c> of</c><00:04:16.440><c> the</c><00:04:16.560><c> screen</c><00:04:16.959><c> at</c>
+
+services so at the top of the screen at
+
+
+services so at the top of the screen at
+the<00:04:17.199><c> controls</c><00:04:17.919><c> there</c><00:04:18.040><c> are</c><00:04:18.320><c> two</c><00:04:18.840><c> that</c><00:04:18.959><c> are</c>
+
+the controls there are two that are
+
+
+the controls there are two that are
+really<00:04:19.560><c> useful</c><00:04:20.000><c> to</c><00:04:20.199><c> keep</c><00:04:20.359><c> in</c><00:04:20.600><c> mind</c><00:04:21.600><c> the</c><00:04:21.720><c> first</c>
+
+really useful to keep in mind the first
+
+
+really useful to keep in mind the first
+is<00:04:22.040><c> going</c><00:04:22.120><c> to</c><00:04:22.240><c> be</c><00:04:22.360><c> the</c><00:04:22.479><c> pause</c><00:04:22.840><c> auto</c><00:04:23.160><c> updates</c>
+
+is going to be the pause auto updates
+
+
+is going to be the pause auto updates
+feature<00:04:24.520><c> this</c><00:04:24.759><c> is</c><00:04:25.000><c> an</c><00:04:25.160><c> icon</c><00:04:25.479><c> that</c><00:04:25.560><c> looks</c><00:04:25.720><c> like</c>
+
+feature this is an icon that looks like
+
+
+feature this is an icon that looks like
+a<00:04:25.960><c> little</c><00:04:26.160><c> cylinder</c><00:04:26.759><c> with</c><00:04:26.960><c> two</c><00:04:27.440><c> horizontal</c>
+
+a little cylinder with two horizontal
+
+
+a little cylinder with two horizontal
+lines<00:04:28.800><c> kind</c><00:04:28.919><c> of</c><00:04:29.000><c> in</c><00:04:29.120><c> the</c><00:04:29.199><c> bottom</c><00:04:29.440><c> right</c><00:04:29.759><c> corner</c>
+
+lines kind of in the bottom right corner
+
+
+lines kind of in the bottom right corner
+of<00:04:30.160><c> the</c><00:04:30.320><c> icon</c><00:04:31.160><c> itself</c><00:04:32.160><c> like</c><00:04:32.280><c> I</c><00:04:32.360><c> mentioned</c>
+
+of the icon itself like I mentioned
+
+
+of the icon itself like I mentioned
+earlier<00:04:33.160><c> if</c><00:04:33.280><c> we</c><00:04:33.360><c> were</c><00:04:33.520><c> to</c><00:04:33.639><c> change</c><00:04:34.039><c> any</c><00:04:34.240><c> filter</c>
+
+earlier if we were to change any filter
+
+
+earlier if we were to change any filter
+over<00:04:34.880><c> here</c><00:04:35.160><c> like</c><00:04:35.320><c> the</c><00:04:35.440><c> start</c><00:04:35.680><c> date</c><00:04:35.880><c> or</c><00:04:36.000><c> the</c><00:04:36.120><c> end</c>
+
+over here like the start date or the end
+
+
+over here like the start date or the end
+date<00:04:36.960><c> the</c><00:04:37.080><c> visualization</c><00:04:37.759><c> to</c><00:04:37.919><c> the</c><00:04:38.080><c> right</c><00:04:38.240><c> will</c>
+
+date the visualization to the right will
+
+
+date the visualization to the right will
+automatically<00:04:39.080><c> refresh</c><00:04:39.919><c> to</c><00:04:40.160><c> pull</c><00:04:40.440><c> in</c><00:04:40.919><c> data</c>
+
+automatically refresh to pull in data
+
+
+automatically refresh to pull in data
+that<00:04:41.400><c> match</c><00:04:41.759><c> those</c><00:04:41.919><c> filters</c><00:04:42.360><c> or</c><00:04:42.520><c> to</c><00:04:42.680><c> exclude</c>
+
+that match those filters or to exclude
+
+
+that match those filters or to exclude
+data<00:04:43.199><c> that</c><00:04:43.320><c> does</c><00:04:43.479><c> not</c><00:04:43.639><c> match</c><00:04:43.919><c> those</c><00:04:44.520><c> filters</c>
+
+data that does not match those filters
+
+
+data that does not match those filters
+if<00:04:45.680><c> you're</c><00:04:45.840><c> ever</c><00:04:46.080><c> trying</c><00:04:46.360><c> to</c><00:04:46.800><c> get</c><00:04:47.000><c> numbers</c><00:04:47.400><c> for</c>
+
+if you're ever trying to get numbers for
+
+
+if you're ever trying to get numbers for
+a<00:04:47.919><c> certain</c><00:04:48.240><c> period</c><00:04:48.520><c> of</c><00:04:48.639><c> time</c><00:04:48.840><c> or</c><00:04:48.960><c> for</c><00:04:49.120><c> certain</c>
+
+a certain period of time or for certain
+
+
+a certain period of time or for certain
+services<00:04:50.199><c> and</c><00:04:50.280><c> you</c><00:04:50.400><c> need</c><00:04:50.520><c> to</c><00:04:50.639><c> change</c><00:04:51.240><c> several</c>
+
+services and you need to change several
+
+
+services and you need to change several
+of<00:04:51.759><c> these</c><00:04:51.919><c> filters</c><00:04:52.680><c> it</c><00:04:52.840><c> can</c><00:04:53.000><c> be</c><00:04:53.120><c> a</c><00:04:53.199><c> little</c><00:04:53.320><c> bit</c>
+
+of these filters it can be a little bit
+
+
+of these filters it can be a little bit
+timec<00:04:53.840><c> consuming</c><00:04:54.360><c> because</c><00:04:54.600><c> the</c>
+
+timec consuming because the
+
+
+timec consuming because the
+visualization<00:04:55.280><c> will</c><00:04:55.520><c> refresh</c><00:04:55.960><c> after</c><00:04:56.280><c> every</c>
+
+visualization will refresh after every
+
+
+visualization will refresh after every
+single<00:04:56.800><c> change</c><00:04:57.080><c> to</c><00:04:57.199><c> a</c><00:04:57.360><c> filter</c><00:04:57.919><c> and</c><00:04:58.039><c> if</c><00:04:58.120><c> you</c>
+
+single change to a filter and if you
+
+
+single change to a filter and if you
+have<00:04:58.320><c> three</c><00:04:58.560><c> to</c><00:04:58.720><c> update</c><00:04:59.120><c> that</c><00:04:59.240><c> means</c><00:04:59.440><c> you</c><00:04:59.720><c> have</c>
+
+have three to update that means you have
+
+
+have three to update that means you have
+to<00:04:59.880><c> wait</c><00:05:00.000><c> for</c><00:05:00.120><c> it</c><00:05:00.199><c> to</c><00:05:00.320><c> load</c><00:05:00.560><c> three</c><00:05:00.759><c> times</c><00:05:01.560><c> an</c>
+
+to wait for it to load three times an
+
+
+to wait for it to load three times an
+easier<00:05:02.120><c> way</c><00:05:02.240><c> to</c><00:05:02.400><c> go</c><00:05:02.560><c> about</c><00:05:02.960><c> this</c><00:05:03.360><c> is</c><00:05:03.560><c> to</c><00:05:03.840><c> pause</c>
+
+easier way to go about this is to pause
+
+
+easier way to go about this is to pause
+the<00:05:04.479><c> updates</c><00:05:05.479><c> so</c><00:05:05.680><c> let's</c><00:05:05.919><c> say</c><00:05:06.160><c> that</c><00:05:06.400><c> I</c><00:05:06.560><c> just</c>
+
+the updates so let's say that I just
+
+
+the updates so let's say that I just
+need<00:05:06.960><c> to</c><00:05:07.199><c> look</c><00:05:07.479><c> at</c><00:05:07.960><c> all</c><00:05:08.199><c> of</c><00:05:08.440><c> the</c><00:05:08.720><c> tfap</c><00:05:09.320><c> services</c>
+
+need to look at all of the tfap services
+
+
+need to look at all of the tfap services
+for<00:05:10.240><c> the</c><00:05:10.360><c> month</c><00:05:10.600><c> of</c><00:05:10.880><c> dece</c><00:05:11.400><c> uh</c><00:05:11.560><c> November</c><00:05:12.039><c> rather</c>
+
+for the month of dece uh November rather
+
+
+for the month of dece uh November rather
+I<00:05:13.160><c> will</c><00:05:13.639><c> go</c><00:05:13.840><c> over</c><00:05:14.080><c> and</c><00:05:14.280><c> change</c><00:05:14.639><c> the</c><00:05:14.800><c> start</c><00:05:15.120><c> date</c>
+
+I will go over and change the start date
+
+
+I will go over and change the start date
+to<00:05:15.560><c> the</c><00:05:15.720><c> 1st</c><00:05:16.000><c> of</c><00:05:16.160><c> November</c><00:05:17.039><c> and</c><00:05:17.160><c> I</c><00:05:17.280><c> will</c><00:05:17.400><c> change</c>
+
+to the 1st of November and I will change
+
+
+to the 1st of November and I will change
+the<00:05:17.840><c> end</c><00:05:18.080><c> date</c><00:05:18.280><c> to</c><00:05:18.440><c> the</c><00:05:18.600><c> last</c><00:05:18.840><c> day</c><00:05:19.000><c> of</c><00:05:19.400><c> November</c>
+
+the end date to the last day of November
+
+
+the end date to the last day of November
+and<00:05:20.520><c> then</c><00:05:20.680><c> I</c><00:05:20.759><c> will</c><00:05:20.960><c> also</c><00:05:21.280><c> change</c><00:05:21.919><c> my</c>
+
+and then I will also change my
+
+
+and then I will also change my
+government<00:05:22.600><c> program</c><00:05:23.039><c> to</c><00:05:23.280><c> be</c><00:05:23.720><c> just</c><00:05:24.160><c> tfap</c><00:05:24.800><c> which</c>
+
+government program to be just tfap which
+
+
+government program to be just tfap which
+is<00:05:25.000><c> a</c><00:05:25.120><c> government</c>
+
+is a government
+
+
+is a government
+program<00:05:28.440><c> and</c><00:05:28.600><c> then</c><00:05:28.840><c> when</c><00:05:28.960><c> I</c><00:05:29.080><c> apply</c><00:05:29.319><c> those</c><00:05:29.440><c> ch</c>
+
+program and then when I apply those ch
+
+
+program and then when I apply those ch
+changes<00:05:32.600><c> I</c><00:05:32.680><c> can</c><00:05:32.840><c> do</c><00:05:33.039><c> so</c><00:05:33.280><c> by</c><00:05:33.400><c> hitting</c><00:05:33.639><c> the</c><00:05:33.759><c> same</c>
+
+changes I can do so by hitting the same
+
+
+changes I can do so by hitting the same
+button<00:05:34.240><c> again</c><00:05:34.440><c> which</c><00:05:34.560><c> will</c><00:05:34.759><c> resume</c><00:05:35.160><c> those</c>
+
+button again which will resume those
+
+
+button again which will resume those
+auto
+
+auto
+
+
+auto
+updates<00:05:37.400><c> and</c><00:05:37.520><c> the</c><00:05:37.680><c> visualization</c><00:05:38.120><c> will</c>
+
+updates and the visualization will
+
+
+updates and the visualization will
+refresh<00:05:38.720><c> just</c><00:05:38.960><c> one</c><00:05:39.240><c> time</c><00:05:39.639><c> instead</c><00:05:39.960><c> of</c><00:05:40.120><c> three</c>
+
+
+
+
+
+times<00:05:45.000><c> and</c><00:05:45.240><c> there</c><00:05:45.319><c> we</c>
+
+times and there we
+
+
+times and there we
+go<00:05:48.479><c> another</c><00:05:48.720><c> one</c><00:05:48.840><c> of</c><00:05:48.919><c> the</c><00:05:49.039><c> controls</c><00:05:49.479><c> that's</c>
+
+go another one of the controls that's
+
+
+go another one of the controls that's
+very<00:05:50.160><c> useful</c><00:05:50.520><c> to</c><00:05:50.720><c> familiarize</c><00:05:51.280><c> yourself</c><00:05:51.639><c> with</c>
+
+very useful to familiarize yourself with
+
+
+very useful to familiarize yourself with
+is<00:05:52.039><c> the</c><00:05:52.240><c> download</c><00:05:52.919><c> feature</c><00:05:53.919><c> so</c><00:05:54.199><c> we</c><00:05:54.360><c> mentioned</c>
+
+is the download feature so we mentioned
+
+
+is the download feature so we mentioned
+in<00:05:54.800><c> training</c><00:05:55.319><c> that</c><00:05:55.479><c> we</c><00:05:55.680><c> encourage</c><00:05:56.000><c> you</c><00:05:56.160><c> to</c>
+
+in training that we encourage you to
+
+
+in training that we encourage you to
+share<00:05:56.720><c> the</c><00:05:56.880><c> reports</c><00:05:57.360><c> as</c><00:05:57.479><c> you</c><00:05:57.639><c> really</c><00:05:57.800><c> need</c><00:05:58.000><c> to</c>
+
+share the reports as you really need to
+
+
+share the reports as you really need to
+the<00:05:59.080><c> reports</c><00:05:59.360><c> in</c><00:05:59.639><c> Tableau</c><00:06:00.000><c> are</c><00:06:00.199><c> especially</c>
+
+the reports in Tableau are especially
+
+
+the reports in Tableau are especially
+useful<00:06:01.039><c> because</c><00:06:01.400><c> all</c><00:06:01.520><c> of</c><00:06:01.680><c> this</c><00:06:01.880><c> data</c><00:06:02.319><c> is</c>
+
+useful because all of this data is
+
+
+useful because all of this data is
+anonymized<00:06:04.120><c> nothing</c><00:06:04.400><c> that</c><00:06:04.520><c> you</c><00:06:04.600><c> see</c><00:06:04.800><c> in</c>
+
+anonymized nothing that you see in
+
+
+anonymized nothing that you see in
+Tableau<00:06:05.440><c> will</c><00:06:05.600><c> ever</c><00:06:05.800><c> include</c><00:06:06.080><c> a</c><00:06:06.240><c> phone</c><00:06:06.479><c> number</c>
+
+Tableau will ever include a phone number
+
+
+Tableau will ever include a phone number
+an<00:06:07.199><c> address</c><00:06:07.720><c> or</c><00:06:08.120><c> a</c><00:06:08.240><c> person's</c><00:06:08.680><c> name</c><00:06:09.360><c> so</c><00:06:09.599><c> the</c>
+
+an address or a person's name so the
+
+
+an address or a person's name so the
+information<00:06:10.240><c> can</c><00:06:10.360><c> be</c><00:06:10.440><c> shared</c><00:06:10.800><c> without</c>
+
+information can be shared without
+
+
+information can be shared without
+compromising<00:06:11.639><c> anybody's</c><00:06:12.120><c> privacy</c><00:06:12.880><c> if</c><00:06:12.960><c> you</c>
+
+compromising anybody's privacy if you
+
+
+compromising anybody's privacy if you
+ever<00:06:13.199><c> need</c><00:06:13.360><c> to</c><00:06:13.520><c> do</c><00:06:13.759><c> that</c><00:06:14.039><c> you</c><00:06:14.160><c> want</c><00:06:14.280><c> to</c><00:06:14.440><c> look</c>
+
+ever need to do that you want to look
+
+
+ever need to do that you want to look
+for<00:06:15.039><c> this</c><00:06:15.199><c> button</c><00:06:15.440><c> over</c><00:06:15.840><c> here</c><00:06:16.360><c> which</c><00:06:16.479><c> is</c><00:06:16.599><c> sort</c>
+
+for this button over here which is sort
+
+
+for this button over here which is sort
+of<00:06:16.840><c> like</c><00:06:16.960><c> a</c><00:06:17.240><c> square</c><00:06:17.680><c> rectangle</c><00:06:18.120><c> with</c><00:06:18.240><c> an</c><00:06:18.360><c> arrow</c>
+
+of like a square rectangle with an arrow
+
+
+of like a square rectangle with an arrow
+pointing<00:06:19.400><c> downward</c><00:06:20.400><c> when</c><00:06:20.560><c> you</c><00:06:20.680><c> select</c><00:06:21.080><c> that</c>
+
+pointing downward when you select that
+
+
+pointing downward when you select that
+you'll<00:06:21.680><c> have</c><00:06:21.800><c> a</c><00:06:21.880><c> couple</c><00:06:22.120><c> of</c><00:06:22.240><c> different</c>
+
+you'll have a couple of different
+
+
+you'll have a couple of different
+options<00:06:23.120><c> on</c><00:06:23.319><c> how</c><00:06:23.440><c> you</c><00:06:23.599><c> want</c><00:06:23.680><c> to</c><00:06:23.840><c> download</c><00:06:24.280><c> that</c>
+
+options on how you want to download that
+
+
+options on how you want to download that
+whether<00:06:25.160><c> as</c><00:06:25.360><c> an</c><00:06:25.639><c> image</c><00:06:26.560><c> whether</c><00:06:26.759><c> you</c><00:06:26.880><c> want</c><00:06:27.120><c> the</c>
+
+whether as an image whether you want the
+
+
+whether as an image whether you want the
+cross<00:06:27.639><c> tabulation</c><00:06:28.080><c> of</c><00:06:28.199><c> the</c><00:06:28.319><c> data</c><00:06:28.639><c> as</c><00:06:28.759><c> a</c><00:06:28.919><c> PDF</c><00:06:29.360><c> or</c>
+
+cross tabulation of the data as a PDF or
+
+
+cross tabulation of the data as a PDF or
+or<00:06:29.680><c> some</c><00:06:29.840><c> other</c><00:06:30.039><c> format</c><00:06:30.800><c> either</c><00:06:31.039><c> way</c><00:06:31.319><c> this</c>
+
+or some other format either way this
+
+
+or some other format either way this
+will<00:06:31.720><c> allow</c><00:06:32.039><c> you</c><00:06:32.280><c> to</c><00:06:32.800><c> take</c><00:06:32.960><c> the</c><00:06:33.080><c> data</c><00:06:33.360><c> with</c><00:06:33.479><c> you</c>
+
+will allow you to take the data with you
+
+
+will allow you to take the data with you
+to<00:06:33.840><c> use</c><00:06:33.960><c> it</c><00:06:34.120><c> in</c><00:06:34.319><c> presentations</c><00:06:35.160><c> for</c><00:06:35.280><c> your</c>
+
+to use it in presentations for your
+
+
+to use it in presentations for your
+board<00:06:35.720><c> reports</c><00:06:36.319><c> or</c><00:06:36.479><c> for</c><00:06:36.639><c> whatever</c><00:06:36.919><c> else</c><00:06:37.080><c> you</c>
+
+board reports or for whatever else you
+
+
+board reports or for whatever else you
+see
+
+see
+
+
+see
+fit<00:06:39.639><c> so</c><00:06:40.280><c> that's</c><00:06:40.520><c> all</c><00:06:40.720><c> for</c><00:06:40.919><c> basic</c><00:06:41.240><c> Tableau</c>
+
+fit so that's all for basic Tableau
+
+
+fit so that's all for basic Tableau
+filters<00:06:42.319><c> and</c><00:06:42.560><c> controls</c><00:06:43.440><c> we'll</c><00:06:43.720><c> dive</c><00:06:43.960><c> into</c><00:06:44.280><c> the</c>
+
+filters and controls we'll dive into the
+
+
+filters and controls we'll dive into the
+snapshot<00:06:44.880><c> overview</c><00:06:45.319><c> in</c><00:06:45.560><c> depth</c><00:06:46.000><c> in</c><00:06:46.319><c> another</c>
+
+snapshot overview in depth in another
+
+
+snapshot overview in depth in another
+video<00:06:47.960><c> which</c><00:06:48.080><c> will</c><00:06:48.240><c> be</c><00:06:48.400><c> linked</c><00:06:48.800><c> in</c><00:06:49.039><c> the</c>
+
+video which will be linked in the
+
+
+video which will be linked in the
+playlist<00:06:49.720><c> here</c>
