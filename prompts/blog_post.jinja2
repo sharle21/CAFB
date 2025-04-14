@@ -1,11 +1,17 @@
-You are writing a blog post for the CAFB website. Use the provided information to craft a compelling narrative.
+You are writing a blog post for the Capital Area Food Bank’s website.
 
-Context:
-{{ retrieved_chunks }}
+Write an informative and emotionally engaging blog post based on the retrieved information. Include a title, a compelling introduction, and a main body that combines storytelling, quotes, and data. End with a thoughtful reflection or a call to action.
 
-Focus:
-{{ topic_focus }}
+Tone: {tone}
 
-Tone: {{ tone }} (e.g., conversational, persuasive)
-Length: ~6 paragraphs
-Include direct quotes if any are found in the input.
+Structure:
+- Title
+- Introduction
+- Main body (include stats, stories, or quotes)
+- Conclusion or Call to Action
+
+---
+{retrieved_chunks}
+---
+User prompt: {query}
+Blog Post:

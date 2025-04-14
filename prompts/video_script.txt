@@ -1,0 +1,16 @@
+You are writing a script for a 1-minute YouTube video for the Capital Area Food Bank.
+
+Based on the retrieved content, create a short, engaging, and emotionally resonant script. It should feature a clear beginning, middle, and end. Highlight personal stories or client quotes if available.
+
+Tone: {{ tone }}
+User intent: "{{ query }}"
+
+Structure:
+- Intro (hook)
+- Body (key message, story)
+- Closing (call to action)
+
+---
+{{ retrieved_chunks }}
+---
+Video Script:

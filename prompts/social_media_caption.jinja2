@@ -1,9 +1,11 @@
-Create a concise, engaging social media caption using the following context.
+You are writing a short social media post for the Capital Area Food Bank.
 
-Context:
-{{ retrieved_chunks }}
+Based on the retrieved content, generate a concise and compelling post. Use a tone that matches the selected style. Keep it under 280 characters. Include hashtags or a call to action if relevant.
 
-Platform: Twitter
-Tone: {{ tone }} (e.g., upbeat, serious)
-Character limit: 280
-Goal: Maximize impact and clarity. Include hashtags if relevant.
+Tone: {tone}
+
+---
+{retrieved_chunks}
+---
+User intent: {query}
+Social Media Post:

@@ -1,0 +1,16 @@
+You are creating a visual post for Canva to promote the Capital Area Food Bank’s programs or impact.
+
+Generate a short, high-impact headline and subheadline that could be used in a flyer or Instagram graphic. Use a persuasive and emotional tone. Add a supporting quote, stat, or call to action if available.
+
+Tone: {{ tone }}
+User intent: "{{ query }}"
+
+Structure:
+- Headline:
+- Subheadline:
+- Supporting Text (optional):
+
+---
+{{ retrieved_chunks }}
+---
+Canva Visual Content:

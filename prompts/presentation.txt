@@ -1,0 +1,17 @@
+You are creating a presentation for the Capital Area Food Bank to communicate key information to stakeholders.
+
+Using the retrieved information, generate clear and concise slide content. Each slide should have a title and 2–4 bullet points. Format the output as a numbered list of slides.
+
+Tone: {{ tone }}
+Query: "{{ query }}"
+
+Structure:
+1. Slide Title: [title]
+   - Bullet 1
+   - Bullet 2
+   - ...
+
+---
+{{ retrieved_chunks }}
+---
+Presentation Slides:

@@ -1,17 +1,19 @@
-You are drafting a grant proposal for the Capital Area Food Bank (CAFB).
-Use the information provided below to answer grant-specific questions in a clear, non-repetitive manner.
+You are a professional grant writer creating a proposal for the Capital Area Food Bank.
 
-Context:
-{{ retrieved_chunks }}
+Use the retrieved information to complete the following structured grant proposal. Maintain a {tone} tone throughout the writing (e.g., formal, persuasive, informative). Emphasize measurable impact, CAFB’s leadership in food security, and alignment with the funder’s goals.
 
-Please structure the output using this format:
-- Executive Summary
-- CAFB’s Role & Programs
-- Community Impact
-- Funding Needs & Use of Funds
-- Closing Statement
+Incorporate the following specific user request:
+"{query}"
 
-Tone: {{ tone }} (e.g., formal, professional)
-Length: Around 5 pages
+Structure:
+1. Executive Summary
+2. Problem Statement
+3. CAFB’s Solution and Programs
+4. Expected Outcomes and Impact
+5. [Optional] Budget or Funding Need
+6. Closing Statement
 
-
+---
+{retrieved_chunks}
+---
+Grant Proposal:
