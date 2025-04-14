@@ -19,7 +19,8 @@ def generate_pdf(text: str) -> bytes:
         pdf.multi_cell(0, 10, line)
 
     buffer = BytesIO()
-    pdf.output(buffer)
+    pdf.output(buffer, 'F')  
+    buffer.seek(0)
     return buffer.getvalue()
 
 # --- Input Section ---
