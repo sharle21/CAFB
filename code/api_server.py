@@ -83,13 +83,23 @@ def generate_response(req: GenerateRequest):
         f"\n---\n{context}\n---\n\nUser question: {req.query}\n\nAnswer:"
     )
 
+    # Determine system prompt based on content format
+    if req.format == "grant":
+        system_prompt = "You are a nonprofit grant writer. Write a persuasive funding paragraph."
+    elif req.format == "blog_post":
+        system_prompt = "You are a nonprofit blog writer. Write an engaging, informative blog post."
+    elif req.format == "social_media_post":
+        system_prompt = "You are a social media specialist. Write a short, friendly post with hashtags."
+    else:
+        system_prompt = "You are a helpful nonprofit assistant."
+
     try:
         response = client.chat.completions.create(
             model="gpt-4",
             temperature=0.3,
             max_tokens=400,
             messages=[
-                {"role": "system", "content": "You are a nonprofit assistant who writes high-quality content."},
+                {"role": "system", "content": system_prompt},
                 {"role": "user", "content": prompt}
             ]
         )
