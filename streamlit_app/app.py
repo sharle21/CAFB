@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
-import json
-from fpdf import FPDF  # PDF support
+from fpdf import FPDF
+from io import BytesIO
 
 # --- Streamlit App Layout ---
 st.set_page_config(page_title="CAFBrain Generator", layout="centered")
@@ -18,7 +18,9 @@ def generate_pdf(text: str) -> bytes:
     for line in text.split("\n"):
         pdf.multi_cell(0, 10, line)
 
-    return pdf.output(dest='S').encode('latin-1')
+    buffer = BytesIO()
+    pdf.output(buffer)
+    return buffer.getvalue()
 
 # --- Input Section ---
 prompt = st.text_area(
