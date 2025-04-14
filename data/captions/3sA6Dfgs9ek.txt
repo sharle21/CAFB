@@ -1,0 +1,768 @@
+WEBVTT
+Kind: captions
+Language: en
+
+
+welcome<00:00:00.560><c> to</c><00:00:00.719><c> the</c><00:00:00.880><c> capitol</c><00:00:01.360><c> area</c><00:00:01.760><c> food</c><00:00:02.159><c> bank</c>
+
+welcome to the capitol area food bank
+
+
+welcome to the capitol area food bank
+video<00:00:03.120><c> library</c><00:00:04.240><c> today</c><00:00:04.640><c> we</c><00:00:04.799><c> will</c><00:00:05.040><c> be</c><00:00:05.279><c> making</c>
+
+video library today we will be making
+
+
+video library today we will be making
+our<00:00:05.920><c> classic</c><00:00:06.799><c> hummus</c><00:00:07.520><c> dip</c><00:00:08.160><c> this</c><00:00:08.480><c> is</c><00:00:08.639><c> an</c><00:00:08.960><c> easy</c>
+
+our classic hummus dip this is an easy
+
+
+our classic hummus dip this is an easy
+easy<00:00:10.000><c> recipe</c><00:00:11.040><c> um</c><00:00:11.280><c> there's</c><00:00:11.599><c> no</c><00:00:11.840><c> baking</c><00:00:12.240><c> at</c><00:00:12.400><c> all</c>
+
+easy recipe um there's no baking at all
+
+
+easy recipe um there's no baking at all
+it's<00:00:12.880><c> just</c><00:00:13.120><c> combining</c><00:00:13.920><c> all</c><00:00:14.080><c> of</c><00:00:14.240><c> the</c>
+
+it's just combining all of the
+
+
+it's just combining all of the
+ingredients<00:00:15.200><c> so</c><00:00:15.440><c> let's</c><00:00:15.599><c> get</c><00:00:15.920><c> started</c><00:00:17.039><c> here's</c>
+
+ingredients so let's get started here's
+
+
+ingredients so let's get started here's
+all<00:00:17.680><c> the</c><00:00:17.920><c> ingredients</c><00:00:18.720><c> i</c><00:00:19.119><c> have</c><00:00:19.920><c> you</c><00:00:20.080><c> will</c><00:00:20.320><c> see</c>
+
+all the ingredients i have you will see
+
+
+all the ingredients i have you will see
+i<00:00:20.640><c> have</c><00:00:20.880><c> my</c><00:00:21.199><c> chickpeas</c><00:00:22.080><c> i</c><00:00:22.240><c> bought</c><00:00:22.480><c> a</c><00:00:22.720><c> can</c><00:00:23.119><c> of</c>
+
+i have my chickpeas i bought a can of
+
+
+i have my chickpeas i bought a can of
+chickpeas<00:00:24.320><c> and</c><00:00:24.480><c> i</c><00:00:24.800><c> drained</c><00:00:25.279><c> the</c><00:00:25.519><c> liquid</c><00:00:26.000><c> into</c>
+
+chickpeas and i drained the liquid into
+
+
+chickpeas and i drained the liquid into
+one<00:00:26.800><c> bowl</c><00:00:27.519><c> so</c><00:00:27.840><c> i</c><00:00:28.160><c> put</c><00:00:28.560><c> a</c><00:00:29.039><c> strainer</c><00:00:29.760><c> on</c><00:00:30.080><c> top</c>
+
+one bowl so i put a strainer on top
+
+
+one bowl so i put a strainer on top
+poured<00:00:31.199><c> in</c><00:00:31.439><c> the</c><00:00:31.599><c> can</c><00:00:32.000><c> of</c><00:00:32.160><c> chickpeas</c><00:00:32.719><c> so</c><00:00:32.880><c> that</c><00:00:33.120><c> i</c>
+
+poured in the can of chickpeas so that i
+
+
+poured in the can of chickpeas so that i
+could<00:00:33.440><c> keep</c><00:00:33.680><c> the</c><00:00:33.920><c> liquid</c>
+
+could keep the liquid
+
+
+could keep the liquid
+as<00:00:35.360><c> well</c><00:00:35.600><c> as</c><00:00:35.840><c> the</c><00:00:36.079><c> chickpeas</c><00:00:36.640><c> so</c><00:00:36.800><c> the</c><00:00:37.040><c> liquid</c>
+
+as well as the chickpeas so the liquid
+
+
+as well as the chickpeas so the liquid
+we'll<00:00:37.680><c> be</c><00:00:37.840><c> using</c><00:00:38.399><c> to</c><00:00:38.559><c> make</c><00:00:38.800><c> the</c>
+
+we'll be using to make the
+
+
+we'll be using to make the
+hummus<00:00:40.000><c> the</c><00:00:40.239><c> consistency</c><00:00:41.200><c> we</c><00:00:41.360><c> would</c><00:00:41.680><c> like</c>
+
+hummus the consistency we would like
+
+
+hummus the consistency we would like
+and<00:00:43.280><c> then</c><00:00:43.520><c> the</c><00:00:43.680><c> chickpeas</c><00:00:44.320><c> i</c><00:00:44.559><c> rinsed</c><00:00:44.960><c> over</c><00:00:45.200><c> the</c>
+
+and then the chickpeas i rinsed over the
+
+
+and then the chickpeas i rinsed over the
+sink<00:00:45.840><c> to</c><00:00:46.000><c> get</c><00:00:46.239><c> off</c><00:00:46.559><c> any</c><00:00:47.200><c> um</c><00:00:47.520><c> extra</c><00:00:48.000><c> sodium</c><00:00:48.640><c> and</c>
+
+sink to get off any um extra sodium and
+
+
+sink to get off any um extra sodium and
+just<00:00:48.960><c> a</c><00:00:49.039><c> reminder</c><00:00:49.680><c> when</c><00:00:49.840><c> you're</c><00:00:50.320><c> purchasing</c>
+
+just a reminder when you're purchasing
+
+
+just a reminder when you're purchasing
+your
+
+your
+
+
+your
+canned<00:00:52.480><c> beans</c><00:00:52.879><c> or</c><00:00:53.039><c> canned</c><00:00:53.360><c> vegetables</c><00:00:54.160><c> you</c>
+
+canned beans or canned vegetables you
+
+
+canned beans or canned vegetables you
+want<00:00:54.480><c> to</c><00:00:54.559><c> make</c><00:00:54.879><c> sure</c><00:00:55.600><c> that</c><00:00:55.760><c> they</c><00:00:56.000><c> are</c><00:00:56.239><c> low</c>
+
+want to make sure that they are low
+
+
+want to make sure that they are low
+sodium<00:00:57.199><c> or</c><00:00:57.440><c> no</c><00:00:57.680><c> salt</c><00:00:58.239><c> added</c>
+
+sodium or no salt added
+
+
+sodium or no salt added
+what<00:00:59.680><c> else</c><00:00:59.840><c> do</c><00:01:00.000><c> we</c><00:01:00.160><c> have</c><00:01:00.480><c> here</c><00:01:00.719><c> we</c><00:01:00.879><c> have</c><00:01:01.199><c> a</c>
+
+what else do we have here we have a
+
+
+what else do we have here we have a
+fourth<00:01:01.680><c> of</c><00:01:01.840><c> a</c><00:01:02.000><c> cup</c><00:01:02.320><c> of</c><00:01:02.640><c> olive</c><00:01:03.039><c> oil</c>
+
+fourth of a cup of olive oil
+
+
+fourth of a cup of olive oil
+we<00:01:04.640><c> have</c><00:01:04.960><c> two</c><00:01:05.280><c> tablespoons</c><00:01:06.479><c> of</c><00:01:06.880><c> lemon</c><00:01:07.360><c> juice</c>
+
+we have two tablespoons of lemon juice
+
+
+we have two tablespoons of lemon juice
+three<00:01:09.280><c> cloves</c><00:01:09.760><c> of</c><00:01:10.080><c> garlic</c>
+
+three cloves of garlic
+
+
+three cloves of garlic
+and<00:01:11.920><c> 1</c><00:01:12.240><c> 4</c><00:01:12.560><c> a</c><00:01:12.640><c> teaspoon</c><00:01:13.200><c> of</c><00:01:13.439><c> salt</c><00:01:13.920><c> so</c><00:01:14.080><c> there</c><00:01:14.240><c> are</c>
+
+and 1 4 a teaspoon of salt so there are
+
+
+and 1 4 a teaspoon of salt so there are
+so<00:01:14.560><c> many</c><00:01:14.799><c> great</c><00:01:15.040><c> flavors</c><00:01:15.600><c> in</c><00:01:15.680><c> this</c><00:01:15.920><c> recipe</c><00:01:16.479><c> we</c>
+
+so many great flavors in this recipe we
+
+
+so many great flavors in this recipe we
+really<00:01:17.040><c> don't</c><00:01:17.280><c> need</c><00:01:17.439><c> to</c><00:01:17.600><c> be</c><00:01:17.759><c> adding</c><00:01:18.159><c> a</c><00:01:18.240><c> lot</c><00:01:18.400><c> of</c>
+
+really don't need to be adding a lot of
+
+
+really don't need to be adding a lot of
+salt
+
+salt
+
+
+salt
+for<00:01:20.000><c> the</c><00:01:20.159><c> garlic</c>
+
+for the garlic
+
+
+for the garlic
+i<00:01:21.680><c> already</c><00:01:22.080><c> peeled</c><00:01:22.560><c> two</c><00:01:22.880><c> but</c><00:01:23.119><c> i</c><00:01:23.200><c> wanted</c><00:01:23.520><c> to</c>
+
+i already peeled two but i wanted to
+
+
+i already peeled two but i wanted to
+show<00:01:23.840><c> you</c><00:01:23.920><c> guys</c><00:01:24.159><c> a</c><00:01:24.240><c> little</c><00:01:24.560><c> trick</c><00:01:24.880><c> on</c><00:01:25.119><c> how</c><00:01:25.280><c> to</c>
+
+show you guys a little trick on how to
+
+
+show you guys a little trick on how to
+easily<00:01:26.080><c> peel</c><00:01:26.400><c> one</c><00:01:27.119><c> so</c><00:01:27.360><c> when</c><00:01:27.600><c> you</c><00:01:27.759><c> get</c><00:01:27.920><c> your</c>
+
+easily peel one so when you get your
+
+
+easily peel one so when you get your
+garlic
+
+garlic
+
+
+garlic
+what<00:01:29.600><c> you</c><00:01:29.759><c> can</c><00:01:30.000><c> do</c><00:01:30.320><c> is</c><00:01:30.479><c> you</c><00:01:30.640><c> can</c><00:01:30.880><c> just</c>
+
+what you can do is you can just
+
+
+what you can do is you can just
+press<00:01:32.159><c> down</c><00:01:32.400><c> on</c><00:01:32.560><c> it</c><00:01:32.720><c> as</c><00:01:32.960><c> hard</c><00:01:33.200><c> as</c><00:01:33.439><c> possible</c>
+
+press down on it as hard as possible
+
+
+press down on it as hard as possible
+you'll<00:01:34.320><c> hear</c><00:01:34.560><c> a</c><00:01:34.640><c> little</c><00:01:35.040><c> crack</c>
+
+you'll hear a little crack
+
+
+you'll hear a little crack
+and<00:01:36.320><c> then</c><00:01:36.479><c> it</c><00:01:36.640><c> makes</c><00:01:36.880><c> it</c><00:01:37.040><c> a</c><00:01:37.200><c> lot</c><00:01:37.600><c> easier</c><00:01:38.159><c> to</c>
+
+and then it makes it a lot easier to
+
+
+and then it makes it a lot easier to
+peel<00:01:38.880><c> off</c><00:01:39.200><c> the</c><00:01:39.439><c> outer</c>
+
+peel off the outer
+
+
+peel off the outer
+layer<00:01:40.799><c> of</c><00:01:41.040><c> the</c><00:01:41.200><c> garlic</c>
+
+layer of the garlic
+
+
+layer of the garlic
+for<00:01:42.560><c> this</c><00:01:42.880><c> recipe</c><00:01:43.520><c> you</c><00:01:43.759><c> can</c><00:01:44.159><c> also</c><00:01:45.119><c> use</c><00:01:45.920><c> garlic</c>
+
+for this recipe you can also use garlic
+
+
+for this recipe you can also use garlic
+powder<00:01:47.280><c> you</c><00:01:47.439><c> can</c><00:01:47.759><c> use</c><00:01:48.159><c> chopped</c><00:01:48.560><c> garlic</c>
+
+powder you can use chopped garlic
+
+
+powder you can use chopped garlic
+whatever
+
+whatever
+
+
+whatever
+is<00:01:51.920><c> easiest</c><00:01:52.399><c> for</c><00:01:52.640><c> you</c><00:01:53.200><c> you</c><00:01:53.360><c> can</c><00:01:53.600><c> use</c><00:01:53.840><c> that's</c>
+
+is easiest for you you can use that's
+
+
+is easiest for you you can use that's
+one<00:01:54.159><c> of</c><00:01:54.240><c> my</c><00:01:54.479><c> favorite</c><00:01:54.880><c> things</c><00:01:55.200><c> about</c><00:01:55.520><c> this</c>
+
+one of my favorite things about this
+
+
+one of my favorite things about this
+recipe
+
+recipe
+
+
+recipe
+so<00:01:57.439><c> let's</c><00:01:58.159><c> start</c>
+
+so let's start
+
+
+so let's start
+i'm<00:01:59.520><c> going</c><00:01:59.680><c> to</c><00:01:59.840><c> be</c><00:02:00.000><c> using</c><00:02:00.399><c> this</c><00:02:00.719><c> immersion</c>
+
+i'm going to be using this immersion
+
+
+i'm going to be using this immersion
+blender<00:02:01.840><c> today</c><00:02:02.880><c> you</c><00:02:03.040><c> can</c><00:02:03.280><c> use</c><00:02:03.600><c> a</c><00:02:03.759><c> traditional</c>
+
+blender today you can use a traditional
+
+
+blender today you can use a traditional
+blender<00:02:04.880><c> and</c><00:02:04.960><c> you</c><00:02:05.119><c> can</c><00:02:05.280><c> also</c><00:02:05.680><c> mash</c><00:02:06.000><c> this</c><00:02:06.320><c> by</c>
+
+blender and you can also mash this by
+
+
+blender and you can also mash this by
+hand<00:02:07.439><c> so</c><00:02:07.680><c> if</c><00:02:07.840><c> you</c><00:02:08.160><c> are</c><00:02:08.399><c> mashing</c><00:02:08.879><c> this</c><00:02:09.119><c> by</c><00:02:09.440><c> hand</c>
+
+hand so if you are mashing this by hand
+
+
+hand so if you are mashing this by hand
+the<00:02:10.160><c> only</c><00:02:10.560><c> adjustment</c><00:02:11.200><c> would</c><00:02:11.440><c> be</c><00:02:12.080><c> that</c><00:02:12.239><c> you</c>
+
+the only adjustment would be that you
+
+
+the only adjustment would be that you
+really<00:02:12.800><c> need</c><00:02:12.959><c> to</c><00:02:13.200><c> chop</c><00:02:13.520><c> the</c><00:02:13.760><c> garlic</c><00:02:14.239><c> as</c><00:02:14.480><c> finely</c>
+
+really need to chop the garlic as finely
+
+
+really need to chop the garlic as finely
+as<00:02:15.120><c> possible</c>
+
+as possible
+
+
+as possible
+and<00:02:17.120><c> and</c><00:02:17.280><c> the</c><00:02:17.440><c> rest</c><00:02:17.680><c> of</c><00:02:17.840><c> it</c><00:02:18.080><c> will</c><00:02:18.319><c> work</c><00:02:18.800><c> so</c><00:02:19.440><c> i</c><00:02:19.680><c> do</c>
+
+and and the rest of it will work so i do
+
+
+and and the rest of it will work so i do
+not<00:02:20.080><c> need</c><00:02:20.239><c> to</c><00:02:20.400><c> chop</c><00:02:20.720><c> the</c><00:02:20.800><c> garlic</c><00:02:21.200><c> because</c><00:02:21.360><c> the</c>
+
+not need to chop the garlic because the
+
+
+not need to chop the garlic because the
+blender<00:02:22.000><c> will</c><00:02:22.160><c> do</c><00:02:22.400><c> all</c><00:02:22.480><c> the</c><00:02:22.640><c> work</c><00:02:22.959><c> for</c><00:02:23.120><c> me</c><00:02:23.680><c> but</c>
+
+blender will do all the work for me but
+
+
+blender will do all the work for me but
+if<00:02:24.000><c> you</c><00:02:24.160><c> do</c><00:02:24.319><c> not</c><00:02:24.560><c> have</c><00:02:24.800><c> a</c><00:02:24.879><c> blender</c><00:02:25.280><c> or</c><00:02:25.360><c> you'd</c>
+
+if you do not have a blender or you'd
+
+
+if you do not have a blender or you'd
+like<00:02:25.760><c> to</c><00:02:25.840><c> do</c><00:02:26.000><c> it</c><00:02:26.160><c> by</c><00:02:26.400><c> hand</c><00:02:27.040><c> you</c><00:02:27.200><c> can</c><00:02:27.520><c> also</c>
+
+like to do it by hand you can also
+
+
+like to do it by hand you can also
+just<00:02:29.200><c> chop</c><00:02:29.520><c> the</c><00:02:29.680><c> garlic</c><00:02:30.319><c> so</c><00:02:30.480><c> i'm</c><00:02:30.720><c> going</c><00:02:30.959><c> to</c><00:02:31.200><c> put</c>
+
+just chop the garlic so i'm going to put
+
+
+just chop the garlic so i'm going to put
+everything<00:02:32.080><c> in</c><00:02:32.400><c> as</c><00:02:32.640><c> i</c><00:02:32.800><c> said</c>
+
+everything in as i said
+
+
+everything in as i said
+a<00:02:34.000><c> very</c><00:02:34.800><c> easy</c><00:02:35.440><c> easy</c><00:02:36.160><c> recipe</c>
+
+a very easy easy recipe
+
+
+a very easy easy recipe
+the<00:02:38.800><c> only</c><00:02:39.200><c> thing</c><00:02:39.519><c> i</c><00:02:39.840><c> won't</c><00:02:40.080><c> put</c><00:02:40.400><c> in</c><00:02:40.640><c> yet</c><00:02:41.120><c> is</c><00:02:41.360><c> the</c>
+
+the only thing i won't put in yet is the
+
+
+the only thing i won't put in yet is the
+liquid<00:02:42.800><c> from</c><00:02:43.280><c> the</c><00:02:43.519><c> chickpeas</c>
+
+liquid from the chickpeas
+
+
+liquid from the chickpeas
+that<00:02:45.840><c> is</c><00:02:46.080><c> because</c><00:02:47.040><c> i</c><00:02:47.200><c> want</c><00:02:47.440><c> to</c><00:02:47.680><c> see</c>
+
+that is because i want to see
+
+
+that is because i want to see
+how<00:02:48.720><c> it</c><00:02:48.879><c> turns</c><00:02:49.200><c> out</c><00:02:49.519><c> and</c><00:02:49.680><c> decide</c><00:02:50.400><c> if</c><00:02:50.640><c> i</c><00:02:50.720><c> would</c>
+
+how it turns out and decide if i would
+
+
+how it turns out and decide if i would
+like<00:02:51.200><c> to</c><00:02:51.360><c> use</c>
+
+like to use
+
+
+like to use
+the<00:02:52.640><c> liquid</c>
+
+the liquid
+
+
+the liquid
+putting<00:02:54.239><c> in</c><00:02:54.319><c> the</c><00:02:54.560><c> garlic</c>
+
+
+
+
+
+sprinkling<00:02:57.840><c> in</c><00:02:58.000><c> the</c><00:02:58.319><c> salt</c>
+
+
+
+
+
+and<00:03:01.920><c> this</c><00:03:02.159><c> might</c><00:03:02.400><c> be</c><00:03:02.560><c> loud</c><00:03:02.879><c> so</c><00:03:03.200><c> bear</c><00:03:03.519><c> with</c><00:03:03.840><c> me</c>
+
+
+
+
+
+okay<00:03:08.560><c> and</c><00:03:08.720><c> we're</c><00:03:08.959><c> going</c><00:03:09.360><c> to</c>
+
+
+
+
+
+let<00:03:19.360><c> me</c><00:03:19.680><c> look</c><00:03:20.000><c> i</c><00:03:20.319><c> think</c><00:03:20.560><c> i'm</c><00:03:20.800><c> gonna</c><00:03:21.040><c> add</c><00:03:21.280><c> a</c>
+
+let me look i think i'm gonna add a
+
+
+let me look i think i'm gonna add a
+little<00:03:21.760><c> bit</c><00:03:21.920><c> of</c><00:03:22.080><c> the</c><00:03:22.640><c> it's</c><00:03:22.879><c> looking</c><00:03:23.280><c> a</c><00:03:23.519><c> little</c>
+
+little bit of the it's looking a little
+
+
+little bit of the it's looking a little
+um<00:03:24.560><c> thicker</c><00:03:24.959><c> than</c><00:03:25.200><c> i</c><00:03:25.440><c> would</c><00:03:25.680><c> like</c><00:03:26.080><c> so</c><00:03:26.319><c> i'm</c>
+
+um thicker than i would like so i'm
+
+
+um thicker than i would like so i'm
+going<00:03:26.959><c> to</c><00:03:27.120><c> put</c><00:03:27.519><c> in</c>
+
+going to put in
+
+
+going to put in
+just<00:03:29.519><c> a</c><00:03:29.680><c> little</c><00:03:30.080><c> drop</c>
+
+just a little drop
+
+
+just a little drop
+of<00:03:32.879><c> the</c><00:03:33.120><c> liquid</c><00:03:33.680><c> from</c><00:03:33.920><c> the</c><00:03:34.080><c> chickpeas</c>
+
+of the liquid from the chickpeas
+
+
+of the liquid from the chickpeas
+another<00:03:36.159><c> um</c><00:03:36.640><c> liquid</c><00:03:37.040><c> you</c><00:03:37.200><c> can</c><00:03:37.360><c> use</c><00:03:37.840><c> um</c>
+
+another um liquid you can use um
+
+
+another um liquid you can use um
+is<00:03:39.200><c> tahini</c><00:03:40.080><c> if</c><00:03:40.239><c> you've</c><00:03:40.799><c> ever</c><00:03:41.040><c> had</c><00:03:41.360><c> tahi</c><00:03:41.920><c> it</c><00:03:42.159><c> is</c>
+
+is tahini if you've ever had tahi it is
+
+
+is tahini if you've ever had tahi it is
+sesame<00:03:43.840><c> seed</c><00:03:44.319><c> paste</c><00:03:44.799><c> and</c><00:03:44.959><c> it's</c><00:03:45.120><c> delicious</c><00:03:45.680><c> and</c>
+
+sesame seed paste and it's delicious and
+
+
+sesame seed paste and it's delicious and
+you<00:03:45.920><c> can</c><00:03:46.080><c> put</c><00:03:46.239><c> it</c><00:03:46.400><c> in</c><00:03:46.560><c> hummus</c><00:03:47.280><c> it's</c><00:03:47.519><c> not</c>
+
+you can put it in hummus it's not
+
+
+you can put it in hummus it's not
+necessary
+
+necessary
+
+
+necessary
+you<00:03:49.280><c> can</c><00:03:49.519><c> also</c><00:03:49.840><c> put</c><00:03:50.080><c> in</c><00:03:50.239><c> a</c><00:03:50.319><c> bunch</c><00:03:50.640><c> of</c><00:03:50.720><c> different</c>
+
+you can also put in a bunch of different
+
+
+you can also put in a bunch of different
+herbs<00:03:51.599><c> and</c><00:03:51.840><c> spices</c><00:03:52.640><c> sometimes</c><00:03:53.120><c> i'll</c><00:03:53.280><c> put</c><00:03:53.439><c> a</c>
+
+herbs and spices sometimes i'll put a
+
+
+herbs and spices sometimes i'll put a
+little<00:03:54.080><c> cumin</c><00:03:54.640><c> in</c><00:03:54.799><c> it</c><00:03:55.040><c> red</c><00:03:55.360><c> pepper</c><00:03:55.760><c> flakes</c>
+
+little cumin in it red pepper flakes
+
+
+little cumin in it red pepper flakes
+jalapenos<00:03:57.040><c> there's</c><00:03:57.360><c> so</c><00:03:57.920><c> many</c><00:03:58.480><c> options</c><00:03:59.280><c> the</c>
+
+jalapenos there's so many options the
+
+
+jalapenos there's so many options the
+possibilities<00:04:00.239><c> are</c><00:04:00.480><c> endless</c><00:04:00.879><c> with</c><00:04:01.040><c> hummus</c>
+
+possibilities are endless with hummus
+
+
+possibilities are endless with hummus
+and<00:04:01.680><c> that</c><00:04:01.920><c> is</c><00:04:02.319><c> why</c><00:04:02.640><c> i</c><00:04:02.879><c> personally</c><00:04:03.439><c> enjoy</c>
+
+and that is why i personally enjoy
+
+
+and that is why i personally enjoy
+making<00:04:04.159><c> it</c><00:04:04.480><c> so</c><00:04:04.879><c> much</c><00:04:05.599><c> i've</c><00:04:05.840><c> even</c><00:04:06.319><c> eaten</c><00:04:06.959><c> with</c>
+
+making it so much i've even eaten with
+
+
+making it so much i've even eaten with
+beets<00:04:07.680><c> in</c><00:04:07.840><c> it</c><00:04:08.000><c> as</c><00:04:08.239><c> well</c><00:04:08.560><c> so</c><00:04:08.720><c> you</c><00:04:08.799><c> can</c><00:04:08.959><c> put</c><00:04:09.120><c> the</c>
+
+beets in it as well so you can put the
+
+
+beets in it as well so you can put the
+beets<00:04:09.599><c> in</c><00:04:09.760><c> it</c><00:04:09.840><c> makes</c><00:04:10.080><c> it</c><00:04:10.239><c> a</c><00:04:10.319><c> beautiful</c>
+
+beets in it makes it a beautiful
+
+
+beets in it makes it a beautiful
+red<00:04:11.920><c> purple</c><00:04:12.480><c> color</c><00:04:13.200><c> and</c><00:04:13.360><c> it</c><00:04:13.519><c> tastes</c><00:04:13.840><c> delicious</c>
+
+red purple color and it tastes delicious
+
+
+red purple color and it tastes delicious
+as<00:04:14.640><c> well</c><00:04:14.959><c> so</c><00:04:15.120><c> let's</c><00:04:15.519><c> blend</c><00:04:15.840><c> this</c><00:04:16.239><c> up</c><00:04:16.799><c> a</c><00:04:16.880><c> little</c>
+
+as well so let's blend this up a little
+
+
+as well so let's blend this up a little
+more
+
+
+
+
+
+it<00:04:23.280><c> smells</c><00:04:23.680><c> delicious</c><00:04:24.479><c> i</c><00:04:24.720><c> really</c><00:04:24.960><c> get</c><00:04:25.199><c> that</c>
+
+it smells delicious i really get that
+
+
+it smells delicious i really get that
+garlic
+
+garlic
+
+
+garlic
+coming<00:04:27.360><c> through</c><00:04:28.080><c> ooh</c><00:04:28.560><c> yum</c><00:04:28.960><c> i'm</c><00:04:29.120><c> going</c><00:04:29.199><c> to</c><00:04:29.360><c> show</c>
+
+coming through ooh yum i'm going to show
+
+
+coming through ooh yum i'm going to show
+you<00:04:29.680><c> guys</c><00:04:30.000><c> what</c><00:04:30.240><c> it</c><00:04:30.320><c> looks</c><00:04:30.639><c> like</c><00:04:31.040><c> can</c><00:04:31.280><c> you</c><00:04:31.520><c> see</c>
+
+you guys what it looks like can you see
+
+
+you guys what it looks like can you see
+that<00:04:32.240><c> how</c><00:04:32.639><c> it</c><00:04:32.880><c> looks</c>
+
+that how it looks
+
+
+that how it looks
+delicious<00:04:35.280><c> and</c><00:04:35.440><c> so</c><00:04:35.680><c> what</c><00:04:35.919><c> you'll</c><00:04:36.240><c> do</c><00:04:36.560><c> next</c><00:04:36.960><c> is</c>
+
+delicious and so what you'll do next is
+
+
+delicious and so what you'll do next is
+you<00:04:37.360><c> will</c><00:04:37.840><c> you</c><00:04:38.000><c> can</c><00:04:38.160><c> put</c><00:04:38.400><c> this</c><00:04:38.639><c> in</c><00:04:38.800><c> your</c><00:04:39.040><c> fridge</c>
+
+you will you can put this in your fridge
+
+
+you will you can put this in your fridge
+to<00:04:39.600><c> let</c><00:04:39.840><c> it</c><00:04:40.000><c> cool</c><00:04:40.560><c> or</c><00:04:40.800><c> you</c><00:04:40.960><c> can</c><00:04:41.120><c> just</c><00:04:41.680><c> serve</c><00:04:42.000><c> it</c>
+
+to let it cool or you can just serve it
+
+
+to let it cool or you can just serve it
+and<00:04:42.320><c> eat</c><00:04:42.479><c> it</c><00:04:42.720><c> right</c><00:04:42.960><c> now</c><00:04:43.680><c> so</c><00:04:43.840><c> i</c><00:04:44.080><c> know</c><00:04:44.320><c> i'm</c><00:04:44.560><c> about</c>
+
+and eat it right now so i know i'm about
+
+
+and eat it right now so i know i'm about
+to<00:04:44.880><c> eat</c><00:04:45.120><c> it</c><00:04:45.199><c> with</c><00:04:45.440><c> some</c><00:04:45.680><c> carrots</c><00:04:46.639><c> i</c><00:04:46.880><c> cut</c><00:04:47.120><c> up</c><00:04:47.280><c> my</c>
+
+to eat it with some carrots i cut up my
+
+
+to eat it with some carrots i cut up my
+carrots<00:04:48.000><c> here</c><00:04:48.720><c> you</c><00:04:48.880><c> can</c><00:04:49.040><c> eat</c><00:04:49.280><c> this</c><00:04:49.520><c> with</c>
+
+carrots here you can eat this with
+
+
+carrots here you can eat this with
+whatever<00:04:50.639><c> vegetable</c><00:04:51.199><c> you</c><00:04:51.360><c> like</c><00:04:51.680><c> to</c><00:04:51.840><c> dip</c><00:04:52.240><c> in</c>
+
+whatever vegetable you like to dip in
+
+
+whatever vegetable you like to dip in
+you<00:04:53.040><c> can</c><00:04:53.199><c> also</c><00:04:53.520><c> eat</c><00:04:53.759><c> it</c><00:04:54.000><c> with</c><00:04:54.720><c> whole</c><00:04:54.960><c> wheat</c>
+
+you can also eat it with whole wheat
+
+
+you can also eat it with whole wheat
+crackers<00:04:56.639><c> you</c><00:04:56.800><c> could</c><00:04:57.120><c> eat</c><00:04:57.360><c> it</c><00:04:57.600><c> um</c><00:04:58.160><c> on</c>
+
+crackers you could eat it um on
+
+
+crackers you could eat it um on
+sandwiches<00:04:59.280><c> sometimes</c><00:04:59.680><c> i'll</c><00:04:59.840><c> make</c><00:05:00.080><c> a</c><00:05:00.160><c> nice</c>
+
+sandwiches sometimes i'll make a nice
+
+
+sandwiches sometimes i'll make a nice
+hummus<00:05:00.880><c> sandwich</c>
+
+hummus sandwich
+
+
+hummus sandwich
+because<00:05:02.080><c> the</c><00:05:02.240><c> chickpeas</c><00:05:02.720><c> have</c><00:05:02.880><c> a</c><00:05:02.960><c> lot</c><00:05:03.120><c> of</c>
+
+because the chickpeas have a lot of
+
+
+because the chickpeas have a lot of
+protein<00:05:03.759><c> as</c><00:05:04.000><c> well</c><00:05:04.400><c> so</c>
+
+protein as well so
+
+
+protein as well so
+let<00:05:05.440><c> me</c><00:05:05.680><c> add</c><00:05:06.240><c> this</c><00:05:06.639><c> to</c>
+
+let me add this to
+
+
+let me add this to
+my<00:05:08.400><c> side</c>
+
+my side
+
+
+my side
+and<00:05:09.919><c> look</c><00:05:10.160><c> how</c><00:05:10.400><c> delicious</c><00:05:10.960><c> you</c><00:05:11.120><c> can</c><00:05:11.280><c> just</c><00:05:11.520><c> dip</c>
+
+and look how delicious you can just dip
+
+
+and look how delicious you can just dip
+right<00:05:12.240><c> in</c><00:05:12.560><c> and</c><00:05:12.800><c> eat</c>
+
+
+
+
+
+that<00:05:16.880><c> is</c><00:05:17.039><c> so</c><00:05:17.360><c> good</c>
+
+that is so good
+
+
+that is so good
+i<00:05:18.400><c> hope</c><00:05:18.639><c> you</c><00:05:18.880><c> enjoyed</c><00:05:19.280><c> today's</c>
+
+i hope you enjoyed today's
+
+
+i hope you enjoyed today's
+video<00:05:21.919><c> if</c><00:05:22.080><c> you</c><00:05:22.240><c> are</c><00:05:22.400><c> interested</c><00:05:22.960><c> in</c><00:05:23.039><c> making</c>
+
+video if you are interested in making
+
+
+video if you are interested in making
+this<00:05:23.520><c> for</c><00:05:23.759><c> yourself</c>
+
+this for yourself
+
+
+this for yourself
+click<00:05:25.039><c> on</c><00:05:25.199><c> the</c><00:05:25.360><c> link</c><00:05:25.680><c> down</c><00:05:25.919><c> below</c>
+
+click on the link down below
+
+
+click on the link down below
+and<00:05:27.280><c> it</c><00:05:27.440><c> has</c><00:05:27.919><c> um</c>
+
+and it has um
+
+
+and it has um
+a<00:05:29.360><c> link</c><00:05:29.680><c> to</c><00:05:29.840><c> this</c><00:05:30.000><c> recipe</c><00:05:30.479><c> on</c><00:05:30.639><c> the</c><00:05:30.720><c> capital</c>
+
+a link to this recipe on the capital
+
+
+a link to this recipe on the capital
+area<00:05:31.520><c> food</c><00:05:31.759><c> bank</c><00:05:32.000><c> website</c><00:05:32.560><c> so</c><00:05:33.199><c> i</c><00:05:33.360><c> really</c><00:05:33.600><c> hope</c>
+
+area food bank website so i really hope
+
+
+area food bank website so i really hope
+you<00:05:33.919><c> go</c><00:05:34.080><c> check</c><00:05:34.240><c> it</c><00:05:34.400><c> out</c><00:05:34.560><c> and</c><00:05:34.639><c> that</c><00:05:34.800><c> you</c><00:05:34.960><c> try</c>
+
+you go check it out and that you try
+
+
+you go check it out and that you try
+this<00:05:35.360><c> on</c><00:05:35.440><c> your</c><00:05:35.680><c> own</c>

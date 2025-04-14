@@ -15,12 +15,11 @@ from openai import OpenAI
 from dotenv import load_dotenv
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-
 app = FastAPI()
 
 # Load indexes at startup (to avoid reloading per request)
-TEXT_INDEX, TEXT_META = load_faiss_and_metadata("outputs/faiss_index.index", "outputs/faiss_metadata.json")
-IMG_INDEX, IMG_META = load_faiss_and_metadata("outputs/faiss_index_images.index", "outputs/faiss_metadata_images.json")
+TEXT_INDEX, TEXT_META = load_faiss_and_metadata("/Users/sharvari/Downloads/CAFB_Challenge/outputs/faiss_index.index", "/Users/sharvari/Downloads/CAFB_Challenge/outputs/faiss_metadata.json")
+IMG_INDEX, IMG_META = load_faiss_and_metadata("/Users/sharvari/Downloads/CAFB_Challenge/outputs/faiss_index_images.index", "/Users/sharvari/Downloads/CAFB_Challenge/outputs/faiss_metadata_images.json")
 
 # ----------------------------
 # Request and Response Schemas

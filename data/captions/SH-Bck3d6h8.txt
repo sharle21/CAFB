@@ -1,0 +1,132 @@
+WEBVTT
+Kind: captions
+Language: en
+
+
+hunger<00:00:00.480><c> in</c><00:00:00.640><c> our</c><00:00:00.919><c> community</c><00:00:01.360><c> is</c><00:00:01.599><c> real</c><00:00:02.200><c> there</c>
+
+hunger in our community is real there
+
+
+hunger in our community is real there
+were<00:00:02.639><c> times</c><00:00:03.040><c> that</c><00:00:03.320><c> we</c><00:00:03.439><c> were</c><00:00:03.800><c> extremely</c><00:00:04.319><c> hungry</c>
+
+were times that we were extremely hungry
+
+
+were times that we were extremely hungry
+I've<00:00:05.080><c> had</c><00:00:05.200><c> some</c><00:00:05.440><c> life</c><00:00:05.720><c> challenges</c><00:00:06.600><c> I</c><00:00:06.680><c> know</c>
+
+I've had some life challenges I know
+
+
+I've had some life challenges I know
+what<00:00:06.919><c> it's</c><00:00:07.080><c> like</c><00:00:07.240><c> to</c><00:00:07.359><c> go</c><00:00:07.520><c> hungry</c><00:00:08.280><c> when</c><00:00:08.519><c> food</c><00:00:09.040><c> is</c>
+
+what it's like to go hungry when food is
+
+
+what it's like to go hungry when food is
+running<00:00:09.559><c> low</c><00:00:09.840><c> and</c><00:00:09.960><c> you</c><00:00:10.120><c> have</c><00:00:10.480><c> three</c><00:00:10.880><c> small</c>
+
+running low and you have three small
+
+
+running low and you have three small
+mouths<00:00:11.639><c> to</c><00:00:11.799><c> feed</c><00:00:12.480><c> it's</c><00:00:12.759><c> scary</c><00:00:13.759><c> sometimes</c><00:00:14.360><c> you</c>
+
+mouths to feed it's scary sometimes you
+
+
+mouths to feed it's scary sometimes you
+have<00:00:15.080><c> to</c><00:00:15.280><c> choose</c><00:00:15.839><c> between</c><00:00:16.160><c> your</c><00:00:16.400><c> medication</c>
+
+have to choose between your medication
+
+
+have to choose between your medication
+and<00:00:17.600><c> food</c><00:00:18.160><c> when</c><00:00:18.279><c> it</c><00:00:18.439><c> comes</c><00:00:18.640><c> to</c><00:00:18.840><c> hunger</c><00:00:19.279><c> don't</c>
+
+and food when it comes to hunger don't
+
+
+and food when it comes to hunger don't
+judge<00:00:19.760><c> a</c><00:00:19.920><c> book</c><00:00:20.160><c> by</c><00:00:20.359><c> his</c><00:00:20.560><c> cover</c><00:00:21.119><c> I</c><00:00:21.279><c> said</c><00:00:21.560><c> that</c>
+
+judge a book by his cover I said that
+
+
+judge a book by his cover I said that
+this<00:00:22.000><c> will</c><00:00:22.199><c> never</c><00:00:22.519><c> happen</c><00:00:22.760><c> to</c><00:00:22.960><c> me</c><00:00:23.560><c> but</c><00:00:23.760><c> the</c>
+
+this will never happen to me but the
+
+
+this will never happen to me but the
+reality<00:00:24.480><c> is</c><00:00:24.920><c> this</c><00:00:25.080><c> can</c><00:00:25.359><c> impact</c><00:00:25.800><c> anyone</c><00:00:26.320><c> food</c>
+
+reality is this can impact anyone food
+
+
+reality is this can impact anyone food
+insecurity<00:00:27.199><c> is</c><00:00:27.320><c> a</c><00:00:27.599><c> silent</c><00:00:28.039><c> crisis</c><00:00:28.480><c> here</c><00:00:28.599><c> in</c>
+
+insecurity is a silent crisis here in
+
+
+insecurity is a silent crisis here in
+the<00:00:28.800><c> DMV</c><00:00:29.519><c> it's</c><00:00:29.679><c> all</c><00:00:30.199><c> ages</c><00:00:30.880><c> it's</c><00:00:31.080><c> all</c><00:00:31.400><c> racist</c>
+
+the DMV it's all ages it's all racist
+
+
+the DMV it's all ages it's all racist
+hunger<00:00:32.759><c> doesn't</c><00:00:33.480><c> discriminate</c><00:00:34.280><c> and</c><00:00:34.440><c> that's</c>
+
+hunger doesn't discriminate and that's
+
+
+hunger doesn't discriminate and that's
+why<00:00:34.840><c> this</c><00:00:35.000><c> is</c><00:00:35.200><c> so</c><00:00:35.559><c> Paramount</c><00:00:36.520><c> hunger</c><00:00:36.960><c> is</c><00:00:37.079><c> a</c>
+
+why this is so Paramount hunger is a
+
+
+why this is so Paramount hunger is a
+problem<00:00:37.559><c> in</c><00:00:37.680><c> our</c><00:00:37.960><c> region</c><00:00:38.559><c> even</c><00:00:38.800><c> though</c><00:00:39.000><c> people</c>
+
+problem in our region even though people
+
+
+problem in our region even though people
+don't<00:00:39.440><c> think</c><00:00:39.640><c> so</c><00:00:40.520><c> we</c><00:00:40.640><c> need</c><00:00:40.840><c> to</c><00:00:41.440><c> understand</c>
+
+don't think so we need to understand
+
+
+don't think so we need to understand
+these<00:00:42.160><c> are</c><00:00:42.360><c> our</c><00:00:42.600><c> neighbors</c><00:00:43.239><c> and</c><00:00:43.440><c> this</c><00:00:43.600><c> is</c><00:00:43.760><c> our</c>
+
+these are our neighbors and this is our
+
+
+these are our neighbors and this is our
+community<00:00:45.280><c> hunger</c><00:00:45.719><c> is</c><00:00:46.000><c> truly</c><00:00:46.399><c> here</c><00:00:46.840><c> hunger</c><00:00:47.480><c> is</c>
+
+community hunger is truly here hunger is
+
+
+community hunger is truly here hunger is
+here<00:00:48.239><c> hunger</c><00:00:48.719><c> is</c><00:00:49.000><c> here</c><00:00:49.360><c> hunger</c><00:00:49.719><c> is</c><00:00:50.000><c> here</c><00:00:50.800><c> we</c>
+
+here hunger is here hunger is here we
+
+
+here hunger is here hunger is here we
+need<00:00:51.079><c> to</c><00:00:51.320><c> address</c><00:00:51.960><c> this</c><00:00:52.440><c> as</c><00:00:52.559><c> a</c><00:00:52.760><c> community</c>
+
+need to address this as a community
+
+
+need to address this as a community
+because<00:00:54.160><c> everyone</c><00:00:54.520><c> matters</c>

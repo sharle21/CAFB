@@ -1,0 +1,3 @@
+{"timestamp": "2025-04-14T22:44:22.091161", "endpoint": "/generate", "query": "Generate a grant paragraph about food as medicine for seniors.", "format": "blog_post", "tone": "formal", "top_k": 5}
+{"timestamp": "2025-04-14T22:45:34.861703", "endpoint": "/generate", "query": "Generate a grant paragraph about food as medicine for seniors.", "format": "grant", "tone": "formal", "top_k": 5}
+{"timestamp": "2025-04-14T22:46:48.454372", "endpoint": "/generate", "query": "Generate a grant paragraph about food as medicine for seniors.", "format": "grant", "tone": "formal", "top_k": 5}

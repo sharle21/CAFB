@@ -1,0 +1,1284 @@
+WEBVTT
+Kind: captions
+Language: en
+
+
+good<00:00:00.240><c> morning</c><00:00:00.640><c> and</c><00:00:00.799><c> welcome</c><00:00:01.120><c> to</c><00:00:01.199><c> the</c><00:00:01.360><c> capitol</c>
+
+good morning and welcome to the capitol
+
+
+good morning and welcome to the capitol
+area<00:00:02.320><c> food</c><00:00:02.639><c> bank</c><00:00:03.040><c> recipe</c><00:00:03.679><c> video</c><00:00:04.319><c> library</c>
+
+area food bank recipe video library
+
+
+area food bank recipe video library
+today<00:00:06.000><c> we</c><00:00:06.160><c> are</c><00:00:06.319><c> going</c><00:00:06.480><c> to</c><00:00:06.640><c> be</c><00:00:06.960><c> making</c>
+
+today we are going to be making
+
+
+today we are going to be making
+veggie<00:00:08.639><c> and</c><00:00:08.880><c> cheese</c><00:00:09.440><c> egg</c><00:00:09.840><c> bake</c><00:00:10.480><c> so</c><00:00:10.639><c> this</c><00:00:10.880><c> is</c><00:00:11.040><c> a</c>
+
+veggie and cheese egg bake so this is a
+
+
+veggie and cheese egg bake so this is a
+delicious<00:00:11.920><c> breakfast</c><00:00:12.559><c> recipe</c><00:00:13.440><c> for</c><00:00:13.599><c> an</c><00:00:13.840><c> easy</c>
+
+delicious breakfast recipe for an easy
+
+
+delicious breakfast recipe for an easy
+morning<00:00:14.639><c> if</c><00:00:14.799><c> you</c><00:00:14.960><c> make</c><00:00:15.120><c> it</c><00:00:15.200><c> ahead</c><00:00:15.519><c> of</c><00:00:15.679><c> time</c><00:00:15.920><c> you</c>
+
+morning if you make it ahead of time you
+
+
+morning if you make it ahead of time you
+can<00:00:16.240><c> pop</c><00:00:16.480><c> it</c><00:00:16.640><c> in</c><00:00:16.720><c> the</c><00:00:16.880><c> fridge</c><00:00:17.359><c> and</c><00:00:17.440><c> then</c><00:00:17.760><c> day</c><00:00:18.080><c> of</c>
+
+can pop it in the fridge and then day of
+
+
+can pop it in the fridge and then day of
+reheat<00:00:18.880><c> it</c><00:00:19.439><c> um</c><00:00:19.680><c> so</c><00:00:19.840><c> let's</c><00:00:20.080><c> get</c><00:00:20.400><c> started</c><00:00:21.279><c> i'm</c>
+
+reheat it um so let's get started i'm
+
+
+reheat it um so let's get started i'm
+going<00:00:21.600><c> to</c><00:00:21.760><c> show</c><00:00:22.000><c> you</c><00:00:22.400><c> what</c><00:00:22.720><c> is</c><00:00:23.039><c> in</c><00:00:23.439><c> this</c><00:00:23.760><c> recipe</c>
+
+going to show you what is in this recipe
+
+
+going to show you what is in this recipe
+today
+
+today
+
+
+today
+so<00:00:27.039><c> first</c><00:00:27.439><c> we</c><00:00:27.680><c> have</c><00:00:28.080><c> two</c><00:00:28.320><c> tablespoons</c><00:00:29.119><c> of</c>
+
+so first we have two tablespoons of
+
+
+so first we have two tablespoons of
+butter<00:00:29.920><c> we</c><00:00:30.080><c> have</c><00:00:30.480><c> one</c><00:00:31.039><c> onion</c>
+
+butter we have one onion
+
+
+butter we have one onion
+we<00:00:32.719><c> have</c><00:00:33.040><c> one</c><00:00:33.360><c> green</c><00:00:33.760><c> pepper</c>
+
+we have one green pepper
+
+
+we have one green pepper
+we<00:00:35.840><c> have</c><00:00:36.239><c> one</c><00:00:36.800><c> can</c><00:00:37.440><c> of</c><00:00:37.760><c> no</c><00:00:38.079><c> salt</c><00:00:38.559><c> added</c><00:00:39.120><c> corn</c>
+
+we have one can of no salt added corn
+
+
+we have one can of no salt added corn
+you<00:00:40.399><c> can</c><00:00:40.640><c> also</c><00:00:40.960><c> use</c><00:00:41.360><c> frozen</c><00:00:41.920><c> corn</c><00:00:42.239><c> instead</c><00:00:43.200><c> i</c>
+
+you can also use frozen corn instead i
+
+
+you can also use frozen corn instead i
+have<00:00:43.600><c> my</c><00:00:44.000><c> one</c><00:00:44.320><c> cup</c><00:00:45.039><c> of</c><00:00:45.280><c> low-fat</c><00:00:46.239><c> milk</c>
+
+have my one cup of low-fat milk
+
+
+have my one cup of low-fat milk
+my<00:00:48.800><c> one</c><00:00:49.120><c> cup</c><00:00:49.440><c> of</c><00:00:49.760><c> cheese</c><00:00:50.320><c> you</c><00:00:50.480><c> can</c><00:00:50.640><c> use</c><00:00:50.960><c> any</c>
+
+my one cup of cheese you can use any
+
+
+my one cup of cheese you can use any
+type<00:00:51.520><c> of</c><00:00:51.680><c> cheese</c><00:00:52.079><c> today</c><00:00:52.480><c> i'm</c><00:00:52.640><c> going</c><00:00:52.879><c> to</c><00:00:52.960><c> be</c>
+
+type of cheese today i'm going to be
+
+
+type of cheese today i'm going to be
+using<00:00:53.680><c> sharp</c><00:00:54.160><c> cheddar</c>
+
+using sharp cheddar
+
+
+using sharp cheddar
+i<00:00:56.480><c> have</c><00:00:56.800><c> my</c><00:00:57.199><c> eight</c><00:00:57.600><c> eggs</c><00:00:58.239><c> that</c><00:00:58.399><c> we</c><00:00:58.559><c> will</c><00:00:58.879><c> beat</c>
+
+i have my eight eggs that we will beat
+
+
+i have my eight eggs that we will beat
+together
+
+together
+
+
+together
+for<00:01:01.760><c> spices</c><00:01:02.320><c> i</c><00:01:02.559><c> have</c><00:01:03.039><c> one</c><00:01:03.520><c> teaspoon</c><00:01:04.239><c> of</c><00:01:04.479><c> chili</c>
+
+for spices i have one teaspoon of chili
+
+
+for spices i have one teaspoon of chili
+powder
+
+powder
+
+
+powder
+a<00:01:07.360><c> half</c><00:01:07.600><c> a</c><00:01:07.760><c> teaspoon</c><00:01:08.240><c> of</c><00:01:08.400><c> salt</c><00:01:09.280><c> and</c><00:01:09.439><c> a</c><00:01:09.520><c> fourth</c><00:01:09.840><c> a</c>
+
+a half a teaspoon of salt and a fourth a
+
+
+a half a teaspoon of salt and a fourth a
+teaspoon<00:01:10.560><c> of</c><00:01:11.119><c> pepper</c><00:01:12.080><c> so</c><00:01:12.240><c> there's</c><00:01:12.560><c> two</c>
+
+teaspoon of pepper so there's two
+
+
+teaspoon of pepper so there's two
+different<00:01:13.280><c> ways</c><00:01:13.520><c> that</c><00:01:13.680><c> you</c><00:01:13.760><c> can</c><00:01:13.920><c> make</c><00:01:14.159><c> this</c>
+
+different ways that you can make this
+
+
+different ways that you can make this
+recipe<00:01:15.360><c> if</c><00:01:15.600><c> you</c><00:01:15.840><c> have</c><00:01:16.159><c> a</c><00:01:16.479><c> cast</c><00:01:16.880><c> iron</c><00:01:17.360><c> skillet</c>
+
+recipe if you have a cast iron skillet
+
+
+recipe if you have a cast iron skillet
+or<00:01:18.000><c> a</c><00:01:18.159><c> skillet</c><00:01:18.640><c> you</c><00:01:18.799><c> can</c><00:01:18.960><c> put</c><00:01:19.200><c> in</c><00:01:19.280><c> the</c><00:01:19.520><c> oven</c><00:01:20.159><c> you</c>
+
+or a skillet you can put in the oven you
+
+
+or a skillet you can put in the oven you
+can<00:01:20.560><c> make</c><00:01:20.880><c> everything</c><00:01:21.600><c> in</c><00:01:21.680><c> the</c><00:01:21.840><c> skillet</c><00:01:22.400><c> and</c>
+
+can make everything in the skillet and
+
+
+can make everything in the skillet and
+then<00:01:22.720><c> pop</c><00:01:22.960><c> it</c><00:01:23.200><c> in</c><00:01:23.280><c> the</c><00:01:23.439><c> oven</c><00:01:24.240><c> if</c><00:01:24.400><c> you're</c><00:01:24.640><c> like</c>
+
+then pop it in the oven if you're like
+
+
+then pop it in the oven if you're like
+me<00:01:25.360><c> and</c><00:01:25.520><c> you</c><00:01:25.680><c> don't</c><00:01:26.000><c> have</c><00:01:26.320><c> one</c><00:01:26.479><c> of</c><00:01:26.640><c> those</c><00:01:27.119><c> your</c>
+
+me and you don't have one of those your
+
+
+me and you don't have one of those your
+um<00:01:27.840><c> pan</c><00:01:28.240><c> is</c><00:01:28.400><c> not</c><00:01:28.640><c> able</c><00:01:28.880><c> to</c><00:01:29.040><c> go</c><00:01:29.200><c> in</c><00:01:29.280><c> the</c><00:01:29.439><c> oven</c>
+
+um pan is not able to go in the oven
+
+
+um pan is not able to go in the oven
+like<00:01:30.400><c> this</c><00:01:30.720><c> one</c><00:01:31.360><c> we're</c><00:01:31.600><c> going</c><00:01:31.840><c> to</c><00:01:31.920><c> be</c><00:01:32.159><c> making</c>
+
+like this one we're going to be making
+
+
+like this one we're going to be making
+it<00:01:32.640><c> a</c><00:01:32.720><c> little</c><00:01:33.040><c> different</c><00:01:33.439><c> so</c><00:01:33.680><c> we're</c><00:01:33.840><c> going</c><00:01:33.920><c> to</c>
+
+it a little different so we're going to
+
+
+it a little different so we're going to
+start<00:01:34.479><c> by</c><00:01:35.040><c> cooking</c><00:01:35.439><c> all</c><00:01:35.520><c> the</c><00:01:35.680><c> ingredients</c><00:01:36.240><c> we</c>
+
+start by cooking all the ingredients we
+
+
+start by cooking all the ingredients we
+need<00:01:36.560><c> to</c><00:01:36.720><c> cook</c><00:01:37.280><c> in</c><00:01:37.759><c> the</c>
+
+need to cook in the
+
+
+need to cook in the
+pan<00:01:39.200><c> and</c><00:01:39.280><c> then</c><00:01:39.439><c> we're</c><00:01:39.600><c> going</c><00:01:39.680><c> to</c><00:01:39.840><c> move</c><00:01:40.079><c> it</c><00:01:40.240><c> over</c>
+
+pan and then we're going to move it over
+
+
+pan and then we're going to move it over
+to<00:01:40.799><c> a</c><00:01:41.040><c> baking</c><00:01:41.520><c> sheet</c><00:01:41.759><c> here</c><00:01:42.399><c> that</c><00:01:42.640><c> i</c><00:01:42.720><c> have</c>
+
+to a baking sheet here that i have
+
+
+to a baking sheet here that i have
+lightly<00:01:43.600><c> greased</c>
+
+lightly greased
+
+
+lightly greased
+and<00:01:45.040><c> we're</c><00:01:45.280><c> going</c><00:01:45.439><c> to</c><00:01:45.520><c> be</c><00:01:45.759><c> preheating</c><00:01:46.320><c> our</c>
+
+and we're going to be preheating our
+
+
+and we're going to be preheating our
+oven<00:01:46.960><c> to</c><00:01:47.200><c> 400</c><00:01:48.000><c> degrees</c><00:01:48.880><c> if</c><00:01:49.040><c> you</c><00:01:49.119><c> haven't</c><00:01:49.439><c> done</c>
+
+oven to 400 degrees if you haven't done
+
+
+oven to 400 degrees if you haven't done
+that<00:01:49.920><c> now</c><00:01:50.079><c> would</c><00:01:50.240><c> be</c><00:01:50.320><c> a</c><00:01:50.479><c> great</c><00:01:50.799><c> time</c><00:01:51.040><c> to</c><00:01:51.119><c> go</c>
+
+that now would be a great time to go
+
+
+that now would be a great time to go
+preheat<00:01:51.840><c> your</c><00:01:52.000><c> oven</c><00:01:52.320><c> so</c><00:01:52.479><c> we</c><00:01:52.560><c> can</c><00:01:52.720><c> get</c>
+
+preheat your oven so we can get
+
+
+preheat your oven so we can get
+everything<00:01:53.600><c> cooking</c>
+
+everything cooking
+
+
+everything cooking
+so<00:01:55.040><c> let's</c><00:01:55.439><c> begin</c><00:01:56.159><c> we're</c><00:01:56.399><c> going</c><00:01:56.640><c> to</c><00:01:56.880><c> melt</c><00:01:57.200><c> our</c>
+
+so let's begin we're going to melt our
+
+
+so let's begin we're going to melt our
+two<00:01:58.079><c> tablespoons</c><00:01:58.880><c> of</c><00:01:59.200><c> butter</c>
+
+two tablespoons of butter
+
+
+two tablespoons of butter
+on<00:02:00.640><c> our</c><00:02:00.960><c> pan</c><00:02:01.759><c> while</c><00:02:02.159><c> we</c><00:02:02.799><c> are</c>
+
+on our pan while we are
+
+
+on our pan while we are
+cutting<00:02:04.320><c> everything</c><00:02:04.880><c> up</c>
+
+cutting everything up
+
+
+cutting everything up
+perfect<00:02:07.360><c> so</c><00:02:07.600><c> i'm</c><00:02:07.840><c> gonna</c><00:02:08.239><c> get</c><00:02:08.640><c> that</c><00:02:09.280><c> cooking</c>
+
+perfect so i'm gonna get that cooking
+
+
+perfect so i'm gonna get that cooking
+and<00:02:10.319><c> while</c><00:02:10.560><c> that's</c><00:02:10.800><c> happening</c><00:02:11.440><c> let's</c><00:02:11.680><c> go</c>
+
+and while that's happening let's go
+
+
+and while that's happening let's go
+ahead<00:02:12.319><c> and</c><00:02:12.480><c> cut</c><00:02:12.720><c> our</c><00:02:12.879><c> onion</c><00:02:13.280><c> and</c><00:02:13.440><c> cut</c><00:02:13.680><c> our</c>
+
+ahead and cut our onion and cut our
+
+
+ahead and cut our onion and cut our
+pepper<00:02:14.480><c> so</c><00:02:14.640><c> i'm</c><00:02:14.720><c> gonna</c><00:02:14.959><c> start</c><00:02:15.120><c> with</c><00:02:15.280><c> the</c><00:02:15.440><c> onion</c>
+
+pepper so i'm gonna start with the onion
+
+
+pepper so i'm gonna start with the onion
+set<00:02:16.160><c> the</c><00:02:16.319><c> pepper</c><00:02:16.720><c> aside</c><00:02:17.840><c> what</c><00:02:18.000><c> we're</c><00:02:18.160><c> gonna</c><00:02:18.319><c> do</c>
+
+set the pepper aside what we're gonna do
+
+
+set the pepper aside what we're gonna do
+today<00:02:18.959><c> is</c><00:02:19.120><c> we're</c><00:02:19.280><c> gonna</c><00:02:19.440><c> have</c><00:02:19.760><c> long</c><00:02:20.160><c> slices</c><00:02:20.800><c> of</c>
+
+today is we're gonna have long slices of
+
+
+today is we're gonna have long slices of
+onion<00:02:21.599><c> in</c><00:02:22.000><c> our</c><00:02:22.480><c> dish</c>
+
+onion in our dish
+
+
+onion in our dish
+so<00:02:23.680><c> the</c><00:02:24.000><c> the</c><00:02:24.239><c> best</c><00:02:24.560><c> way</c><00:02:25.040><c> would</c><00:02:25.280><c> be</c><00:02:25.760><c> to</c><00:02:26.400><c> cut</c><00:02:26.640><c> it</c>
+
+so the the best way would be to cut it
+
+
+so the the best way would be to cut it
+in<00:02:26.959><c> half</c><00:02:27.360><c> first</c>
+
+in half first
+
+
+in half first
+and<00:02:29.200><c> putting</c><00:02:29.520><c> it</c><00:02:29.599><c> in</c><00:02:29.760><c> half</c><00:02:30.080><c> there</c>
+
+and putting it in half there
+
+
+and putting it in half there
+and<00:02:31.360><c> then</c><00:02:31.680><c> peel</c><00:02:32.080><c> off</c><00:02:32.400><c> this</c><00:02:32.800><c> extra</c><00:02:33.360><c> skin</c><00:02:33.760><c> and</c>
+
+and then peel off this extra skin and
+
+
+and then peel off this extra skin and
+once<00:02:34.239><c> we</c><00:02:34.400><c> have</c><00:02:34.640><c> that</c><00:02:34.800><c> in</c><00:02:34.959><c> half</c><00:02:35.200><c> we're</c><00:02:35.440><c> just</c>
+
+once we have that in half we're just
+
+
+once we have that in half we're just
+going<00:02:35.680><c> to</c><00:02:35.920><c> cut</c><00:02:36.160><c> off</c><00:02:36.480><c> see</c><00:02:36.720><c> the</c><00:02:36.879><c> bottom</c><00:02:37.200><c> here</c>
+
+going to cut off see the bottom here
+
+
+going to cut off see the bottom here
+we're<00:02:37.599><c> just</c><00:02:37.760><c> going</c><00:02:37.840><c> to</c><00:02:37.920><c> cut</c><00:02:38.160><c> off</c><00:02:38.400><c> the</c><00:02:38.640><c> tip</c><00:02:39.120><c> and</c>
+
+we're just going to cut off the tip and
+
+
+we're just going to cut off the tip and
+then<00:02:39.440><c> we're</c><00:02:39.599><c> going</c><00:02:39.760><c> to</c><00:02:40.000><c> take</c><00:02:40.480><c> our</c><00:02:41.040><c> onion</c>
+
+then we're going to take our onion
+
+
+then we're going to take our onion
+that's<00:02:41.680><c> still</c><00:02:41.920><c> attached</c><00:02:42.480><c> on</c><00:02:42.640><c> one</c><00:02:43.040><c> side</c>
+
+that's still attached on one side
+
+
+that's still attached on one side
+and<00:02:44.160><c> we're</c><00:02:44.400><c> going</c><00:02:44.640><c> to</c><00:02:44.959><c> cut</c><00:02:45.440><c> long</c><00:02:46.239><c> slices</c>
+
+
+
+
+
+perfect<00:02:51.120><c> and</c><00:02:51.280><c> i</c><00:02:51.360><c> can</c><00:02:51.680><c> hear</c><00:02:52.160><c> our</c><00:02:52.560><c> butter</c>
+
+perfect and i can hear our butter
+
+
+perfect and i can hear our butter
+melting<00:02:54.319><c> it's</c><00:02:54.560><c> starting</c><00:02:54.879><c> to</c><00:02:55.120><c> sizzle</c>
+
+melting it's starting to sizzle
+
+
+melting it's starting to sizzle
+smells<00:02:57.120><c> good</c>
+
+smells good
+
+
+smells good
+cutting<00:02:58.560><c> the</c><00:02:58.800><c> onion</c>
+
+cutting the onion
+
+
+cutting the onion
+and<00:03:01.040><c> having</c><00:03:01.440><c> that</c><00:03:01.760><c> butter</c><00:03:02.239><c> melt</c><00:03:02.879><c> and</c><00:03:03.040><c> so</c><00:03:03.599><c> once</c>
+
+and having that butter melt and so once
+
+
+and having that butter melt and so once
+we've<00:03:04.159><c> done</c><00:03:04.400><c> that</c><00:03:04.879><c> we</c><00:03:05.040><c> can</c><00:03:05.280><c> cut</c><00:03:05.519><c> off</c><00:03:05.680><c> the</c><00:03:05.840><c> other</c>
+
+we've done that we can cut off the other
+
+
+we've done that we can cut off the other
+end<00:03:06.560><c> and</c><00:03:06.720><c> we</c><00:03:06.959><c> have</c><00:03:07.280><c> our</c><00:03:07.599><c> long</c><00:03:08.000><c> slices</c><00:03:08.800><c> watch</c>
+
+end and we have our long slices watch
+
+
+end and we have our long slices watch
+your<00:03:09.280><c> fingers</c><00:03:09.920><c> make</c><00:03:10.159><c> sure</c><00:03:10.400><c> you're</c><00:03:10.640><c> using</c><00:03:11.040><c> your</c>
+
+your fingers make sure you're using your
+
+
+your fingers make sure you're using your
+claws<00:03:12.319><c> and</c><00:03:12.400><c> we're</c><00:03:12.560><c> going</c><00:03:12.640><c> to</c><00:03:12.720><c> cut</c><00:03:12.959><c> that</c><00:03:13.280><c> end</c>
+
+claws and we're going to cut that end
+
+
+claws and we're going to cut that end
+off<00:03:13.760><c> again</c>
+
+off again
+
+
+off again
+and<00:03:15.280><c> we</c><00:03:15.440><c> have</c><00:03:15.599><c> these</c><00:03:15.920><c> beautiful</c>
+
+and we have these beautiful
+
+
+and we have these beautiful
+slices
+
+slices
+
+
+slices
+so<00:03:20.000><c> our</c><00:03:20.480><c> butter</c><00:03:20.959><c> is</c><00:03:21.200><c> heating</c><00:03:22.080><c> up</c><00:03:22.560><c> and</c><00:03:22.640><c> that</c><00:03:22.879><c> is</c>
+
+so our butter is heating up and that is
+
+
+so our butter is heating up and that is
+a<00:03:23.200><c> perfect</c><00:03:23.760><c> time</c><00:03:24.480><c> to</c><00:03:24.799><c> throw</c><00:03:25.280><c> in</c>
+
+a perfect time to throw in
+
+
+a perfect time to throw in
+the<00:03:26.319><c> onion</c><00:03:26.640><c> that</c><00:03:26.720><c> we</c><00:03:26.879><c> have</c><00:03:27.040><c> just</c><00:03:27.519><c> cut</c><00:03:28.159><c> while</c>
+
+the onion that we have just cut while
+
+
+the onion that we have just cut while
+that's<00:03:28.640><c> cooking</c><00:03:29.040><c> we're</c><00:03:29.200><c> going</c><00:03:29.280><c> to</c><00:03:29.360><c> cut</c><00:03:29.760><c> our</c>
+
+that's cooking we're going to cut our
+
+
+that's cooking we're going to cut our
+pepper<00:03:30.560><c> and</c><00:03:30.640><c> so</c><00:03:30.799><c> with</c><00:03:31.040><c> our</c><00:03:31.200><c> pepper</c><00:03:31.519><c> we</c><00:03:31.680><c> want</c><00:03:31.920><c> to</c>
+
+pepper and so with our pepper we want to
+
+
+pepper and so with our pepper we want to
+make<00:03:32.239><c> sure</c><00:03:32.480><c> that</c><00:03:32.640><c> we</c><00:03:32.799><c> have</c><00:03:33.519><c> smaller</c><00:03:34.560><c> side</c>
+
+make sure that we have smaller side
+
+
+make sure that we have smaller side
+slices<00:03:35.760><c> so</c><00:03:35.920><c> we're</c><00:03:36.080><c> going</c><00:03:36.159><c> to</c><00:03:36.319><c> actually</c><00:03:36.799><c> dice</c>
+
+slices so we're going to actually dice
+
+
+slices so we're going to actually dice
+it<00:03:37.519><c> there's</c><00:03:37.840><c> multiple</c><00:03:38.319><c> ways</c><00:03:38.560><c> to</c><00:03:38.640><c> cut</c><00:03:38.879><c> a</c><00:03:38.959><c> pepper</c>
+
+it there's multiple ways to cut a pepper
+
+
+it there's multiple ways to cut a pepper
+this<00:03:39.760><c> way</c>
+
+this way
+
+
+this way
+i'm<00:03:40.959><c> cutting</c><00:03:41.360><c> off</c><00:03:41.760><c> all</c><00:03:42.239><c> of</c><00:03:42.480><c> the</c><00:03:42.799><c> sides</c><00:03:43.519><c> to</c><00:03:43.680><c> keep</c>
+
+i'm cutting off all of the sides to keep
+
+
+i'm cutting off all of the sides to keep
+the<00:03:44.239><c> core</c><00:03:44.840><c> together</c>
+
+the core together
+
+
+the core together
+and<00:03:46.720><c> cutting</c><00:03:47.120><c> off</c><00:03:47.280><c> the</c><00:03:47.440><c> bottom</c><00:03:47.840><c> i'm</c><00:03:48.000><c> going</c><00:03:48.239><c> to</c>
+
+and cutting off the bottom i'm going to
+
+
+and cutting off the bottom i'm going to
+slice<00:03:49.200><c> and</c><00:03:49.280><c> then</c><00:03:49.519><c> i'm</c><00:03:49.680><c> going</c><00:03:50.000><c> to</c><00:03:50.480><c> dice</c>
+
+slice and then i'm going to dice
+
+
+slice and then i'm going to dice
+oh<00:03:52.720><c> my</c><00:03:52.879><c> goodness</c><00:03:53.360><c> if</c><00:03:53.599><c> you</c><00:03:53.920><c> could</c><00:03:54.239><c> smell</c><00:03:55.120><c> what</c>
+
+oh my goodness if you could smell what
+
+
+oh my goodness if you could smell what
+i'm<00:03:55.840><c> smelling</c><00:03:56.799><c> you</c><00:03:56.959><c> would</c><00:03:57.200><c> get</c><00:03:57.519><c> so</c><00:03:57.920><c> hungry</c><00:03:58.720><c> and</c>
+
+i'm smelling you would get so hungry and
+
+
+i'm smelling you would get so hungry and
+what<00:03:59.040><c> we're</c><00:03:59.200><c> gonna</c><00:03:59.519><c> do</c><00:03:59.840><c> is</c><00:04:00.080><c> we</c><00:04:00.319><c> are</c><00:04:00.400><c> going</c><00:04:00.640><c> to</c>
+
+what we're gonna do is we are going to
+
+
+what we're gonna do is we are going to
+put<00:04:01.200><c> all</c><00:04:01.439><c> that</c>
+
+put all that
+
+
+put all that
+right<00:04:03.200><c> in</c><00:04:03.360><c> the</c><00:04:03.599><c> pan</c>
+
+right in the pan
+
+
+right in the pan
+see<00:04:05.599><c> how</c><00:04:05.760><c> we</c><00:04:05.920><c> can</c><00:04:06.239><c> oh</c><00:04:06.720><c> my</c><00:04:06.959><c> goodness</c><00:04:07.360><c> it</c><00:04:07.599><c> smells</c>
+
+see how we can oh my goodness it smells
+
+
+see how we can oh my goodness it smells
+so<00:04:08.799><c> good</c>
+
+so good
+
+
+so good
+everything<00:04:10.560><c> is</c><00:04:10.879><c> cooking</c><00:04:11.920><c> so</c><00:04:12.159><c> we're</c><00:04:12.319><c> gonna</c><00:04:12.640><c> do</c>
+
+everything is cooking so we're gonna do
+
+
+everything is cooking so we're gonna do
+is<00:04:12.959><c> we're</c><00:04:13.120><c> going</c><00:04:13.200><c> to</c><00:04:13.280><c> let</c><00:04:13.439><c> these</c><00:04:13.680><c> all</c><00:04:13.920><c> cook</c>
+
+is we're going to let these all cook
+
+
+is we're going to let these all cook
+down<00:04:14.560><c> a</c><00:04:14.640><c> little</c><00:04:14.959><c> so</c><00:04:15.120><c> we're</c><00:04:15.360><c> going</c><00:04:15.599><c> to</c>
+
+down a little so we're going to
+
+
+down a little so we're going to
+wait<00:04:17.120><c> until</c><00:04:18.000><c> the</c><00:04:18.239><c> vegetables</c><00:04:18.959><c> are</c><00:04:19.120><c> cooked</c><00:04:19.919><c> and</c>
+
+wait until the vegetables are cooked and
+
+
+wait until the vegetables are cooked and
+then<00:04:20.160><c> we're</c><00:04:20.400><c> going</c><00:04:20.479><c> to</c><00:04:20.639><c> add</c><00:04:20.880><c> in</c><00:04:21.040><c> the</c><00:04:21.199><c> corn</c><00:04:21.919><c> okay</c>
+
+then we're going to add in the corn okay
+
+
+then we're going to add in the corn okay
+well<00:04:22.560><c> this</c><00:04:22.880><c> is</c><00:04:23.040><c> still</c><00:04:23.280><c> cooking</c><00:04:23.680><c> what</c><00:04:24.000><c> we're</c>
+
+well this is still cooking what we're
+
+
+well this is still cooking what we're
+going<00:04:24.479><c> to</c><00:04:24.720><c> do</c><00:04:24.960><c> is</c><00:04:25.120><c> we're</c><00:04:25.360><c> going</c><00:04:25.600><c> to</c><00:04:25.840><c> start</c><00:04:26.160><c> to</c>
+
+going to do is we're going to start to
+
+
+going to do is we're going to start to
+whisk<00:04:27.040><c> together</c><00:04:27.759><c> our</c><00:04:28.160><c> eggs</c><00:04:28.560><c> so</c><00:04:28.800><c> as</c><00:04:28.960><c> you</c><00:04:29.120><c> see</c>
+
+whisk together our eggs so as you see
+
+
+whisk together our eggs so as you see
+here<00:04:29.919><c> i</c><00:04:30.160><c> cracked</c><00:04:30.560><c> my</c><00:04:30.720><c> eight</c><00:04:31.040><c> eggs</c><00:04:31.680><c> into</c><00:04:32.000><c> this</c>
+
+here i cracked my eight eggs into this
+
+
+here i cracked my eight eggs into this
+bowl<00:04:33.040><c> and</c><00:04:33.120><c> what</c><00:04:33.280><c> we're</c><00:04:33.440><c> going</c><00:04:33.520><c> to</c><00:04:33.600><c> do</c><00:04:33.840><c> is</c>
+
+bowl and what we're going to do is
+
+
+bowl and what we're going to do is
+really<00:04:34.240><c> just</c><00:04:34.560><c> whisk</c><00:04:34.880><c> them</c><00:04:35.040><c> together</c><00:04:35.680><c> so</c><00:04:35.840><c> that</c>
+
+really just whisk them together so that
+
+
+really just whisk them together so that
+that<00:04:36.479><c> the</c><00:04:36.720><c> yolks</c><00:04:37.360><c> are</c><00:04:38.080><c> broken</c>
+
+that the yolks are broken
+
+
+that the yolks are broken
+and<00:04:39.360><c> that</c><00:04:39.600><c> they're</c><00:04:40.080><c> all</c><00:04:40.479><c> together</c><00:04:41.199><c> there</c><00:04:41.600><c> we</c>
+
+and that they're all together there we
+
+
+and that they're all together there we
+go
+
+go
+
+
+go
+as<00:04:43.199><c> you</c><00:04:43.280><c> can</c><00:04:43.520><c> see</c><00:04:43.759><c> here</c>
+
+as you can see here
+
+
+as you can see here
+it<00:04:44.880><c> is</c><00:04:45.199><c> all</c><00:04:45.440><c> whisked</c><00:04:45.759><c> together</c><00:04:46.320><c> it</c><00:04:46.479><c> is</c><00:04:46.800><c> and</c><00:04:46.960><c> now</c>
+
+it is all whisked together it is and now
+
+
+it is all whisked together it is and now
+we're<00:04:47.360><c> gonna</c><00:04:47.680><c> do</c><00:04:47.919><c> is</c><00:04:48.000><c> we're</c><00:04:48.240><c> gonna</c><00:04:48.479><c> add</c>
+
+we're gonna do is we're gonna add
+
+
+we're gonna do is we're gonna add
+the<00:04:49.680><c> other</c><00:04:50.000><c> ingredients</c><00:04:50.560><c> so</c><00:04:50.720><c> we're</c><00:04:50.880><c> gonna</c><00:04:51.120><c> add</c>
+
+the other ingredients so we're gonna add
+
+
+the other ingredients so we're gonna add
+the<00:04:51.600><c> milk</c><00:04:51.919><c> we're</c><00:04:52.080><c> gonna</c><00:04:52.400><c> add</c><00:04:52.560><c> the</c><00:04:52.800><c> cheese</c><00:04:53.280><c> and</c>
+
+the milk we're gonna add the cheese and
+
+
+the milk we're gonna add the cheese and
+our<00:04:53.600><c> spices</c><00:04:54.400><c> into</c><00:04:54.639><c> this</c><00:04:54.960><c> mixture</c><00:04:55.600><c> here</c>
+
+our spices into this mixture here
+
+
+our spices into this mixture here
+so<00:04:56.880><c> let</c><00:04:57.120><c> me</c><00:04:57.360><c> add</c>
+
+so let me add
+
+
+so let me add
+my<00:04:58.800><c> milk</c><00:04:59.360><c> in</c><00:04:59.919><c> our</c><00:05:00.240><c> one</c><00:05:00.560><c> cup</c><00:05:01.360><c> of</c><00:05:01.600><c> low-fat</c><00:05:02.400><c> milk</c>
+
+my milk in our one cup of low-fat milk
+
+
+my milk in our one cup of low-fat milk
+i'm<00:05:04.479><c> going</c><00:05:04.639><c> to</c><00:05:04.960><c> add</c><00:05:05.360><c> in</c><00:05:05.520><c> my</c><00:05:05.840><c> one</c><00:05:06.160><c> cup</c><00:05:06.400><c> of</c><00:05:06.720><c> cheese</c>
+
+i'm going to add in my one cup of cheese
+
+
+i'm going to add in my one cup of cheese
+again<00:05:08.080><c> you</c><00:05:08.240><c> can</c><00:05:08.400><c> use</c><00:05:08.720><c> any</c><00:05:09.039><c> type</c><00:05:09.280><c> of</c><00:05:09.520><c> cheese</c>
+
+again you can use any type of cheese
+
+
+again you can use any type of cheese
+my<00:05:11.120><c> one</c><00:05:11.680><c> teaspoon</c><00:05:12.560><c> of</c><00:05:12.800><c> chili</c><00:05:13.199><c> powder</c><00:05:13.759><c> to</c><00:05:13.919><c> add</c>
+
+my one teaspoon of chili powder to add
+
+
+my one teaspoon of chili powder to add
+some<00:05:14.560><c> spice</c>
+
+some spice
+
+
+some spice
+my<00:05:16.320><c> half</c><00:05:16.639><c> a</c><00:05:16.720><c> teaspoon</c><00:05:17.440><c> of</c><00:05:17.840><c> salt</c>
+
+my half a teaspoon of salt
+
+
+my half a teaspoon of salt
+and<00:05:20.240><c> my</c><00:05:20.560><c> quarter</c><00:05:20.960><c> teaspoon</c><00:05:21.600><c> of</c><00:05:21.840><c> pepper</c>
+
+and my quarter teaspoon of pepper
+
+
+and my quarter teaspoon of pepper
+and<00:05:23.520><c> we're</c><00:05:23.680><c> gonna</c><00:05:24.000><c> mix</c><00:05:24.400><c> this</c><00:05:24.800><c> all</c><00:05:25.120><c> together</c>
+
+and we're gonna mix this all together
+
+
+and we're gonna mix this all together
+[Music]
+
+[Music]
+
+
+[Music]
+so<00:05:27.919><c> it's</c><00:05:28.160><c> all</c><00:05:28.479><c> in</c><00:05:28.639><c> one</c><00:05:28.960><c> mixture</c>
+
+so it's all in one mixture
+
+
+so it's all in one mixture
+[Music]
+
+
+
+
+
+oh<00:05:35.840><c> my</c><00:05:36.000><c> goodness</c><00:05:36.400><c> if</c><00:05:36.639><c> you</c><00:05:36.800><c> could</c><00:05:37.039><c> smell</c><00:05:37.440><c> these</c>
+
+oh my goodness if you could smell these
+
+
+oh my goodness if you could smell these
+peppers<00:05:38.880><c> and</c><00:05:39.039><c> these</c><00:05:39.440><c> onions</c><00:05:40.240><c> wow</c><00:05:40.880><c> wow</c><00:05:41.360><c> wow</c><00:05:41.680><c> it</c>
+
+peppers and these onions wow wow wow it
+
+
+peppers and these onions wow wow wow it
+smells<00:05:42.479><c> so</c>
+
+smells so
+
+
+smells so
+so<00:05:43.680><c> good</c><00:05:44.240><c> so</c><00:05:44.560><c> these</c><00:05:44.880><c> are</c><00:05:45.039><c> getting</c><00:05:45.440><c> ready</c><00:05:46.080><c> and</c>
+
+so good so these are getting ready and
+
+
+so good so these are getting ready and
+we<00:05:46.400><c> know</c><00:05:46.639><c> they're</c><00:05:46.960><c> done</c><00:05:47.360><c> when</c><00:05:47.600><c> they</c><00:05:47.840><c> um</c><00:05:48.479><c> the</c>
+
+we know they're done when they um the
+
+
+we know they're done when they um the
+onions<00:05:49.120><c> are</c><00:05:49.280><c> more</c><00:05:49.520><c> translucent</c><00:05:50.400><c> so</c><00:05:50.560><c> you</c><00:05:50.639><c> can</c>
+
+onions are more translucent so you can
+
+
+onions are more translucent so you can
+kind<00:05:50.960><c> of</c><00:05:51.120><c> see</c><00:05:51.440><c> through</c><00:05:51.680><c> them</c><00:05:52.000><c> more</c>
+
+kind of see through them more
+
+
+kind of see through them more
+and<00:05:52.960><c> when</c><00:05:53.199><c> the</c><00:05:53.280><c> peppers</c><00:05:53.759><c> start</c><00:05:54.000><c> to</c><00:05:54.240><c> soften</c>
+
+and when the peppers start to soften
+
+
+and when the peppers start to soften
+so<00:05:56.080><c> once</c><00:05:56.400><c> you</c><00:05:56.560><c> can</c><00:05:56.880><c> kind</c><00:05:57.120><c> of</c><00:05:57.360><c> poke</c><00:05:57.600><c> your</c>
+
+so once you can kind of poke your
+
+
+so once you can kind of poke your
+spatula<00:05:58.479><c> through</c><00:05:58.800><c> them</c><00:05:59.360><c> without</c><00:05:59.919><c> much</c>
+
+spatula through them without much
+
+
+spatula through them without much
+pressure<00:06:00.880><c> you</c><00:06:01.120><c> know</c><00:06:01.360><c> they're</c><00:06:01.680><c> done</c><00:06:02.319><c> so</c><00:06:02.560><c> now</c>
+
+pressure you know they're done so now
+
+
+pressure you know they're done so now
+that<00:06:03.039><c> they</c><00:06:03.280><c> are</c><00:06:03.600><c> done</c><00:06:03.840><c> what</c><00:06:04.000><c> we're</c><00:06:04.160><c> going</c><00:06:04.240><c> to</c>
+
+that they are done what we're going to
+
+
+that they are done what we're going to
+do<00:06:04.639><c> is</c><00:06:04.880><c> add</c><00:06:05.280><c> in</c><00:06:05.520><c> our</c><00:06:05.759><c> corn</c><00:06:06.319><c> if</c><00:06:06.479><c> you're</c><00:06:06.720><c> using</c>
+
+do is add in our corn if you're using
+
+
+do is add in our corn if you're using
+frozen<00:06:07.840><c> corn</c><00:06:08.639><c> keep</c><00:06:08.880><c> the</c><00:06:09.039><c> heat</c><00:06:09.360><c> on</c><00:06:09.680><c> until</c><00:06:10.000><c> your</c>
+
+frozen corn keep the heat on until your
+
+
+frozen corn keep the heat on until your
+corn<00:06:11.039><c> is</c><00:06:11.199><c> no</c><00:06:11.440><c> longer</c><00:06:11.919><c> frozen</c><00:06:12.800><c> since</c><00:06:13.039><c> i'm</c><00:06:13.280><c> using</c>
+
+corn is no longer frozen since i'm using
+
+
+corn is no longer frozen since i'm using
+canned<00:06:14.080><c> corn</c>
+
+canned corn
+
+
+canned corn
+i<00:06:15.280><c> can</c><00:06:15.520><c> just</c><00:06:15.919><c> put</c><00:06:16.160><c> it</c><00:06:16.319><c> right</c><00:06:16.720><c> in</c>
+
+i can just put it right in
+
+
+i can just put it right in
+get<00:06:18.160><c> all</c><00:06:18.319><c> those</c><00:06:18.880><c> leftover</c><00:06:19.520><c> kernels</c>
+
+get all those leftover kernels
+
+
+get all those leftover kernels
+and<00:06:21.199><c> mix</c><00:06:21.440><c> it</c><00:06:21.600><c> together</c><00:06:22.240><c> so</c><00:06:22.400><c> that</c><00:06:22.560><c> it's</c><00:06:22.880><c> still</c>
+
+and mix it together so that it's still
+
+
+and mix it together so that it's still
+getting<00:06:23.440><c> the</c><00:06:23.600><c> buttery</c><00:06:24.560><c> flavor</c><00:06:25.520><c> oh</c><00:06:25.680><c> my</c><00:06:25.919><c> gosh</c>
+
+getting the buttery flavor oh my gosh
+
+
+getting the buttery flavor oh my gosh
+those<00:06:26.400><c> colors</c><00:06:26.880><c> are</c><00:06:26.960><c> beautiful</c>
+
+those colors are beautiful
+
+
+those colors are beautiful
+if<00:06:28.720><c> you're</c><00:06:28.880><c> like</c><00:06:29.199><c> me</c><00:06:29.440><c> and</c><00:06:29.520><c> you</c><00:06:29.680><c> cannot</c><00:06:30.000><c> have</c><00:06:30.240><c> a</c>
+
+if you're like me and you cannot have a
+
+
+if you're like me and you cannot have a
+pan<00:06:30.800><c> that</c><00:06:30.960><c> can</c><00:06:31.199><c> go</c><00:06:31.759><c> in</c><00:06:32.000><c> the</c><00:06:32.240><c> oven</c><00:06:32.960><c> this</c><00:06:33.199><c> is</c>
+
+pan that can go in the oven this is
+
+
+pan that can go in the oven this is
+going<00:06:33.440><c> to</c><00:06:33.520><c> be</c><00:06:33.680><c> the</c><00:06:33.840><c> time</c><00:06:34.080><c> we're</c><00:06:34.240><c> going</c><00:06:34.319><c> to</c>
+
+going to be the time we're going to
+
+
+going to be the time we're going to
+transfer<00:06:35.039><c> everything</c><00:06:35.680><c> over</c><00:06:36.479><c> so</c><00:06:36.639><c> i've</c><00:06:36.880><c> turned</c>
+
+transfer everything over so i've turned
+
+
+transfer everything over so i've turned
+off<00:06:37.440><c> the</c><00:06:37.680><c> heat</c><00:06:38.080><c> because</c><00:06:38.400><c> my</c><00:06:38.800><c> vegetables</c><00:06:39.680><c> are</c>
+
+off the heat because my vegetables are
+
+
+off the heat because my vegetables are
+looking<00:06:40.400><c> delicious</c><00:06:41.600><c> if</c><00:06:41.840><c> you</c><00:06:42.160><c> do</c><00:06:42.479><c> have</c><00:06:43.039><c> a</c><00:06:43.680><c> pan</c>
+
+looking delicious if you do have a pan
+
+
+looking delicious if you do have a pan
+that<00:06:44.240><c> can</c><00:06:44.400><c> go</c><00:06:44.720><c> in</c><00:06:44.880><c> the</c><00:06:45.120><c> oven</c><00:06:45.759><c> now</c><00:06:46.000><c> would</c><00:06:46.080><c> be</c>
+
+that can go in the oven now would be
+
+
+that can go in the oven now would be
+your<00:06:46.479><c> time</c>
+
+your time
+
+
+your time
+to<00:06:47.919><c> pour</c><00:06:48.319><c> in</c><00:06:48.639><c> your</c><00:06:49.120><c> egg</c><00:06:49.440><c> yolk</c><00:06:50.080><c> milk</c><00:06:50.560><c> cheese</c>
+
+to pour in your egg yolk milk cheese
+
+
+to pour in your egg yolk milk cheese
+mixture<00:06:52.080><c> into</c><00:06:52.400><c> the</c><00:06:52.639><c> pan</c><00:06:53.120><c> and</c><00:06:53.280><c> then</c><00:06:53.520><c> stick</c><00:06:53.840><c> it</c>
+
+mixture into the pan and then stick it
+
+
+mixture into the pan and then stick it
+right<00:06:54.160><c> in</c><00:06:54.319><c> the</c><00:06:54.479><c> oven</c><00:06:55.120><c> but</c><00:06:55.280><c> if</c><00:06:55.440><c> you're</c><00:06:55.840><c> like</c><00:06:56.160><c> me</c>
+
+right in the oven but if you're like me
+
+
+right in the oven but if you're like me
+we're<00:06:56.880><c> going</c><00:06:57.120><c> to</c><00:06:57.360><c> take</c><00:06:57.759><c> this</c><00:06:58.080><c> pan</c><00:06:58.880><c> transfer</c>
+
+we're going to take this pan transfer
+
+
+we're going to take this pan transfer
+all<00:07:00.800><c> of</c><00:07:01.039><c> our</c><00:07:01.360><c> good</c><00:07:01.840><c> vegetables</c>
+
+all of our good vegetables
+
+
+all of our good vegetables
+into<00:07:04.639><c> the</c><00:07:04.880><c> pan</c>
+
+
+
+
+
+spread<00:07:10.800><c> it</c><00:07:11.039><c> out</c><00:07:11.440><c> so</c><00:07:11.680><c> that</c><00:07:11.919><c> they're</c>
+
+spread it out so that they're
+
+
+spread it out so that they're
+evenly<00:07:13.919><c> distributed</c>
+
+evenly distributed
+
+
+evenly distributed
+and<00:07:15.840><c> then</c><00:07:16.080><c> we're</c><00:07:16.240><c> going</c><00:07:16.479><c> to</c><00:07:16.800><c> pour</c><00:07:17.280><c> in</c><00:07:17.919><c> our</c>
+
+and then we're going to pour in our
+
+
+and then we're going to pour in our
+mixture
+
+mixture
+
+
+mixture
+our<00:07:20.800><c> eggs</c><00:07:21.280><c> our</c><00:07:21.599><c> cheese</c><00:07:22.400><c> oh</c><00:07:22.880><c> my</c><00:07:23.039><c> goodness</c><00:07:23.919><c> this</c>
+
+our eggs our cheese oh my goodness this
+
+
+our eggs our cheese oh my goodness this
+will<00:07:25.280><c> be</c><00:07:25.840><c> so</c><00:07:26.240><c> good</c>
+
+will be so good
+
+
+will be so good
+all<00:07:27.759><c> set</c><00:07:28.240><c> to</c><00:07:28.400><c> just</c><00:07:28.720><c> stick</c><00:07:29.039><c> it</c><00:07:29.199><c> in</c><00:07:29.280><c> the</c><00:07:29.520><c> oven</c>
+
+all set to just stick it in the oven
+
+
+all set to just stick it in the oven
+um<00:07:30.639><c> and</c><00:07:30.800><c> depending</c><00:07:31.520><c> on</c><00:07:31.759><c> the</c><00:07:32.000><c> size</c><00:07:32.560><c> of</c><00:07:32.800><c> your</c><00:07:33.120><c> pan</c>
+
+um and depending on the size of your pan
+
+
+um and depending on the size of your pan
+or<00:07:33.599><c> your</c><00:07:33.840><c> tray</c><00:07:34.560><c> the</c><00:07:34.800><c> time</c><00:07:35.199><c> is</c><00:07:35.360><c> going</c><00:07:35.520><c> to</c><00:07:35.759><c> vary</c>
+
+or your tray the time is going to vary
+
+
+or your tray the time is going to vary
+so<00:07:36.639><c> you</c><00:07:36.800><c> do</c><00:07:36.960><c> want</c><00:07:37.120><c> to</c><00:07:37.199><c> make</c><00:07:37.440><c> sure</c><00:07:37.599><c> you</c><00:07:37.759><c> keep</c><00:07:38.000><c> an</c>
+
+so you do want to make sure you keep an
+
+
+so you do want to make sure you keep an
+eye<00:07:38.479><c> on</c><00:07:38.639><c> it</c>
+
+eye on it
+
+
+eye on it
+i'm<00:07:39.599><c> going</c><00:07:39.680><c> to</c><00:07:39.840><c> put</c><00:07:40.000><c> it</c><00:07:40.160><c> in</c><00:07:40.240><c> the</c><00:07:40.400><c> oven</c><00:07:40.720><c> for</c>
+
+i'm going to put it in the oven for
+
+
+i'm going to put it in the oven for
+about<00:07:41.360><c> 30</c><00:07:41.759><c> minutes</c><00:07:42.160><c> and</c><00:07:42.319><c> come</c><00:07:42.639><c> back</c><00:07:42.960><c> and</c><00:07:43.280><c> check</c>
+
+about 30 minutes and come back and check
+
+
+about 30 minutes and come back and check
+on<00:07:43.919><c> it</c><00:07:44.080><c> to</c><00:07:44.240><c> make</c><00:07:44.479><c> sure</c><00:07:44.720><c> it</c><00:07:44.879><c> is</c><00:07:45.120><c> all</c><00:07:45.440><c> cooked</c><00:07:46.160><c> so</c>
+
+on it to make sure it is all cooked so
+
+
+on it to make sure it is all cooked so
+let's<00:07:46.720><c> go</c><00:07:47.039><c> stick</c><00:07:47.280><c> it</c><00:07:47.440><c> in</c><00:07:47.599><c> the</c><00:07:47.840><c> oven</c>
+
+
+
+
+
+and<00:07:56.479><c> i'm</c><00:07:56.639><c> going</c><00:07:56.720><c> to</c><00:07:56.960><c> set</c><00:07:57.199><c> my</c><00:07:57.440><c> timer</c><00:07:58.000><c> right</c><00:07:58.319><c> now</c>
+
+
+
+
+
+to<00:08:00.960><c> about</c><00:08:01.360><c> 30</c><00:08:01.840><c> minutes</c><00:08:02.240><c> and</c><00:08:02.400><c> we're</c><00:08:02.560><c> gonna</c><00:08:02.800><c> come</c>
+
+to about 30 minutes and we're gonna come
+
+
+to about 30 minutes and we're gonna come
+back<00:08:03.360><c> and</c><00:08:03.599><c> see</c><00:08:03.919><c> how</c><00:08:04.160><c> it's</c><00:08:04.560><c> doing</c><00:08:05.039><c> so</c><00:08:05.199><c> i'll</c><00:08:05.440><c> see</c>
+
+back and see how it's doing so i'll see
+
+
+back and see how it's doing so i'll see
+you<00:08:05.840><c> soon</c>
+
+
+
+
+
+okay<00:08:11.120><c> it's</c><00:08:11.360><c> been</c><00:08:11.520><c> about</c><00:08:12.000><c> 40</c><00:08:12.479><c> minutes</c><00:08:13.039><c> i</c>
+
+okay it's been about 40 minutes i
+
+
+okay it's been about 40 minutes i
+checked<00:08:13.759><c> on</c><00:08:13.919><c> it</c><00:08:14.080><c> in</c><00:08:14.400><c> 30</c><00:08:14.800><c> and</c><00:08:14.879><c> it</c><00:08:14.960><c> looks</c><00:08:15.199><c> like</c><00:08:15.360><c> it</c>
+
+checked on it in 30 and it looks like it
+
+
+checked on it in 30 and it looks like it
+needed<00:08:15.919><c> a</c><00:08:16.080><c> little</c><00:08:16.319><c> bit</c><00:08:16.560><c> more</c><00:08:16.879><c> time</c>
+
+needed a little bit more time
+
+
+needed a little bit more time
+so<00:08:18.080><c> we</c><00:08:18.240><c> can</c><00:08:18.479><c> know</c><00:08:18.720><c> when</c><00:08:18.960><c> it's</c><00:08:19.280><c> done</c><00:08:20.080><c> when</c><00:08:20.400><c> the</c>
+
+so we can know when it's done when the
+
+
+so we can know when it's done when the
+top<00:08:21.120><c> starts</c><00:08:21.440><c> to</c><00:08:21.520><c> be</c><00:08:21.759><c> brown</c><00:08:22.160><c> and</c><00:08:22.400><c> bubbly</c><00:08:23.199><c> um</c><00:08:23.440><c> it</c>
+
+top starts to be brown and bubbly um it
+
+
+top starts to be brown and bubbly um it
+starts<00:08:24.000><c> to</c><00:08:24.240><c> pillow</c><00:08:24.720><c> as</c><00:08:24.960><c> well</c><00:08:25.360><c> so</c><00:08:25.520><c> let's</c><00:08:25.759><c> go</c><00:08:26.000><c> get</c>
+
+starts to pillow as well so let's go get
+
+
+starts to pillow as well so let's go get
+it<00:08:26.400><c> out</c><00:08:26.720><c> right</c><00:08:27.039><c> now</c>
+
+
+
+
+
+yum<00:08:34.240><c> yum</c><00:08:34.880><c> it</c><00:08:35.120><c> smells</c><00:08:35.839><c> so</c>
+
+yum yum it smells so
+
+
+yum yum it smells so
+so<00:08:37.519><c> good</c><00:08:38.320><c> and</c><00:08:38.479><c> you</c><00:08:38.560><c> can</c><00:08:38.800><c> see</c><00:08:39.120><c> how</c><00:08:39.360><c> the</c><00:08:39.599><c> top</c><00:08:40.080><c> has</c>
+
+so good and you can see how the top has
+
+
+so good and you can see how the top has
+browned<00:08:41.519><c> slightly</c><00:08:42.479><c> i'm</c><00:08:42.719><c> going</c><00:08:42.800><c> to</c><00:08:42.880><c> put</c><00:08:43.120><c> it</c><00:08:43.279><c> on</c>
+
+browned slightly i'm going to put it on
+
+
+browned slightly i'm going to put it on
+this<00:08:43.680><c> tray</c><00:08:44.000><c> and</c><00:08:44.240><c> we</c><00:08:44.480><c> are</c><00:08:44.560><c> going</c><00:08:44.800><c> to</c><00:08:45.040><c> let</c><00:08:45.279><c> it</c>
+
+this tray and we are going to let it
+
+
+this tray and we are going to let it
+cool<00:08:45.920><c> so</c>
+
+cool so
+
+
+cool so
+i'm<00:08:47.040><c> going</c><00:08:47.200><c> to</c><00:08:47.279><c> give</c><00:08:47.440><c> a</c><00:08:47.600><c> little</c><00:08:47.839><c> time</c><00:08:48.080><c> to</c><00:08:48.240><c> let</c>
+
+i'm going to give a little time to let
+
+
+i'm going to give a little time to let
+it<00:08:48.560><c> cool</c><00:08:49.200><c> before</c><00:08:49.600><c> we</c><00:08:50.240><c> cut</c><00:08:50.560><c> in</c><00:08:50.880><c> and</c><00:08:51.040><c> start</c><00:08:51.360><c> to</c>
+
+it cool before we cut in and start to
+
+
+it cool before we cut in and start to
+serve<00:08:52.080><c> because</c><00:08:52.399><c> this</c><00:08:52.959><c> looks</c><00:08:53.360><c> delicious</c>
+
+serve because this looks delicious
+
+
+serve because this looks delicious
+oh<00:08:55.279><c> my</c><00:08:55.680><c> goodness</c><00:08:56.640><c> wow</c>
+
+oh my goodness wow
+
+
+oh my goodness wow
+look<00:08:57.760><c> at</c><00:08:58.000><c> that</c><00:08:58.320><c> still</c><00:08:58.920><c> steaming</c><00:09:00.000><c> hot</c><00:09:00.480><c> if</c><00:09:00.640><c> you</c>
+
+look at that still steaming hot if you
+
+
+look at that still steaming hot if you
+can<00:09:00.959><c> see</c><00:09:01.200><c> how</c><00:09:01.519><c> beautiful</c><00:09:02.320><c> and</c><00:09:02.480><c> thick</c><00:09:02.720><c> that</c>
+
+can see how beautiful and thick that
+
+
+can see how beautiful and thick that
+slice<00:09:03.279><c> is</c><00:09:03.680><c> look</c><00:09:03.839><c> at</c><00:09:04.000><c> all</c><00:09:04.160><c> those</c><00:09:04.560><c> veggies</c><00:09:05.120><c> in</c>
+
+slice is look at all those veggies in
+
+
+slice is look at all those veggies in
+there<00:09:05.600><c> so</c><00:09:05.839><c> i'm</c><00:09:06.000><c> going</c><00:09:06.160><c> to</c><00:09:06.240><c> put</c><00:09:06.399><c> it</c><00:09:06.560><c> on</c><00:09:06.800><c> this</c>
+
+there so i'm going to put it on this
+
+
+there so i'm going to put it on this
+plate<00:09:07.600><c> and</c><00:09:07.760><c> i</c><00:09:08.080><c> am</c><00:09:08.240><c> going</c><00:09:08.560><c> to</c><00:09:08.959><c> enjoy</c><00:09:09.920><c> my</c>
+
+plate and i am going to enjoy my
+
+
+plate and i am going to enjoy my
+breakfast<00:09:11.360><c> this</c><00:09:11.839><c> looks</c><00:09:12.560><c> so</c><00:09:13.200><c> so</c><00:09:13.600><c> tasty</c><00:09:14.640><c> so</c><00:09:14.800><c> if</c>
+
+breakfast this looks so so tasty so if
+
+
+breakfast this looks so so tasty so if
+you<00:09:15.279><c> enjoyed</c><00:09:15.600><c> this</c><00:09:15.920><c> recipe</c><00:09:16.480><c> and</c><00:09:16.640><c> you'd</c><00:09:16.880><c> like</c>
+
+you enjoyed this recipe and you'd like
+
+
+you enjoyed this recipe and you'd like
+to
+
+to
+
+
+to
+make<00:09:18.240><c> this</c><00:09:18.640><c> or</c>
+
+make this or
+
+
+make this or
+create<00:09:20.080><c> some</c><00:09:20.240><c> of</c><00:09:20.399><c> our</c><00:09:20.560><c> other</c><00:09:20.800><c> recipes</c><00:09:21.360><c> we</c><00:09:21.600><c> have</c>
+
+create some of our other recipes we have
+
+
+create some of our other recipes we have
+click<00:09:22.160><c> on</c><00:09:22.240><c> the</c><00:09:22.399><c> link</c><00:09:22.720><c> below</c><00:09:23.279><c> you'll</c><00:09:23.519><c> be</c><00:09:23.760><c> able</c>
+
+click on the link below you'll be able
+
+
+click on the link below you'll be able
+to<00:09:24.240><c> see</c><00:09:24.880><c> this</c><00:09:25.120><c> recipe</c><00:09:25.680><c> along</c><00:09:25.920><c> with</c><00:09:26.160><c> a</c><00:09:26.240><c> handful</c>
+
+to see this recipe along with a handful
+
+
+to see this recipe along with a handful
+others<00:09:27.040><c> we</c><00:09:27.360><c> have</c>
+
+others we have
+
+
+others we have
+and<00:09:28.720><c> start</c><00:09:29.120><c> cooking</c><00:09:29.680><c> so</c><00:09:29.920><c> i</c><00:09:30.000><c> hope</c><00:09:30.240><c> you</c><00:09:30.399><c> enjoyed</c>
+
+and start cooking so i hope you enjoyed
+
+
+and start cooking so i hope you enjoyed
+today<00:09:31.360><c> and</c><00:09:31.519><c> have</c><00:09:31.680><c> a</c><00:09:31.760><c> good</c><00:09:32.080><c> one</c>

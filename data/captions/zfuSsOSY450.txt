@@ -1,0 +1,66 @@
+WEBVTT
+Kind: captions
+Language: en
+
+
+I<00:00:00.960><c> am</c><00:00:01.140><c> a</c><00:00:01.260><c> family</c><00:00:01.439><c> of</c><00:00:01.920><c> four</c><00:00:02.220><c> and</c><00:00:03.179><c> as</c><00:00:03.600><c> a</c><00:00:03.780><c> college</c>
+
+I am a family of four and as a college
+
+
+I am a family of four and as a college
+student<00:00:04.200><c> with</c><00:00:04.740><c> a</c><00:00:04.980><c> full</c><00:00:05.160><c> schedule</c><00:00:05.460><c> and</c><00:00:05.940><c> I</c><00:00:06.180><c> work</c>
+
+student with a full schedule and I work
+
+
+student with a full schedule and I work
+full-time<00:00:06.720><c> it</c><00:00:07.319><c> is</c><00:00:07.500><c> difficult</c><00:00:07.919><c> when</c><00:00:08.760><c> food</c><00:00:09.059><c> is</c>
+
+full-time it is difficult when food is
+
+
+full-time it is difficult when food is
+running<00:00:09.599><c> low</c><00:00:09.900><c> and</c><00:00:10.139><c> you</c><00:00:10.320><c> have</c><00:00:10.500><c> three</c><00:00:11.040><c> small</c>
+
+running low and you have three small
+
+
+running low and you have three small
+mouths<00:00:11.820><c> to</c><00:00:12.000><c> feed</c><00:00:12.179><c> it's</c><00:00:12.599><c> scary</c>
+
+mouths to feed it's scary
+
+
+mouths to feed it's scary
+having<00:00:14.160><c> food</c><00:00:14.400><c> for</c><00:00:14.639><c> my</c><00:00:14.820><c> family</c><00:00:15.000><c> was</c><00:00:15.420><c> critical</c>
+
+having food for my family was critical
+
+
+having food for my family was critical
+for<00:00:16.379><c> my</c><00:00:16.800><c> success</c><00:00:17.100><c> in</c><00:00:17.279><c> school</c>
+
+for my success in school
+
+
+for my success in school
+I<00:00:19.020><c> hope</c><00:00:19.320><c> to</c><00:00:19.500><c> provide</c><00:00:19.859><c> for</c><00:00:20.100><c> my</c><00:00:20.279><c> kids</c><00:00:20.460><c> give</c>
+
+I hope to provide for my kids give
+
+
+I hope to provide for my kids give
+whatever<00:00:21.539><c> I</c><00:00:21.900><c> learned</c><00:00:22.199><c> pour</c><00:00:22.619><c> it</c><00:00:22.859><c> into</c><00:00:22.980><c> them</c><00:00:23.359><c> and</c>
+
+whatever I learned pour it into them and
+
+
+whatever I learned pour it into them and
+just<00:00:24.539><c> watch</c><00:00:24.720><c> them</c><00:00:25.019><c> flourish</c>
+
+just watch them flourish
+
+
+just watch them flourish
+thank<00:00:27.900><c> you</c>
