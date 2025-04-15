@@ -8,8 +8,8 @@ st.set_page_config(page_title="CAFBrain Generator", layout="centered")
 st.title("🧠 CAFBrain: Smart Document Generator")
 st.markdown("Generate grant proposals, blogs, social media posts, presentations, Canva visuals, and video scripts from CAFB content.")
 
-# --- PDF Generator Function ---
-def generate_pdf(text: str) -> bytes:
+# --- PDF Generator Function (Emoji-safe) ---
+def generate_pdf(text: str) -> BytesIO:
     pdf = FPDF()
     pdf.add_page()
     pdf.set_auto_page_break(auto=True, margin=15)
@@ -18,10 +18,9 @@ def generate_pdf(text: str) -> bytes:
     for line in text.split("\n"):
         pdf.multi_cell(0, 10, line)
 
-    buffer = BytesIO()
-    pdf.output(buffer, 'F')  
-    buffer.seek(0)
-    return buffer.getvalue()
+    # Convert to PDF string and wrap in BytesIO
+    pdf_bytes = pdf.output(dest='S').encode('latin-1', errors='ignore')  # ignores emojis safely
+    return BytesIO(pdf_bytes)
 
 # --- Input Section ---
 prompt = st.text_area(
