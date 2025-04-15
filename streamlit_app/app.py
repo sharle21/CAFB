@@ -34,14 +34,19 @@ def generate_docx(text: str) -> BytesIO:
 
 def generate_ppt(text: str) -> BytesIO:
     prs = Presentation()
-    for block in text.split("\n\n"):
-        lines = [line.strip() for line in block.strip().split("\n") if line.strip()]
+    blocks = text.strip().split("\n\n")
+
+    for i, block in enumerate(blocks):
+        lines = [line.strip() for line in block.split("\n") if line.strip()]
         if not lines:
             continue
         slide = prs.slides.add_slide(prs.slide_layouts[1])
-        slide.shapes.title.text = lines[0].replace("Slide Title:", "").strip()
-        content = "\n".join(line.strip("-• ") for line in lines[1:])
-        slide.placeholders[1].text = content
+        # Use title from line 1 or generate default
+        title = lines[0] if ":" in lines[0] else f"Slide {i+1}"
+        slide.shapes.title.text = title.replace("Slide Title:", "").strip()
+        bullets = "\n".join(line.strip("-• ") for line in lines[1:] or lines)
+        slide.placeholders[1].text = bullets
+
     buffer = BytesIO()
     prs.save(buffer)
     buffer.seek(0)
@@ -63,7 +68,7 @@ content_type = format_options[selected_label]
 
 tone = st.selectbox("🎭 Tone", ["formal", "casual", "persuasive", "informative"], index=0)
 
-# ✅ Move download format selection ABOVE the submit button
+# ✅ Download formats BEFORE submission
 selected_formats = st.multiselect(
     "💾 Choose file formats to download",
     ["PDF", "DOCX", "TXT", "PPTX"],
@@ -91,8 +96,8 @@ if submit and prompt:
                 generated_text = data["answer"]
                 sources = data["sources"]
 
-                # Initialize state
-                if "edited_output" not in st.session_state or st.session_state.edited_output != generated_text:
+                # ✅ Prevent overwrite of edited text
+                if "edited_output" not in st.session_state:
                     st.session_state.edited_output = generated_text
                     st.session_state.edit_history = [generated_text]
                     st.session_state.redo_stack = []
@@ -100,7 +105,7 @@ if submit and prompt:
 
                 st.subheader("📝 Generated Output")
 
-                # Editing block
+                # Editable text area
                 edited_text = st.text_area(
                     "Edit your content below:",
                     value=st.session_state.edited_output,
@@ -113,6 +118,7 @@ if submit and prompt:
                     st.session_state.edited_output = edited_text
                     st.session_state.redo_stack.clear()
 
+                # Undo / Redo / Save
                 col1, col2, col3 = st.columns([1, 1, 2])
                 with col1:
                     if st.button("↩️ Undo") and st.session_state.edit_history:
@@ -127,7 +133,7 @@ if submit and prompt:
                         st.session_state.saved_output = st.session_state.edited_output
                         st.success("✅ Edit saved!")
 
-                # ✅ Multi-format download buttons
+                # ✅ Download buttons
                 output_to_download = st.session_state.get("saved_output", st.session_state.edited_output)
                 st.subheader("📤 Download Output")
 
@@ -161,7 +167,7 @@ if submit and prompt:
                             mime=mime_type
                         )
 
-                # Show sources
+                # Source display
                 st.subheader("📚 Sources Used")
                 for s in sources:
                     st.markdown(f"**{s['title']}**  \n*{s['source']}*  \nScore: {s['score']:.2f}")
