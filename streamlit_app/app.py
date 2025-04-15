@@ -6,10 +6,9 @@ from pptx import Presentation
 from pptx.util import Inches
 from io import BytesIO
 
-# --- Streamlit App Layout ---
+# --- Streamlit Setup ---
 st.set_page_config(page_title="CAFBrain Generator", layout="centered")
 st.title("🧠 CAFBrain: Smart Document Generator")
-st.markdown("Generate, edit, save, and download grant proposals, blogs, social media posts, presentations, Canva visuals, and YouTube scripts.")
 
 # --- Export Helpers ---
 def generate_pdf(text: str) -> BytesIO:
@@ -19,8 +18,7 @@ def generate_pdf(text: str) -> BytesIO:
     pdf.set_font("Arial", size=12)
     for line in text.split("\n"):
         pdf.multi_cell(0, 10, line)
-    pdf_bytes = pdf.output(dest='S').encode('latin-1', errors='ignore')
-    return BytesIO(pdf_bytes)
+    return BytesIO(pdf.output(dest='S').encode('latin-1', errors='ignore'))
 
 def generate_txt(text: str) -> BytesIO:
     return BytesIO(text.encode('utf-8'))
@@ -65,13 +63,20 @@ content_type = format_options[selected_label]
 
 tone = st.selectbox("🎭 Tone", ["formal", "casual", "persuasive", "informative"], index=0)
 
-submit = st.button("🔍 Generate Content")
+# ✅ Move download format selection ABOVE the submit button
+selected_formats = st.multiselect(
+    "💾 Choose file formats to download",
+    ["PDF", "DOCX", "TXT", "PPTX"],
+    default=["PDF"]
+)
+
+# Trigger content generation
+submit = st.button("🚀 Generate Content")
 
 # --- Output Section ---
 if submit and prompt:
     with st.spinner("Generating content, please wait..."):
         api_url = "http://localhost:8000/generate"
-
         payload = {
             "query": prompt,
             "top_k": 5,
@@ -86,7 +91,7 @@ if submit and prompt:
                 generated_text = data["answer"]
                 sources = data["sources"]
 
-                # Initialize session state
+                # Initialize state
                 if "edited_output" not in st.session_state or st.session_state.edited_output != generated_text:
                     st.session_state.edited_output = generated_text
                     st.session_state.edit_history = [generated_text]
@@ -95,7 +100,7 @@ if submit and prompt:
 
                 st.subheader("📝 Generated Output")
 
-                # Editable text box
+                # Editing block
                 edited_text = st.text_area(
                     "Edit your content below:",
                     value=st.session_state.edited_output,
@@ -103,13 +108,11 @@ if submit and prompt:
                     key="editable_output"
                 )
 
-                # Track live edits
                 if edited_text != st.session_state.edited_output:
                     st.session_state.edit_history.append(st.session_state.edited_output)
                     st.session_state.edited_output = edited_text
                     st.session_state.redo_stack.clear()
 
-                # Undo/Redo/Save Buttons
                 col1, col2, col3 = st.columns([1, 1, 2])
                 with col1:
                     if st.button("↩️ Undo") and st.session_state.edit_history:
@@ -124,15 +127,11 @@ if submit and prompt:
                         st.session_state.saved_output = st.session_state.edited_output
                         st.success("✅ Edit saved!")
 
-                # --- Multi-format download options ---
-                selected_formats = st.multiselect(
-                    "📥 Choose one or more formats to download",
-                    ["PDF", "DOCX", "TXT", "PPTX"],
-                    default=["PDF"]
-                )
+                # ✅ Multi-format download buttons
+                output_to_download = st.session_state.get("saved_output", st.session_state.edited_output)
+                st.subheader("📤 Download Output")
 
                 for format in selected_formats:
-                    output_to_download = st.session_state.get("saved_output", st.session_state.edited_output)
                     file_data = None
                     file_name = "cafbrain_output"
                     mime_type = "application/octet-stream"
@@ -162,7 +161,7 @@ if submit and prompt:
                             mime=mime_type
                         )
 
-                # --- Source chunk display ---
+                # Show sources
                 st.subheader("📚 Sources Used")
                 for s in sources:
                     st.markdown(f"**{s['title']}**  \n*{s['source']}*  \nScore: {s['score']:.2f}")
