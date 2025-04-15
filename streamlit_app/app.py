@@ -21,6 +21,10 @@ if "saved_output" not in st.session_state:
     st.session_state.saved_output = ""
 if "sources" not in st.session_state:
     st.session_state.sources = []
+if "text_area_version" not in st.session_state:
+    st.session_state.text_area_version = 0
+if "show_uploader" not in st.session_state:
+    st.session_state.show_uploader = False
 
 # --- Export Helpers ---
 def generate_pdf(text: str) -> BytesIO:
@@ -78,7 +82,18 @@ content_type = format_options[selected_label]
 
 tone = st.selectbox("🎭 Tone", ["formal", "casual", "persuasive", "informative"], index=0)
 
-# ✅ Download formats (before submission)
+# --- Document Upload Section ---
+# The "+" button reveals the file uploader when clicked.
+if st.button("➕ Add Document"):
+    st.session_state.show_uploader = True
+
+if st.session_state.show_uploader:
+    uploaded_files = st.file_uploader("Upload your documents", accept_multiple_files=True)
+    if uploaded_files:
+        for file in uploaded_files:
+            st.write("Uploaded file:", file.name)
+
+# --- Download formats (before submission)
 selected_formats = st.multiselect(
     "💾 Choose file formats to download",
     ["PDF", "DOCX", "TXT", "PPTX"],
@@ -103,42 +118,68 @@ if submit and prompt:
                 data = response.json()
                 generated_text = data["answer"]
                 sources = data["sources"]
-                # Update session state only once per generation
+                # Store generated content and sources
                 st.session_state.edited_output = generated_text
                 st.session_state.edit_history = [generated_text]
                 st.session_state.redo_stack = []
                 st.session_state.saved_output = ""
                 st.session_state.sources = sources
+                st.session_state.text_area_version += 1  # update version when new content arrives
             else:
                 st.error(f"❌ Backend Error {response.status_code}: {response.text}")
         except Exception as e:
             st.error(f"⚠️ Request failed: {e}")
 
 # --- Editing and Display Section ---
-# This section is always displayed if there is generated content.
 if st.session_state.edited_output:
     st.subheader("📝 Generated Output")
-    # Use the current session state value as the default text.
-    edited_text = st.text_area("Edit your content below:", value=st.session_state.edited_output, height=300)
     
-    # Update session state if user changes the text
+    # Create a placeholder for the text area widget
+    text_area_placeholder = st.empty()
+    
+    # Render the text area with a dynamic key based on version
+    edited_text = text_area_placeholder.text_area(
+        "Edit your content below:",
+        key=f"edited_output_{st.session_state.text_area_version}",
+        value=st.session_state.edited_output,
+        height=300
+    )
+    
+    # Update session state if the user manually edits text
     if edited_text != st.session_state.edited_output:
         st.session_state.edit_history.append(st.session_state.edited_output)
         st.session_state.edited_output = edited_text
         st.session_state.redo_stack.clear()
     
+    # Render action buttons in columns
     col1, col2, col3 = st.columns(3)
     if col1.button("↩️ Undo") and st.session_state.edit_history:
         st.session_state.redo_stack.append(st.session_state.edited_output)
         st.session_state.edited_output = st.session_state.edit_history.pop()
+        st.session_state.text_area_version += 1  # update version for new key
+        text_area_placeholder.empty()  # clear the existing widget
+        text_area_placeholder.text_area(
+            "Edit your content below:",
+            key=f"edited_output_{st.session_state.text_area_version}",
+            value=st.session_state.edited_output,
+            height=300
+        )
     if col2.button("↪️ Redo") and st.session_state.redo_stack:
         st.session_state.edit_history.append(st.session_state.edited_output)
         st.session_state.edited_output = st.session_state.redo_stack.pop()
+        st.session_state.text_area_version += 1  # update version for new key
+        text_area_placeholder.empty()
+        text_area_placeholder.text_area(
+            "Edit your content below:",
+            key=f"edited_output_{st.session_state.text_area_version}",
+            value=st.session_state.edited_output,
+            height=300
+        )
     if col3.button("💾 Save Edit"):
         st.session_state.saved_output = st.session_state.edited_output
         st.success("✅ Edit saved!")
     
-    # Determine which text to download: saved edit takes precedence over unsaved edits.
+    # Determine the text to download: use saved output if available
     output_to_download = st.session_state.saved_output if st.session_state.saved_output else st.session_state.edited_output
 
     # --- Download Section ---
