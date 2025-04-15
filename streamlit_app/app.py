@@ -10,6 +10,18 @@ from io import BytesIO
 st.set_page_config(page_title="CAFBrain Generator", layout="centered")
 st.title("🧠 CAFBrain: Smart Document Generator")
 
+# --- Initialize Session State Variables ---
+if "edited_output" not in st.session_state:
+    st.session_state.edited_output = ""
+if "edit_history" not in st.session_state:
+    st.session_state.edit_history = []
+if "redo_stack" not in st.session_state:
+    st.session_state.redo_stack = []
+if "saved_output" not in st.session_state:
+    st.session_state.saved_output = ""
+if "sources" not in st.session_state:
+    st.session_state.sources = []
+
 # --- Export Helpers ---
 def generate_pdf(text: str) -> BytesIO:
     pdf = FPDF()
@@ -35,7 +47,6 @@ def generate_docx(text: str) -> BytesIO:
 def generate_ppt(text: str) -> BytesIO:
     prs = Presentation()
     blocks = text.strip().split("\n\n")
-
     for i, block in enumerate(blocks):
         lines = [line.strip() for line in block.split("\n") if line.strip()]
         if not lines:
@@ -46,7 +57,6 @@ def generate_ppt(text: str) -> BytesIO:
         slide.shapes.title.text = title.replace("Slide Title:", "").strip()
         bullets = "\n".join(line.strip("-• ") for line in lines[1:] or lines)
         slide.placeholders[1].text = bullets
-
     buffer = BytesIO()
     prs.save(buffer)
     buffer.seek(0)
@@ -68,17 +78,16 @@ content_type = format_options[selected_label]
 
 tone = st.selectbox("🎭 Tone", ["formal", "casual", "persuasive", "informative"], index=0)
 
-# ✅ Download formats BEFORE submission
+# ✅ Download formats (before submission)
 selected_formats = st.multiselect(
     "💾 Choose file formats to download",
     ["PDF", "DOCX", "TXT", "PPTX"],
     default=["PDF"]
 )
 
-# Trigger content generation
+# --- Generation Trigger ---
 submit = st.button("🚀 Generate Content")
 
-# --- Output Section ---
 if submit and prompt:
     with st.spinner("Generating content, please wait..."):
         api_url = "http://localhost:8000/generate"
@@ -88,92 +97,83 @@ if submit and prompt:
             "format": content_type,
             "tone": tone
         }
-
         try:
             response = requests.post(api_url, json=payload)
             if response.status_code == 200:
                 data = response.json()
                 generated_text = data["answer"]
                 sources = data["sources"]
-
-                # ✅ Prevent overwrite of edited text
-                if "edited_output" not in st.session_state:
-                    st.session_state.edited_output = generated_text
-                    st.session_state.edit_history = [generated_text]
-                    st.session_state.redo_stack = []
-                    st.session_state.saved_output = ""
-
-                st.subheader("📝 Generated Output")
-
-                # Editable text area
-                edited_text = st.text_area(
-                    "Edit your content below:",
-                    value=st.session_state.edited_output,
-                    height=300,
-                    key="editable_output"
-                )
-
-                if edited_text != st.session_state.edited_output:
-                    st.session_state.edit_history.append(st.session_state.edited_output)
-                    st.session_state.edited_output = edited_text
-                    st.session_state.redo_stack.clear()
-
-                # Undo / Redo / Save
-                col1, col2, col3 = st.columns([1, 1, 2])
-                with col1:
-                    if st.button("↩️ Undo") and st.session_state.edit_history:
-                        st.session_state.redo_stack.append(st.session_state.edited_output)
-                        st.session_state.edited_output = st.session_state.edit_history.pop()
-                with col2:
-                    if st.button("↪️ Redo") and st.session_state.redo_stack:
-                        st.session_state.edit_history.append(st.session_state.edited_output)
-                        st.session_state.edited_output = st.session_state.redo_stack.pop()
-                with col3:
-                    if st.button("💾 Save Edit"):
-                        st.session_state.saved_output = st.session_state.edited_output
-                        st.success("✅ Edit saved!")
-
-                # ✅ Download buttons
-                output_to_download = st.session_state.get("saved_output", st.session_state.edited_output)
-                st.subheader("📤 Download Output")
-
-                for format in selected_formats:
-                    file_data = None
-                    file_name = "cafbrain_output"
-                    mime_type = "application/octet-stream"
-
-                    if format == "PDF":
-                        file_data = generate_pdf(output_to_download)
-                        file_name += ".pdf"
-                        mime_type = "application/pdf"
-                    elif format == "DOCX":
-                        file_data = generate_docx(output_to_download)
-                        file_name += ".docx"
-                        mime_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-                    elif format == "TXT":
-                        file_data = generate_txt(output_to_download)
-                        file_name += ".txt"
-                        mime_type = "text/plain"
-                    elif format == "PPTX":
-                        file_data = generate_ppt(output_to_download)
-                        file_name += ".pptx"
-                        mime_type = "application/vnd.openxmlformats-officedocument.presentationml.presentation"
-
-                    if file_data:
-                        st.download_button(
-                            f"⬇️ Download {format}",
-                            data=file_data,
-                            file_name=file_name,
-                            mime=mime_type
-                        )
-
-                # Source display
-                st.subheader("📚 Sources Used")
-                for s in sources:
-                    st.markdown(f"**{s['title']}**  \n*{s['source']}*  \nScore: {s['score']:.2f}")
-                    st.caption(s["text"][:400] + "...")
-
+                # Update session state only once per generation
+                st.session_state.edited_output = generated_text
+                st.session_state.edit_history = [generated_text]
+                st.session_state.redo_stack = []
+                st.session_state.saved_output = ""
+                st.session_state.sources = sources
             else:
                 st.error(f"❌ Backend Error {response.status_code}: {response.text}")
         except Exception as e:
             st.error(f"⚠️ Request failed: {e}")
+
+# --- Editing and Display Section ---
+# This section is always displayed if there is generated content.
+if st.session_state.edited_output:
+    st.subheader("📝 Generated Output")
+    # Use the current session state value as the default text.
+    edited_text = st.text_area("Edit your content below:", value=st.session_state.edited_output, height=300)
+    
+    # Update session state if user changes the text
+    if edited_text != st.session_state.edited_output:
+        st.session_state.edit_history.append(st.session_state.edited_output)
+        st.session_state.edited_output = edited_text
+        st.session_state.redo_stack.clear()
+    
+    col1, col2, col3 = st.columns(3)
+    if col1.button("↩️ Undo") and st.session_state.edit_history:
+        st.session_state.redo_stack.append(st.session_state.edited_output)
+        st.session_state.edited_output = st.session_state.edit_history.pop()
+    if col2.button("↪️ Redo") and st.session_state.redo_stack:
+        st.session_state.edit_history.append(st.session_state.edited_output)
+        st.session_state.edited_output = st.session_state.redo_stack.pop()
+    if col3.button("💾 Save Edit"):
+        st.session_state.saved_output = st.session_state.edited_output
+        st.success("✅ Edit saved!")
+    
+    # Determine which text to download: saved edit takes precedence over unsaved edits.
+    output_to_download = st.session_state.saved_output if st.session_state.saved_output else st.session_state.edited_output
+
+    # --- Download Section ---
+    st.subheader("📤 Download Output")
+    for file_format in selected_formats:
+        file_data = None
+        file_name = "cafbrain_output"
+        mime_type = "application/octet-stream"
+        if file_format == "PDF":
+            file_data = generate_pdf(output_to_download)
+            file_name += ".pdf"
+            mime_type = "application/pdf"
+        elif file_format == "DOCX":
+            file_data = generate_docx(output_to_download)
+            file_name += ".docx"
+            mime_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        elif file_format == "TXT":
+            file_data = generate_txt(output_to_download)
+            file_name += ".txt"
+            mime_type = "text/plain"
+        elif file_format == "PPTX":
+            file_data = generate_ppt(output_to_download)
+            file_name += ".pptx"
+            mime_type = "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        if file_data:
+            st.download_button(
+                f"⬇️ Download {file_format}",
+                data=file_data,
+                file_name=file_name,
+                mime=mime_type
+            )
+    
+    # --- Sources Section ---
+    if st.session_state.sources:
+        st.subheader("📚 Sources Used")
+        for s in st.session_state.sources:
+            st.markdown(f"**{s['title']}**  \n*{s['source']}*  \nScore: {s['score']:.2f}")
+            st.caption(s["text"][:400] + "...")
