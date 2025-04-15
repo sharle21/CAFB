@@ -86,7 +86,7 @@ if submit and prompt:
                 generated_text = data["answer"]
                 sources = data["sources"]
 
-                # Initialize session state for undo/redo/save
+                # Initialize session state
                 if "edited_output" not in st.session_state or st.session_state.edited_output != generated_text:
                     st.session_state.edited_output = generated_text
                     st.session_state.edit_history = [generated_text]
@@ -95,16 +95,21 @@ if submit and prompt:
 
                 st.subheader("📝 Generated Output")
 
-                # Text area for editing
-                edited_text = st.text_area("Edit your content below:", value=st.session_state.edited_output, height=300, key="editable_output")
+                # Editable text box
+                edited_text = st.text_area(
+                    "Edit your content below:",
+                    value=st.session_state.edited_output,
+                    height=300,
+                    key="editable_output"
+                )
 
-                # Track live changes
+                # Track live edits
                 if edited_text != st.session_state.edited_output:
                     st.session_state.edit_history.append(st.session_state.edited_output)
                     st.session_state.edited_output = edited_text
                     st.session_state.redo_stack.clear()
 
-                # Buttons for undo/redo/save
+                # Undo/Redo/Save Buttons
                 col1, col2, col3 = st.columns([1, 1, 2])
                 with col1:
                     if st.button("↩️ Undo") and st.session_state.edit_history:
@@ -119,40 +124,45 @@ if submit and prompt:
                         st.session_state.saved_output = st.session_state.edited_output
                         st.success("✅ Edit saved!")
 
-                # Download options
-                download_format = st.selectbox("📥 Download Format", ["PDF", "DOCX", "TXT", "PPTX"])
+                # --- Multi-format download options ---
+                selected_formats = st.multiselect(
+                    "📥 Choose one or more formats to download",
+                    ["PDF", "DOCX", "TXT", "PPTX"],
+                    default=["PDF"]
+                )
 
-                output_to_download = st.session_state.get("saved_output", st.session_state.edited_output)
-                file_data = None
-                file_name = "cafbrain_output"
-                mime_type = "application/octet-stream"
+                for format in selected_formats:
+                    output_to_download = st.session_state.get("saved_output", st.session_state.edited_output)
+                    file_data = None
+                    file_name = "cafbrain_output"
+                    mime_type = "application/octet-stream"
 
-                if download_format == "PDF":
-                    file_data = generate_pdf(output_to_download)
-                    file_name += ".pdf"
-                    mime_type = "application/pdf"
-                elif download_format == "DOCX":
-                    file_data = generate_docx(output_to_download)
-                    file_name += ".docx"
-                    mime_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-                elif download_format == "TXT":
-                    file_data = generate_txt(output_to_download)
-                    file_name += ".txt"
-                    mime_type = "text/plain"
-                elif download_format == "PPTX":
-                    file_data = generate_ppt(output_to_download)
-                    file_name += ".pptx"
-                    mime_type = "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+                    if format == "PDF":
+                        file_data = generate_pdf(output_to_download)
+                        file_name += ".pdf"
+                        mime_type = "application/pdf"
+                    elif format == "DOCX":
+                        file_data = generate_docx(output_to_download)
+                        file_name += ".docx"
+                        mime_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                    elif format == "TXT":
+                        file_data = generate_txt(output_to_download)
+                        file_name += ".txt"
+                        mime_type = "text/plain"
+                    elif format == "PPTX":
+                        file_data = generate_ppt(output_to_download)
+                        file_name += ".pptx"
+                        mime_type = "application/vnd.openxmlformats-officedocument.presentationml.presentation"
 
-                if file_data:
-                    st.download_button(
-                        f"⬇️ Download {download_format}",
-                        data=file_data,
-                        file_name=file_name,
-                        mime=mime_type
-                    )
+                    if file_data:
+                        st.download_button(
+                            f"⬇️ Download {format}",
+                            data=file_data,
+                            file_name=file_name,
+                            mime=mime_type
+                        )
 
-                # Show source chunks
+                # --- Source chunk display ---
                 st.subheader("📚 Sources Used")
                 for s in sources:
                     st.markdown(f"**{s['title']}**  \n*{s['source']}*  \nScore: {s['score']:.2f}")
