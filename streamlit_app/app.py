@@ -93,20 +93,20 @@ if st.session_state.show_uploader:
     if uploaded_files:
         for file in uploaded_files:
             st.write("Uploaded file:", file.name)
-
             save_path = f"/Users/sharvari/Downloads/CAFB_Challenge/data/uploads/{file.name}"
             with open(save_path, "wb") as f:
                 f.write(file.getbuffer())
             st.success(f"✅ Saved {file.name} to {save_path}")
-
-# Run the update pipeline after upload
-    with st.spinner("Processing new documents..."):
-        result = os.system("/Users/sharvari/Downloads/CAFB_Challenge/code/update_pipeline.py")
-        if result == 0:
-            st.success("✅ Documents processed successfully.")
-        else:
-            st.warning("⚠️ Document processing may have failed. Check console for errors.")
-
+        
+        # Run the update pipeline only if files were uploaded
+        with st.spinner("Processing new documents..."):
+            result = os.system("/Users/sharvari/Downloads/CAFB_Challenge/code/update_pipeline.py")
+            if result == 0:
+                st.success("✅ Documents processed successfully.")
+            else:
+                st.warning("⚠️ Document processing may have failed. Check console for errors.")
+    else:
+        st.info("No files uploaded yet.")
 
 # --- Download formats (before submission)
 selected_formats = st.multiselect(
