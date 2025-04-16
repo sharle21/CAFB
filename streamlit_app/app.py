@@ -29,13 +29,31 @@ if "show_uploader" not in st.session_state:
 
 # --- Export Helpers ---
 def generate_pdf(text: str) -> BytesIO:
+    # Clean the text to replace Unicode “smart” characters with ASCII equivalents.
+    def clean_text(t: str) -> str:
+        replacements = {
+            "\u2018": "'",  # Left single quotation mark
+            "\u2019": "'",  # Right single quotation mark
+            "\u201c": '"',  # Left double quotation mark
+            "\u201d": '"',  # Right double quotation mark
+            "\u2013": "-",  # En dash
+            "\u2014": "-",  # Em dash
+        }
+        for old, new in replacements.items():
+            t = t.replace(old, new)
+        return t
+
+    text = clean_text(text)
+    
     pdf = FPDF()
     pdf.add_page()
     pdf.set_auto_page_break(auto=True, margin=15)
     pdf.set_font("Arial", size=12)
     for line in text.split("\n"):
         pdf.multi_cell(0, 10, line)
-    return BytesIO(pdf.output(dest='S').encode('latin-1', errors='ignore'))
+    # Use errors='ignore' or 'replace' to handle any remaining problematic characters
+    pdf_bytes = pdf.output(dest='S').encode('latin-1', errors='ignore')
+    return BytesIO(pdf_bytes)
 
 def generate_txt(text: str) -> BytesIO:
     return BytesIO(text.encode('utf-8'))
@@ -57,9 +75,10 @@ def generate_ppt(text: str) -> BytesIO:
         if not lines:
             continue
         slide = prs.slides.add_slide(prs.slide_layouts[1])
-        # Use title from line 1 or generate default
+        # Use title from line 1 or generate default if no colon is found
         title = lines[0] if ":" in lines[0] else f"Slide {i+1}"
         slide.shapes.title.text = title.replace("Slide Title:", "").strip()
+        # Use remaining lines as slide content
         bullets = "\n".join(line.strip("-• ") for line in lines[1:] or lines)
         slide.placeholders[1].text = bullets
     buffer = BytesIO()
