@@ -67,7 +67,7 @@ python embeddings/embed_media_chunks.py
 Launch the FastAPI server:
 
 ```bash
-uvicorn app.backend:app --reload
+uvicorn api_server:app --reload
 ```
 
 This powers the retrieval and content generation logic.
