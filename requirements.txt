@@ -1,0 +1,13 @@
+dotenv
+faiss
+fastapi
+numpy
+openai
+requests
+streamlit
+tqdm
+fpdf
+python pptx
+python docx
+tiktoken
+ollama
