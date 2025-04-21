@@ -1,3 +1,6 @@
+#The project was part of a submission to Capital Area Food Bank Challenge along with @Anagha-0010
+
+
 # 🧠 CAFBrain: AI Assistant for Content Generation
 
 CAFBrain is a Retrieval-Augmented Generation (RAG) system designed to help the Capital Area Food Bank (CAFB) automatically generate high-quality content like grant proposals, blog posts, social media captions, and PowerPoint slides using internal documents as source material.
